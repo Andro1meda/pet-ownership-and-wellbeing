@@ -1,0 +1,2831 @@
+PostcodeDistrict,EstimatedDogPopulation,Area Name,District
+AB10,"1,921.75",Aberdeen,Scotland
+AB11,"2,377.35",Aberdeen,Scotland
+AB12,"4,130.35",Aberdeen,Scotland
+AB13,"1,323.24",Aberdeen,Scotland
+AB14,"2,666.50",Aberdeen,Scotland
+AB15,"10,062.23",Aberdeen,Scotland
+AB16,"6,495.69",Aberdeen,Scotland
+AB21,"6,226.34",Aberdeen,Scotland
+AB22,"2,236.84",Aberdeen,Scotland
+AB23,"1,255.46",Aberdeen,Scotland
+AB24,"2,286.94",Aberdeen,Scotland
+AB25,975.9487636,Aberdeen,Scotland
+AB30,"4,845.81",Aberdeen,Scotland
+AB31,"4,542.91",Aberdeen,Scotland
+AB32,"1,058.86",Aberdeen,Scotland
+AB33,"2,248.71",Aberdeen,Scotland
+AB34,"2,502.77",Aberdeen,Scotland
+AB35,858.8343469,Aberdeen,Scotland
+AB36,227.9865774,Aberdeen,Scotland
+AB37,924.1709029,Aberdeen,Scotland
+AB38,"2,870.99",Aberdeen,Scotland
+AB39,"5,622.39",Aberdeen,Scotland
+AB41,"8,552.49",Aberdeen,Scotland
+AB42,"11,446.46",Aberdeen,Scotland
+AB43,"10,414.48",Aberdeen,Scotland
+AB44,"2,761.73",Aberdeen,Scotland
+AB45,"3,683.02",Aberdeen,Scotland
+AB51,"14,570.64",Aberdeen,Scotland
+AB52,"4,914.42",Aberdeen,Scotland
+AB53,"10,471.22",Aberdeen,Scotland
+AB54,"3,080.71",Aberdeen,Scotland
+AB55,"4,813.52",Aberdeen,Scotland
+AB56,994.184212,Aberdeen,Scotland
+AL1,"2,947.95",St. Albans,East of England
+AL10,"4,618.42",St. Albans,East of England
+AL2,"8,474.91",St. Albans,East of England
+AL3,"4,657.89",St. Albans,East of England
+AL4,"3,543.41",St. Albans,East of England
+AL5,"5,093.80",St. Albans,East of England
+AL6,"4,767.78",St. Albans,East of England
+AL7,"5,338.97",St. Albans,East of England
+AL8,"3,162.90",St. Albans,East of England
+AL9,"6,759.17",St. Albans,East of England
+B1,491.4494247,Birmingham,West Midlands
+B10,660.3877884,Birmingham,West Midlands
+B11,"1,656.02",Birmingham,West Midlands
+B12,697.1300221,Birmingham,West Midlands
+B13,"1,835.91",Birmingham,West Midlands
+B14,"3,289.50",Birmingham,West Midlands
+B15,978.4633011,Birmingham,West Midlands
+B16,"1,166.88",Birmingham,West Midlands
+B17,"2,115.73",Birmingham,West Midlands
+B18,778.2985062,Birmingham,West Midlands
+B19,304.2854407,Birmingham,West Midlands
+B2,101.5183154,Birmingham,West Midlands
+B20,580.5307297,Birmingham,West Midlands
+B21,583.2032814,Birmingham,West Midlands
+B23,"2,824.52",Birmingham,West Midlands
+B24,"2,084.11",Birmingham,West Midlands
+B25,"1,167.53",Birmingham,West Midlands
+B26,"2,269.27",Birmingham,West Midlands
+B27,"3,555.85",Birmingham,West Midlands
+B28,"2,624.60",Birmingham,West Midlands
+B29,"2,039.23",Birmingham,West Midlands
+B3,151.1562956,Birmingham,West Midlands
+B30,"1,806.81",Birmingham,West Midlands
+B31,"4,430.13",Birmingham,West Midlands
+B32,"2,605.95",Birmingham,West Midlands
+B33,"2,312.56",Birmingham,West Midlands
+B34,"1,148.70",Birmingham,West Midlands
+B35,857.4911811,Birmingham,West Midlands
+B36,"2,236.69",Birmingham,West Midlands
+B37,"4,610.14",Birmingham,West Midlands
+B38,"1,576.69",Birmingham,West Midlands
+B4,73.36282433,Birmingham,West Midlands
+B40,10.68923162,Birmingham,West Midlands
+B42,"1,498.00",Birmingham,West Midlands
+B43,"3,651.40",Birmingham,West Midlands
+B44,"3,471.78",Birmingham,West Midlands
+B45,"3,609.75",Birmingham,West Midlands
+B46,"4,257.61",Birmingham,West Midlands
+B47,"2,847.29",Birmingham,West Midlands
+B48,"1,663.00",Birmingham,West Midlands
+B49,"2,812.61",Birmingham,West Midlands
+B5,503.6620122,Birmingham,West Midlands
+B50,"1,462.05",Birmingham,West Midlands
+B6,271.4244318,Birmingham,West Midlands
+B60,"5,029.56",Birmingham,West Midlands
+B61,"4,900.13",Birmingham,West Midlands
+B62,"3,249.17",Birmingham,West Midlands
+B63,"4,000.49",Birmingham,West Midlands
+B64,"1,683.63",Birmingham,West Midlands
+B65,"3,556.48",Birmingham,West Midlands
+B66,"1,290.26",Birmingham,West Midlands
+B67,"1,648.65",Birmingham,West Midlands
+B68,"2,383.01",Birmingham,West Midlands
+B69,"3,167.06",Birmingham,West Midlands
+B7,244.1815948,Birmingham,West Midlands
+B70,"1,638.65",Birmingham,West Midlands
+B71,"2,447.28",Birmingham,West Midlands
+B72,650.8723414,Birmingham,West Midlands
+B73,"1,985.17",Birmingham,West Midlands
+B74,"3,892.32",Birmingham,West Midlands
+B75,"2,026.70",Birmingham,West Midlands
+B76,"1,485.94",Birmingham,West Midlands
+B77,"4,479.95",Birmingham,West Midlands
+B78,"4,691.47",Birmingham,West Midlands
+B79,"4,766.39",Birmingham,West Midlands
+B8,902.3651019,Birmingham,West Midlands
+B80,"1,169.07",Birmingham,West Midlands
+B9,810.5404215,Birmingham,West Midlands
+B90,"11,614.33",Birmingham,West Midlands
+B91,"10,038.41",Birmingham,West Midlands
+B92,"7,426.32",Birmingham,West Midlands
+B93,"3,151.90",Birmingham,West Midlands
+B94,"1,998.21",Birmingham,West Midlands
+B95,891.5870802,Birmingham,West Midlands
+B96,"1,902.01",Birmingham,West Midlands
+B97,"5,993.60",Birmingham,West Midlands
+B98,"3,984.27",Birmingham,West Midlands
+BA1,"8,100.73",Bath,South West England
+BA10,"1,389.86",Bath,South West England
+BA11,"13,325.50",Bath,South West England
+BA12,"12,993.63",Bath,South West England
+BA13,"3,283.76",Bath,South West England
+BA14,"5,278.78",Bath,South West England
+BA15,"2,630.13",Bath,South West England
+BA16,"1,652.22",Bath,South West England
+BA2,"19,949.67",Bath,South West England
+BA20,"1,933.54",Bath,South West England
+BA21,"5,834.77",Bath,South West England
+BA22,"7,669.39",Bath,South West England
+BA3,"9,195.84",Bath,South West England
+BA4,"8,521.43",Bath,South West England
+BA5,"6,098.13",Bath,South West England
+BA6,"4,790.25",Bath,South West England
+BA7,"4,599.05",Bath,South West England
+BA8,"1,539.66",Bath,South West England
+BA9,"4,324.25",Bath,South West England
+BB1,"8,374.44",Blackburn,North West England 
+BB10,"2,499.19",Blackburn,North West England 
+BB11,"2,587.92",Blackburn,North West England 
+BB12,"4,085.14",Blackburn,North West England 
+BB18,"5,911.52",Blackburn,North West England 
+BB2,"10,801.35",Blackburn,North West England 
+BB3,"5,902.77",Blackburn,North West England 
+BB4,"5,083.52",Blackburn,North West England 
+BB5,"4,816.82",Blackburn,North West England 
+BB6,"3,174.51",Blackburn,North West England 
+AB99,0,Aberdeen,
+B99,0,Birmingham,
+BB7,"9,303.07",Blackburn,North West England 
+BB8,"7,731.11",Blackburn,North West England 
+BB9,"10,069.18",Blackburn,North West England 
+BD1,340.8418253,Bradford,Yorkshire and Humberside
+BD10,"5,155.70",Bradford,Yorkshire and Humberside
+BD11,"5,737.08",Bradford,Yorkshire and Humberside
+BD12,"1,454.78",Bradford,Yorkshire and Humberside
+BD13,"1,428.64",Bradford,Yorkshire and Humberside
+BD14,412.178355,Bradford,Yorkshire and Humberside
+BD15,"1,495.41",Bradford,Yorkshire and Humberside
+BD16,"3,674.61",Bradford,Yorkshire and Humberside
+BD17,"4,119.92",Bradford,Yorkshire and Humberside
+BD18,"7,770.49",Bradford,Yorkshire and Humberside
+BD19,"4,191.30",Bradford,Yorkshire and Humberside
+BD2,"4,882.08",Bradford,Yorkshire and Humberside
+BD20,"19,868.19",Bradford,Yorkshire and Humberside
+BD21,"5,651.72",Bradford,Yorkshire and Humberside
+BD22,"2,666.08",Bradford,Yorkshire and Humberside
+BD23,"12,719.03",Bradford,Yorkshire and Humberside
+BD24,"5,555.38",Bradford,Yorkshire and Humberside
+BD3,"4,573.46",Bradford,Yorkshire and Humberside
+BD4,"5,736.46",Bradford,Yorkshire and Humberside
+BD5,"1,352.89",Bradford,Yorkshire and Humberside
+BD6,"1,475.17",Bradford,Yorkshire and Humberside
+BD7,"1,411.51",Bradford,Yorkshire and Humberside
+BD8,"1,875.57",Bradford,Yorkshire and Humberside
+BD9,"2,362.97",Bradford,Yorkshire and Humberside
+BH1,"2,743.72",Bournemouth,South West England
+BH10,"3,033.42",Bournemouth,South West England
+BH11,"2,612.05",Bournemouth,South West England
+BH12,"4,168.64",Bournemouth,South West England
+BH13,"1,134.58",Bournemouth,South West England
+BH14,"3,643.67",Bournemouth,South West England
+BH15,"4,512.47",Bournemouth,South West England
+BH16,"1,945.63",Bournemouth,South West England
+BH17,"3,229.73",Bournemouth,South West England
+BH18,"2,092.34",Bournemouth,South West England
+BH19,"2,308.29",Bournemouth,South West England
+BH2,"1,278.03",Bournemouth,South West England
+BH20,"10,320.26",Bournemouth,South West England
+BH21,"18,384.10",Bournemouth,South West England
+BH22,"4,962.60",Bournemouth,South West England
+BH23,"12,847.20",Bournemouth,South West England
+BH24,"14,611.96",Bournemouth,South West England
+BH25,"5,600.92",Bournemouth,South West England
+BH3,"1,158.00",Bournemouth,South West England
+BH31,"5,255.71",Bournemouth,South West England
+BH4,980.3027915,Bournemouth,South West England
+BH5,"1,158.65",Bournemouth,South West England
+BH6,"2,430.88",Bournemouth,South West England
+BH7,"1,136.21",Bournemouth,South West England
+BH8,"3,300.94",Bournemouth,South West England
+BH9,"4,203.43",Bournemouth,South West England
+BL0,"1,504.05",Bolton,North West England 
+BL1,"5,082.14",Bolton,North West England 
+BL2,"7,801.41",Bolton,North West England 
+BL3,"4,380.34",Bolton,North West England 
+BL4,"2,711.12",Bolton,North West England 
+BL5,"3,571.37",Bolton,North West England 
+BL6,"5,409.12",Bolton,North West England 
+BL7,"1,719.43",Bolton,North West England 
+BL8,"5,225.99",Bolton,North West England 
+BL9,"7,740.97",Bolton,North West England 
+BN1,"14,868.11",Brighton,South East England
+BN10,"3,629.55",Brighton,South East England
+BN11,"7,827.86",Brighton,South East England
+BN12,"3,902.50",Brighton,South East England
+BN13,"8,503.77",Brighton,South East England
+BN14,"13,471.21",Brighton,South East England
+BN15,"7,920.31",Brighton,South East England
+BN16,"9,997.28",Brighton,South East England
+BN17,"4,278.95",Brighton,South East England
+BN18,"4,002.67",Brighton,South East England
+BN2,"16,098.55",Brighton,South East England
+BN20,"8,106.42",Brighton,South East England
+BN21,"3,030.42",Brighton,South East England
+BN22,"5,409.66",Brighton,South East England
+BN23,"7,426.06",Brighton,South East England
+BN24,"2,262.05",Brighton,South East England
+BN25,"4,928.32",Brighton,South East England
+BN26,"3,363.59",Brighton,South East England
+BN27,"5,235.09",Brighton,South East England
+BN3,"9,560.39",Brighton,South East England
+BN41,"3,371.03",Brighton,South East England
+BN42,"3,178.73",Brighton,South East England
+BN43,"8,628.95",Brighton,South East England
+BN44,"3,288.63",Brighton,South East England
+BN45,497.6597829,Brighton,South East England
+BN5,"2,444.26",Brighton,South East England
+BN6,"2,898.39",Brighton,South East England
+BN7,"5,678.22",Brighton,South East England
+BN8,"7,600.20",Brighton,South East England
+BN9,"2,776.21",Brighton,South East England
+BR1,"4,142.38",Bromley,Greater London
+BR2,"2,920.38",Bromley,Greater London
+BR3,"2,794.70",Bromley,Greater London
+BR4,"1,025.60",Bromley,Greater London
+BR5,"5,137.34",Bromley,Greater London
+BR6,"6,243.92",Bromley,Greater London
+BR7,"1,331.94",Bromley,Greater London
+BR8,"2,614.18",Bromley,Greater London
+BS1,"2,534.05",Bristol,South West England
+BS10,"3,541.88",Bristol,South West England
+BS11,"2,559.11",Bristol,South West England
+BS13,"4,754.57",Bristol,South West England
+BS14,"11,704.02",Bristol,South West England
+BS15,"6,685.95",Bristol,South West England
+BS16,"11,792.61",Bristol,South West England
+BS2,"2,987.46",Bristol,South West England
+BS20,"9,332.92",Bristol,South West England
+BS21,"4,035.10",Bristol,South West England
+BS22,"7,134.93",Bristol,South West England
+BS23,"8,096.33",Bristol,South West England
+BS24,"5,211.09",Bristol,South West England
+BS25,"2,759.34",Bristol,South West England
+BS26,"2,134.22",Bristol,South West England
+BS27,"5,256.89",Bristol,South West England
+BS28,"4,626.94",Bristol,South West England
+BS29,623.3794431,Bristol,South West England
+BS3,"5,680.87",Bristol,South West England
+BS30,"6,193.66",Bristol,South West England
+BS31,"2,957.45",Bristol,South West England
+BS32,"5,618.76",Bristol,South West England
+BS34,"5,026.89",Bristol,South West England
+BS35,"3,533.71",Bristol,South West England
+BS36,"2,888.13",Bristol,South West England
+BS37,"3,827.88",Bristol,South West England
+BS39,"4,479.21",Bristol,South West England
+BS4,"14,861.76",Bristol,South West England
+BS40,"13,218.97",Bristol,South West England
+BS41,"1,067.12",Bristol,South West England
+BS48,"8,816.65",Bristol,South West England
+BS49,"2,649.47",Bristol,South West England
+BS5,"7,071.51",Bristol,South West England
+BS6,"3,590.61",Bristol,South West England
+BS7,"3,955.03",Bristol,South West England
+BS8,"3,114.39",Bristol,South West England
+BS9,"3,259.61",Bristol,South West England
+CA1,"8,155.66",Carlisle,North West England 
+CA10,"8,427.84",Carlisle,North West England 
+BB94,0,Blackburn,
+BD97,0,Bradford,
+BD98,0,Bradford,
+BD99,0,Bradford,
+BL11,0,Bolton,
+BL78,0,Bolton,
+BN50,0,Brighton,
+BN88,0,Brighton,
+BN99,0,Brighton,
+BS98,0,Bristol,
+BS99,0,Bristol,
+CA11,"9,816.55",Carlisle,North West England 
+CA12,"4,466.16",Carlisle,North West England 
+CA13,"5,388.99",Carlisle,North West England 
+CA14,"6,954.68",Carlisle,North West England 
+CA15,"2,508.06",Carlisle,North West England 
+CA16,"2,874.52",Carlisle,North West England 
+CA17,"3,233.16",Carlisle,North West England 
+CA18,172.5423619,Carlisle,North West England 
+CA19,609.6464311,Carlisle,North West England 
+CA2,"7,015.15",Carlisle,North West England 
+CA20,"1,320.13",Carlisle,North West England 
+CA21,311.0342951,Carlisle,North West England 
+CA22,"3,671.38",Carlisle,North West England 
+CA23,561.3777522,Carlisle,North West England 
+CA24,289.616917,Carlisle,North West England 
+CA25,"1,744.29",Carlisle,North West England 
+CA26,"1,045.42",Carlisle,North West England 
+CA27,594.6663863,Carlisle,North West England 
+CA28,"5,238.92",Carlisle,North West England 
+CA3,"8,451.37",Carlisle,North West England 
+CA4,"6,317.91",Carlisle,North West England 
+CA5,"5,455.17",Carlisle,North West England 
+CA6,"9,220.62",Carlisle,North West England 
+CA7,"9,178.34",Carlisle,North West England 
+CA8,"7,827.03",Carlisle,North West England 
+CA9,"2,087.14",Carlisle,North West England 
+CB1,"8,050.78",Cambridge,East of England
+CB10,"4,128.74",Cambridge,East of England
+CB11,"4,619.90",Cambridge,East of England
+CB2,"1,968.84",Cambridge,East of England
+CB21,"8,213.80",Cambridge,East of England
+CB22,"4,616.52",Cambridge,East of England
+CB23,"12,676.37",Cambridge,East of England
+CB24,"11,428.66",Cambridge,East of England
+CB25,"7,515.39",Cambridge,East of England
+CB3,"6,919.73",Cambridge,East of England
+CB4,"7,520.93",Cambridge,East of England
+CB5,"7,312.05",Cambridge,East of England
+CB6,"5,532.09",Cambridge,East of England
+CB7,"4,827.96",Cambridge,East of England
+CB8,"27,001.27",Cambridge,East of England
+CB9,"5,214.75",Cambridge,East of England
+CF10,"1,085.55",Cardiff,Wales
+CF11,"3,288.68",Cardiff,Wales
+CF14,"13,918.97",Cardiff,Wales
+CF15,"2,693.57",Cardiff,Wales
+CF23,"6,449.55",Cardiff,Wales
+CF24,"3,439.15",Cardiff,Wales
+CF3,"4,745.80",Cardiff,Wales
+CF31,"11,435.12",Cardiff,Wales
+CF32,"3,597.08",Cardiff,Wales
+CF33,"3,180.95",Cardiff,Wales
+CF34,"4,697.90",Cardiff,Wales
+CF35,"3,805.10",Cardiff,Wales
+CF36,"4,740.72",Cardiff,Wales
+CF37,"2,510.27",Cardiff,Wales
+CF38,"1,776.09",Cardiff,Wales
+CF39,"1,779.88",Cardiff,Wales
+CF40,752.722313,Cardiff,Wales
+CF41,363.171446,Cardiff,Wales
+CF42,429.6096951,Cardiff,Wales
+CF43,908.483622,Cardiff,Wales
+CF44,"1,963.87",Cardiff,Wales
+CF45,"4,175.39",Cardiff,Wales
+CF46,"1,306.53",Cardiff,Wales
+CF47,"4,306.83",Cardiff,Wales
+CF48,"4,883.61",Cardiff,Wales
+CF5,"11,276.49",Cardiff,Wales
+CF61,"1,581.83",Cardiff,Wales
+CF62,"4,499.66",Cardiff,Wales
+CF63,"2,182.62",Cardiff,Wales
+CF64,"3,579.95",Cardiff,Wales
+CF71,"1,951.35",Cardiff,Wales
+CF72,"6,162.60",Cardiff,Wales
+CF81,"1,804.16",Cardiff,Wales
+CF82,"1,918.31",Cardiff,Wales
+CF83,"6,968.74",Cardiff,Wales
+CH1,"6,298.01",Chester,North West England 
+CH2,"10,588.64",Chester,North West England 
+CH3,"9,154.74",Chester,North West England 
+CH4,"9,508.75",Chester,North West England 
+CH41,"2,226.11",Chester,North West England 
+CH42,"4,829.53",Chester,North West England 
+CH43,"4,527.30",Chester,North West England 
+CH44,"4,180.13",Chester,North West England 
+CH45,"5,346.12",Chester,North West England 
+CH46,"3,319.88",Chester,North West England 
+CH47,"3,073.28",Chester,North West England 
+CH48,"3,203.50",Chester,North West England 
+CH49,"4,407.30",Chester,North West England 
+CH5,"22,068.61",Chester,North West England 
+CH6,"5,059.73",Chester,North West England 
+CH60,"5,282.55",Chester,North West England 
+CH61,"5,129.26",Chester,North West England 
+CH62,"2,345.14",Chester,North West England 
+CH63,"5,875.26",Chester,North West England 
+CH64,"11,749.05",Chester,North West England 
+CH65,"3,124.24",Chester,North West England 
+CH66,"10,202.84",Chester,North West England 
+CH7,"18,775.56",Chester,North West England 
+CH8,"12,416.10",Chester,North West England 
+CM0,"5,367.35",Chelmsford,East of England
+CM1,"8,620.94",Chelmsford,East of England
+CM11,"1,943.48",Chelmsford,East of England
+CM12,"3,159.56",Chelmsford,East of England
+CM13,"4,145.68",Chelmsford,East of England
+CM14,"1,499.32",Chelmsford,East of England
+CM15,"4,708.75",Chelmsford,East of England
+CM16,"7,070.98",Chelmsford,East of England
+CM17,"3,111.79",Chelmsford,East of England
+CM18,928.9620364,Chelmsford,East of England
+CM19,"1,930.17",Chelmsford,East of England
+CM2,"12,993.42",Chelmsford,East of England
+CM20,"6,489.99",Chelmsford,East of England
+CM21,"4,024.52",Chelmsford,East of England
+CM22,"3,887.75",Chelmsford,East of England
+CM23,"11,216.60",Chelmsford,East of England
+CM24,"2,953.57",Chelmsford,East of England
+CM3,"11,655.36",Chelmsford,East of England
+CM4,"3,886.39",Chelmsford,East of England
+CM5,"4,433.72",Chelmsford,East of England
+CM6,"8,248.15",Chelmsford,East of England
+CM7,"7,382.45",Chelmsford,East of England
+CM77,"3,272.32",Chelmsford,East of England
+CM8,"5,472.67",Chelmsford,East of England
+CM9,"11,108.29",Chelmsford,East of England
+CO1,"5,148.92",Colchester,East of England
+CO10,"12,376.63",Colchester,East of England
+CO11,"1,431.64",Colchester,East of England
+CO12,"3,070.72",Colchester,East of England
+CO13,654.9926244,Colchester,East of England
+CO14,330.3624197,Colchester,East of England
+CO15,"4,313.13",Colchester,East of England
+CO16,"4,249.74",Colchester,East of England
+CO2,"5,965.20",Colchester,East of England
+CO3,"4,207.70",Colchester,East of England
+CO4,"6,974.92",Colchester,East of England
+CO5,"9,387.11",Colchester,East of England
+CO6,"7,910.28",Colchester,East of England
+CO7,"7,502.16",Colchester,East of England
+CO8,"1,831.79",Colchester,East of England
+CO9,"8,967.49",Colchester,East of England
+CR0,"9,023.52",Croydon,Greater London
+CR2,"3,792.03",Croydon,Greater London
+CR3,"9,790.48",Croydon,Greater London
+CR4,"3,345.29",Croydon,Greater London
+CR5,"4,731.00",Croydon,Greater London
+CR6,819.0295212,Croydon,Greater London
+CR7,841.0464617,Croydon,Greater London
+CR8,"2,142.55",Croydon,Greater London
+CT1,"6,941.16",Canterbury,South East England
+CT10,"2,502.44",Canterbury,South East England
+CT11,"1,905.89",Canterbury,South East England
+CT12,"3,813.40",Canterbury,South East England
+CT13,"2,874.56",Canterbury,South East England
+CT14,"11,910.74",Canterbury,South East England
+CT15,"3,981.57",Canterbury,South East England
+CT16,"6,660.07",Canterbury,South East England
+CT17,"5,270.21",Canterbury,South East England
+CT18,"2,339.53",Canterbury,South East England
+CT19,"7,266.91",Canterbury,South East England
+CT2,"2,622.34",Canterbury,South East England
+CT20,"4,795.67",Canterbury,South East England
+CT21,"2,107.68",Canterbury,South East England
+CT3,"6,794.52",Canterbury,South East England
+CT4,"4,340.29",Canterbury,South East England
+CT5,"9,455.73",Canterbury,South East England
+CT6,"13,508.33",Canterbury,South East England
+CT7,"2,507.15",Canterbury,South East England
+CT8,"1,304.91",Canterbury,South East England
+CT9,"5,802.41",Canterbury,South East England
+CV1,"2,548.92",Coventry,West Midlands
+CV10,"5,397.24",Coventry,West Midlands
+CV11,"6,873.36",Coventry,West Midlands
+CV12,"2,237.18",Coventry,West Midlands
+CV13,"1,677.81",Coventry,West Midlands
+CV2,"3,502.50",Coventry,West Midlands
+CV21,"6,153.93",Coventry,West Midlands
+CV22,"6,344.48",Coventry,West Midlands
+CV23,"3,795.71",Coventry,West Midlands
+CV3,"5,127.13",Coventry,West Midlands
+CV31,"5,990.45",Coventry,West Midlands
+CV32,"10,236.06",Coventry,West Midlands
+CV33,"2,187.67",Coventry,West Midlands
+CV34,"4,777.06",Coventry,West Midlands
+CV35,"6,526.58",Coventry,West Midlands
+CV36,"3,185.90",Coventry,West Midlands
+CV37,"10,280.23",Coventry,West Midlands
+CV4,"6,856.11",Coventry,West Midlands
+CV47,"4,270.13",Coventry,West Midlands
+CV5,"7,777.69",Coventry,West Midlands
+CV6,"9,323.88",Coventry,West Midlands
+CV7,"7,035.12",Coventry,West Midlands
+CV8,"7,448.21",Coventry,West Midlands
+CV9,"6,627.43",Coventry,West Midlands
+CW1,"11,984.32",Crewe,North West England 
+CW10,"1,786.86",Crewe,North West England 
+CW11,"5,413.97",Crewe,North West England 
+CW12,"16,378.70",Crewe,North West England 
+CW2,"5,982.54",Crewe,North West England 
+CW3,"2,178.70",Crewe,North West England 
+CW4,"2,827.66",Crewe,North West England 
+CW5,"14,301.84",Crewe,North West England 
+CW6,"4,801.06",Crewe,North West England 
+CW7,"5,017.55",Crewe,North West England 
+CW8,"3,031.65",Crewe,North West England 
+CW9,"3,883.77",Crewe,North West England 
+DA1,"6,373.50",Dartford,Greater London
+DA10,851.2306987,Dartford,Greater London
+DA11,"6,670.92",Dartford,Greater London
+DA12,"1,464.66",Dartford,Greater London
+DA13,"4,933.02",Dartford,Greater London
+DA14,"8,280.24",Dartford,Greater London
+DA15,"2,257.06",Dartford,Greater London
+DA16,"2,148.88",Dartford,Greater London
+DA17,"1,013.95",Dartford,Greater London
+DA18,263.653455,Dartford,Greater London
+DA2,"3,087.22",Dartford,Greater London
+DA3,"6,950.32",Dartford,Greater London
+DA4,"2,136.57",Dartford,Greater London
+DA5,"2,584.91",Dartford,Greater London
+DA6,891.6013526,Dartford,Greater London
+DA7,"2,332.13",Dartford,Greater London
+DA8,"1,827.82",Dartford,Greater London
+DA9,"1,509.92",Dartford,Greater London
+DD1,834.1299928,Dundee,Scotland
+DD10,"10,188.13",Dundee,Scotland
+DD11,"4,270.08",Dundee,Scotland
+DD2,"6,050.44",Dundee,Scotland
+DD3,"4,678.29",Dundee,Scotland
+DD4,"5,863.06",Dundee,Scotland
+DD5,"11,592.93",Dundee,Scotland
+DD6,"2,943.05",Dundee,Scotland
+DD7,"4,007.08",Dundee,Scotland
+DD8,"11,034.05",Dundee,Scotland
+DD9,"1,953.28",Dundee,Scotland
+DE1,"6,789.23",Derby,East Midlands
+DE11,"5,506.53",Derby,East Midlands
+DE12,"3,063.06",Derby,East Midlands
+DE13,"18,447.08",Derby,East Midlands
+DE14,"8,501.47",Derby,East Midlands
+DE15,"7,384.59",Derby,East Midlands
+DE21,"9,651.14",Derby,East Midlands
+DE22,"4,970.38",Derby,East Midlands
+DE23,"7,773.42",Derby,East Midlands
+DE24,"7,918.63",Derby,East Midlands
+DE3,"5,361.11",Derby,East Midlands
+DE4,"15,620.19",Derby,East Midlands
+DE45,"3,731.12",Derby,East Midlands
+DE5,"7,327.55",Derby,East Midlands
+DE55,"7,579.84",Derby,East Midlands
+DE56,"13,466.41",Derby,East Midlands
+DE6,"9,686.08",Derby,East Midlands
+DE65,"12,845.38",Derby,East Midlands
+DE7,"7,923.91",Derby,East Midlands
+DE72,"1,690.93",Derby,East Midlands
+DE73,"1,523.66",Derby,East Midlands
+DE74,"3,285.20",Derby,East Midlands
+DE75,"5,196.04",Derby,East Midlands
+DG1,"10,736.69",Dumfries,Scotland
+DG10,"1,154.17",Dumfries,Scotland
+DG11,"10,606.23",Dumfries,Scotland
+DG12,"6,954.28",Dumfries,Scotland
+DG13,"3,307.85",Dumfries,Scotland
+DG14,687.6192023,Dumfries,Scotland
+DG16,"1,482.22",Dumfries,Scotland
+DG2,"3,404.93",Dumfries,Scotland
+DG3,"6,033.01",Dumfries,Scotland
+DG4,"5,287.96",Dumfries,Scotland
+DG5,"2,588.56",Dumfries,Scotland
+DG6,"1,231.39",Dumfries,Scotland
+DG7,"9,194.95",Dumfries,Scotland
+DG8,"5,943.54",Dumfries,Scotland
+DG9,"5,741.87",Dumfries,Scotland
+DH1,"8,341.49",Durham,North East England
+DH2,"8,144.81",Durham,North East England
+DH3,"6,981.71",Durham,North East England
+DH4,"3,903.76",Durham,North East England
+DH5,"1,841.69",Durham,North East England
+DH6,"3,319.73",Durham,North East England
+DH7,"6,244.74",Durham,North East England
+DH8,"3,807.20",Durham,North East England
+DH9,"2,540.12",Durham,North East England
+DL1,"4,960.41",Dalington,North East England
+DL10,"5,724.85",Dalington,North East England
+DL11,"5,730.84",Dalington,North East England
+DL12,"5,902.37",Dalington,North East England
+DL13,"1,644.82",Dalington,North East England
+DL14,"8,041.13",Dalington,North East England
+DL15,"2,639.04",Dalington,North East England
+DL16,"2,175.23",Dalington,North East England
+DL17,"1,422.01",Dalington,North East England
+DL2,"6,630.03",Dalington,North East England
+DL3,"3,819.16",Dalington,North East England
+DL4,"1,244.48",Dalington,North East England
+DL5,"4,061.47",Dalington,North East England
+DL6,"9,439.99",Dalington,North East England
+DL7,"5,909.41",Dalington,North East England
+DL8,"19,944.88",Dalington,North East England
+DL9,"2,748.48",Dalington,North East England
+DN1,"1,240.71",Doncaster,Yorkshire and Humberside
+DN10,"2,153.73",Doncaster,Yorkshire and Humberside
+DN11,"1,749.25",Doncaster,Yorkshire and Humberside
+DN12,"1,706.76",Doncaster,Yorkshire and Humberside
+DN14,"9,738.39",Doncaster,Yorkshire and Humberside
+DN15,"13,640.53",Doncaster,Yorkshire and Humberside
+DN16,"3,158.83",Doncaster,Yorkshire and Humberside
+DN17,"7,101.00",Doncaster,Yorkshire and Humberside
+DN18,"3,122.30",Doncaster,Yorkshire and Humberside
+DN19,"1,537.77",Doncaster,Yorkshire and Humberside
+DN2,"3,572.07",Doncaster,Yorkshire and Humberside
+DN20,"3,826.27",Doncaster,Yorkshire and Humberside
+DN21,"2,446.74",Doncaster,Yorkshire and Humberside
+DN22,"7,132.61",Doncaster,Yorkshire and Humberside
+DN3,"3,111.58",Doncaster,Yorkshire and Humberside
+DN31,"3,081.69",Doncaster,Yorkshire and Humberside
+DN32,"4,826.46",Doncaster,Yorkshire and Humberside
+DN33,"1,575.90",Doncaster,Yorkshire and Humberside
+DN34,"2,072.81",Doncaster,Yorkshire and Humberside
+DN35,"3,307.56",Doncaster,Yorkshire and Humberside
+DN36,"4,007.59",Doncaster,Yorkshire and Humberside
+DN37,"2,980.46",Doncaster,Yorkshire and Humberside
+DN38,639.0489039,Doncaster,Yorkshire and Humberside
+DN39,"1,153.64",Doncaster,Yorkshire and Humberside
+DN4,"4,585.06",Doncaster,Yorkshire and Humberside
+DN40,"1,814.95",Doncaster,Yorkshire and Humberside
+DN41,"1,270.42",Doncaster,Yorkshire and Humberside
+DN5,"4,481.32",Doncaster,Yorkshire and Humberside
+DN6,"4,725.62",Doncaster,Yorkshire and Humberside
+DN7,"1,284.06",Doncaster,Yorkshire and Humberside
+DN8,"3,076.84",Doncaster,Yorkshire and Humberside
+DN9,"5,946.46",Doncaster,Yorkshire and Humberside
+DT1,"8,448.16",Dorchester,South West England
+DT10,"7,999.38",Dorchester,South West England
+DT11,"16,398.51",Dorchester,South West England
+DT2,"9,067.81",Dorchester,South West England
+DT3,"7,695.21",Dorchester,South West England
+DT4,"9,077.35",Dorchester,South West England
+DT5,"3,708.30",Dorchester,South West England
+DT6,"7,846.28",Dorchester,South West England
+DT7,734.314571,Dorchester,South West England
+DT8,"3,457.94",Dorchester,South West England
+DT9,"8,535.81",Dorchester,South West England
+DY1,"4,477.28",Dudley,West Midlands
+DY10,"10,194.80",Dudley,West Midlands
+DY11,"5,391.09",Dudley,West Midlands
+DY12,"3,376.03",Dudley,West Midlands
+DY13,"4,983.64",Dudley,West Midlands
+DY14,"4,717.66",Dudley,West Midlands
+DY2,"4,703.74",Dudley,West Midlands
+DY3,"3,486.99",Dudley,West Midlands
+DY4,"3,180.26",Dudley,West Midlands
+DY5,"3,179.19",Dudley,West Midlands
+DY6,"1,740.43",Dudley,West Midlands
+DY7,"1,759.56",Dudley,West Midlands
+DY8,"6,349.24",Dudley,West Midlands
+DY9,"6,152.78",Dudley,West Midlands
+E1,"1,523.98",London East,Greater London
+E10,"1,558.89",London East,Greater London
+E11,"5,191.69",London East,Greater London
+E12,973.9757651,London East,Greater London
+E13,779.6551625,London East,Greater London
+E14,"3,311.50",London East,Greater London
+E15,"1,823.03",London East,Greater London
+E16,"2,440.57",London East,Greater London
+E17,"3,207.75",London East,Greater London
+E18,"1,547.56",London East,Greater London
+E1W,340.2618889,London East,Greater London
+E2,"1,244.89",London East,Greater London
+E20,193.1128195,London East,Greater London
+E3,"3,569.70",London East,Greater London
+E4,"8,105.25",London East,Greater London
+E5,714.7350032,London East,Greater London
+E6,"2,514.66",London East,Greater London
+E7,"1,560.91",London East,Greater London
+E8,"1,333.93",London East,Greater London
+E9,835.525766,London East,Greater London
+EC1A,29.47645746,East Central London,Greater London
+EC1M,65.82261726,East Central London,Greater London
+EC1N,51.95966072,East Central London,Greater London
+EC1R,223.1525705,East Central London,Greater London
+EC1V,465.7844202,East Central London,Greater London
+EC1Y,109.1421541,East Central London,Greater London
+EC2A,183.2512937,East Central London,Greater London
+EC2M,30.50557728,East Central London,Greater London
+EC2N,9.634896591,East Central London,Greater London
+EC2P,0.650860512,East Central London,Greater London
+EC2R,14.89156216,East Central London,Greater London
+EC2V,11.07807789,East Central London,Greater London
+EC2Y,22.21057568,East Central London,Greater London
+EC3A,13.28183569,East Central London,Greater London
+EC3M,19.37870016,East Central London,Greater London
+EC3N,30.69668437,East Central London,Greater London
+EC3R,19.25734026,East Central London,Greater London
+EC3V,14.55021087,East Central London,Greater London
+EC4A,14.6628937,East Central London,Greater London
+EC4M,10.12555811,East Central London,Greater London
+EC4N,11.50321845,East Central London,Greater London
+EC4R,9.271089761,East Central London,Greater London
+EC4V,20.20883237,East Central London,Greater London
+EC4Y,30.30208837,East Central London,Greater London
+EH1,"1,130.85",Edinburgh,Scotland
+EH10,"5,948.01",Edinburgh,Scotland
+EH11,"5,565.33",Edinburgh,Scotland
+EH12,"4,544.91",Edinburgh,Scotland
+EH13,"2,164.96",Edinburgh,Scotland
+EH14,"5,412.28",Edinburgh,Scotland
+EH15,"4,005.14",Edinburgh,Scotland
+EH16,"4,770.98",Edinburgh,Scotland
+EH17,"3,127.41",Edinburgh,Scotland
+EH18,"1,118.38",Edinburgh,Scotland
+EH19,"3,640.04",Edinburgh,Scotland
+EH2,662.9894441,Edinburgh,Scotland
+EH20,"6,071.71",Edinburgh,Scotland
+EH21,"7,135.58",Edinburgh,Scotland
+EH22,"5,784.55",Edinburgh,Scotland
+EH23,"5,343.60",Edinburgh,Scotland
+EH24,492.6593856,Edinburgh,Scotland
+EH25,"8,589.49",Edinburgh,Scotland
+EH26,"4,442.02",Edinburgh,Scotland
+EH27,236.0923305,Edinburgh,Scotland
+EH28,"1,899.80",Edinburgh,Scotland
+EH29,"2,900.78",Edinburgh,Scotland
+EH3,"3,853.35",Edinburgh,Scotland
+EH30,"2,872.36",Edinburgh,Scotland
+EH31,"1,406.32",Edinburgh,Scotland
+EH32,"6,249.86",Edinburgh,Scotland
+EH33,"6,302.01",Edinburgh,Scotland
+EH34,894.6515938,Edinburgh,Scotland
+EH35,646.4961501,Edinburgh,Scotland
+EH36,109.2803316,Edinburgh,Scotland
+EH37,344.2747002,Edinburgh,Scotland
+EH38,294.4452419,Edinburgh,Scotland
+EH39,"4,761.67",Edinburgh,Scotland
+EH4,"9,452.40",Edinburgh,Scotland
+EH40,430.2371297,Edinburgh,Scotland
+EH41,"2,037.18",Edinburgh,Scotland
+EH42,"3,353.02",Edinburgh,Scotland
+EH43,316.8381094,Edinburgh,Scotland
+EH44,"1,144.80",Edinburgh,Scotland
+EH45,"5,234.34",Edinburgh,Scotland
+EH46,925.693165,Edinburgh,Scotland
+EH47,"1,265.22",Edinburgh,Scotland
+EH48,"2,014.27",Edinburgh,Scotland
+EH49,"2,937.91",Edinburgh,Scotland
+EH5,"3,166.12",Edinburgh,Scotland
+EH51,"2,412.47",Edinburgh,Scotland
+EH52,"1,917.97",Edinburgh,Scotland
+EH53,"1,256.92",Edinburgh,Scotland
+EH54,"8,421.77",Edinburgh,Scotland
+EH55,"2,406.97",Edinburgh,Scotland
+EH6,"6,632.25",Edinburgh,Scotland
+EH7,"2,844.92",Edinburgh,Scotland
+EH8,"1,806.13",Edinburgh,Scotland
+EH9,"3,266.44",Edinburgh,Scotland
+EN1,"5,357.28",Enfield,Greater London
+EN10,"5,677.43",Enfield,Greater London
+EN11,"4,315.66",Enfield,Greater London
+EN2,"3,057.38",Enfield,Greater London
+EN3,"5,172.48",Enfield,Greater London
+EN4,"2,854.05",Enfield,Greater London
+EN5,"3,427.96",Enfield,Greater London
+EN6,"16,165.81",Enfield,Greater London
+EN7,"3,483.02",Enfield,Greater London
+EN8,"4,385.63",Enfield,Greater London
+EN9,"5,608.29",Enfield,Greater London
+EX1,"3,296.25",Exeter,South West England
+EX10,"6,730.56",Exeter,South West England
+EX11,"3,062.34",Exeter,South West England
+EX12,"4,219.39",Exeter,South West England
+EX13,"4,878.47",Exeter,South West England
+EX14,"8,414.77",Exeter,South West England
+EX15,"12,289.85",Exeter,South West England
+EX16,"12,403.54",Exeter,South West England
+EX17,"10,133.41",Exeter,South West England
+EX18,822.6472464,Exeter,South West England
+EX19,"2,254.93",Exeter,South West England
+EX2,"6,184.93",Exeter,South West England
+EX20,"11,161.77",Exeter,South West England
+EX21,"2,526.07",Exeter,South West England
+CA95,0,Carlisle,
+CA99,0,Carlisle,
+CF91,0,Cardiff,
+CF95,0,Cardiff,
+CF99,0,Cardiff,
+CH70,0,Chester,
+CH88,0,Chester,
+CH99,0,Chester,
+CM92,0,Chelmsford,
+CM98,0,Chelmsford,
+CR9,0,Croydon,
+CT50,0,Canterbury,
+DE99,0,Derby,
+DH97,0,Durham,
+DH99,0,Durham,
+DL98,0,Darlington,
+DN55,0,Doncaster,
+E98,0,London East,
+EC3P,0,East Central London,
+EH91,0,Edinburgh,
+EH99,0,Edinburgh,
+EX22,"11,062.28",Exeter,South West England
+EX23,"9,869.30",Exeter,South West England
+EX24,"1,451.61",Exeter,South West England
+EX3,"1,156.42",Exeter,South West England
+EX31,"21,725.89",Exeter,South West England
+EX32,"6,383.22",Exeter,South West England
+EX33,"4,846.60",Exeter,South West England
+EX34,"11,715.08",Exeter,South West England
+EX35,"2,172.28",Exeter,South West England
+EX36,"7,945.84",Exeter,South West England
+EX37,"1,366.90",Exeter,South West England
+EX38,861.4519563,Exeter,South West England
+EX39,"20,879.82",Exeter,South West England
+EX4,"9,500.10",Exeter,South West England
+EX5,"5,088.27",Exeter,South West England
+EX6,"10,910.69",Exeter,South West England
+EX7,"2,113.56",Exeter,South West England
+EX8,"10,668.17",Exeter,South West England
+EX9,"2,403.57",Exeter,South West England
+FK1,"3,670.28",Falkirk,Scotland
+FK10,"3,420.86",Falkirk,Scotland
+FK11,400.7471381,Falkirk,Scotland
+FK12,512.0713217,Falkirk,Scotland
+FK13,635.9610744,Falkirk,Scotland
+FK14,566.3481931,Falkirk,Scotland
+FK15,"5,086.35",Falkirk,Scotland
+FK16,"1,280.00",Falkirk,Scotland
+FK17,"2,108.43",Falkirk,Scotland
+FK18,135.3852604,Falkirk,Scotland
+FK19,275.7502222,Falkirk,Scotland
+FK2,"6,753.16",Falkirk,Scotland
+FK20,58.19607193,Falkirk,Scotland
+FK21,468.0243015,Falkirk,Scotland
+FK3,"1,160.13",Falkirk,Scotland
+FK4,852.0626991,Falkirk,Scotland
+FK5,791.0654183,Falkirk,Scotland
+FK6,"2,435.35",Falkirk,Scotland
+FK7,"11,739.35",Falkirk,Scotland
+FK8,"4,641.78",Falkirk,Scotland
+FK9,"2,335.49",Falkirk,Scotland
+FY1,"2,158.73",Blackpool,North West England
+FY2,"2,182.64",Blackpool,North West England
+FY3,"2,261.13",Blackpool,North West England
+FY4,"2,937.65",Blackpool,North West England
+FY5,"8,484.93",Blackpool,North West England
+FY6,"7,411.82",Blackpool,North West England
+FY7,"2,995.09",Blackpool,North West England
+FY8,"9,898.06",Blackpool,North West England
+G1,"1,245.80",Glasgow,Scotland
+G11,"3,733.80",Glasgow,Scotland
+G12,"5,299.12",Glasgow,Scotland
+G13,"7,429.14",Glasgow,Scotland
+G14,"3,221.20",Glasgow,Scotland
+G15,"1,137.18",Glasgow,Scotland
+G2,"1,456.16",Glasgow,Scotland
+G20,"3,290.28",Glasgow,Scotland
+G21,"1,548.58",Glasgow,Scotland
+G22,"1,137.30",Glasgow,Scotland
+G23,376.0358043,Glasgow,Scotland
+G3,"4,470.05",Glasgow,Scotland
+G31,"1,746.95",Glasgow,Scotland
+G32,"1,810.32",Glasgow,Scotland
+G33,"2,222.56",Glasgow,Scotland
+G34,430.3034577,Glasgow,Scotland
+G4,"1,089.97",Glasgow,Scotland
+G40,"1,007.25",Glasgow,Scotland
+G41,"7,572.53",Glasgow,Scotland
+G42,"3,437.81",Glasgow,Scotland
+G43,"3,188.23",Glasgow,Scotland
+G44,"2,306.42",Glasgow,Scotland
+G45,"1,529.57",Glasgow,Scotland
+G46,"1,945.77",Glasgow,Scotland
+G5,"1,574.57",Glasgow,Scotland
+G51,"5,439.70",Glasgow,Scotland
+G52,"3,488.22",Glasgow,Scotland
+G53,"3,209.42",Glasgow,Scotland
+G60,272.6476378,Glasgow,Scotland
+G61,"7,187.90",Glasgow,Scotland
+G62,"3,281.40",Glasgow,Scotland
+G63,"3,364.11",Glasgow,Scotland
+G64,"4,194.40",Glasgow,Scotland
+G65,"2,372.82",Glasgow,Scotland
+G66,"4,399.21",Glasgow,Scotland
+G67,"3,801.97",Glasgow,Scotland
+G68,"1,610.20",Glasgow,Scotland
+G69,"2,027.40",Glasgow,Scotland
+G71,"3,344.59",Glasgow,Scotland
+G72,"5,272.71",Glasgow,Scotland
+G73,"3,357.14",Glasgow,Scotland
+G74,"2,764.39",Glasgow,Scotland
+G75,"3,812.71",Glasgow,Scotland
+G76,"6,232.84",Glasgow,Scotland
+G77,"3,403.79",Glasgow,Scotland
+G78,891.2537046,Glasgow,Scotland
+G81,"1,911.31",Glasgow,Scotland
+G82,"4,740.76",Glasgow,Scotland
+G83,"1,707.46",Glasgow,Scotland
+G84,"4,081.13",Glasgow,Scotland
+GL1,"3,124.51",Gloucester,South West England
+GL10,"4,979.70",Gloucester,South West England
+GL11,"7,511.90",Gloucester,South West England
+GL12,"3,668.41",Gloucester,South West England
+GL13,"2,793.33",Gloucester,South West England
+GL14,"3,596.69",Gloucester,South West England
+GL15,"8,534.05",Gloucester,South West England
+GL16,"3,219.24",Gloucester,South West England
+GL17,"2,065.78",Gloucester,South West England
+GL18,"2,279.40",Gloucester,South West England
+GL19,"3,257.52",Gloucester,South West England
+GL2,"19,940.18",Gloucester,South West England
+GL20,"12,724.99",Gloucester,South West England
+GL3,"7,846.30",Gloucester,South West England
+GL4,"9,948.06",Gloucester,South West England
+GL5,"11,833.26",Gloucester,South West England
+GL50,"8,375.86",Gloucester,South West England
+GL51,"14,073.80",Gloucester,South West England
+GL52,"11,655.44",Gloucester,South West England
+GL53,"3,378.29",Gloucester,South West England
+GL54,"8,903.02",Gloucester,South West England
+GL55,"2,493.11",Gloucester,South West England
+GL56,"7,050.22",Gloucester,South West England
+GL6,"5,273.31",Gloucester,South West England
+GL7,"15,022.94",Gloucester,South West England
+GL8,"5,154.93",Gloucester,South West England
+GL9,646.9648183,Gloucester,South West England
+GU1,"8,355.95",Guildford,South East England
+GU10,"6,808.59",Guildford,South East England
+GU11,"2,877.08",Guildford,South East England
+GU12,"4,670.93",Guildford,South East England
+GU14,"10,202.27",Guildford,South East England
+GU15,"7,022.18",Guildford,South East England
+GU16,"3,884.79",Guildford,South East England
+GU17,"2,221.37",Guildford,South East England
+GU18,"1,228.44",Guildford,South East England
+GU19,"1,542.42",Guildford,South East England
+GU2,"6,871.32",Guildford,South East England
+GU20,"1,709.42",Guildford,South East England
+GU21,"9,234.19",Guildford,South East England
+GU22,"4,440.67",Guildford,South East England
+GU23,"1,459.98",Guildford,South East England
+GU24,"4,740.87",Guildford,South East England
+GU25,"1,494.88",Guildford,South East England
+GU26,"3,308.48",Guildford,South East England
+GU27,"4,778.00",Guildford,South East England
+GU28,"2,699.52",Guildford,South East England
+GU29,"4,692.75",Guildford,South East England
+GU3,"4,768.01",Guildford,South East England
+GU30,"4,207.69",Guildford,South East England
+GU31,"4,830.15",Guildford,South East England
+GU32,"4,195.34",Guildford,South East England
+GU33,956.6671376,Guildford,South East England
+GU34,"7,250.40",Guildford,South East England
+GU35,"6,244.24",Guildford,South East England
+GU4,"2,808.90",Guildford,South East England
+GU46,"4,637.63",Guildford,South East England
+GU47,"3,369.36",Guildford,South East England
+GU5,"1,487.98",Guildford,South East England
+GU51,"5,755.99",Guildford,South East England
+GU52,"2,282.94",Guildford,South East England
+GU6,"6,145.15",Guildford,South East England
+GU7,"13,680.28",Guildford,South East England
+GU8,"7,704.53",Guildford,South East England
+GU9,"8,458.54",Guildford,South East England
+HA0,"1,394.92",Harrow,Greater London
+HA1,"2,025.55",Harrow,Greater London
+HA2,"1,827.27",Harrow,Greater London
+HA3,"3,591.00",Harrow,Greater London
+HA4,"6,436.35",Harrow,Greater London
+HA5,"7,968.95",Harrow,Greater London
+HA6,"3,891.44",Harrow,Greater London
+HA7,"7,899.37",Harrow,Greater London
+HA8,"3,477.97",Harrow,Greater London
+HA9,"1,408.29",Harrow,Greater London
+HD1,"3,432.80",Huddersfield,Yorkshire and Humberside
+HD2,"3,554.17",Huddersfield,Yorkshire and Humberside
+HD3,"3,535.41",Huddersfield,Yorkshire and Humberside
+HD4,"5,093.91",Huddersfield,Yorkshire and Humberside
+HD5,"2,486.78",Huddersfield,Yorkshire and Humberside
+HD6,"7,050.92",Huddersfield,Yorkshire and Humberside
+HD7,"2,188.60",Huddersfield,Yorkshire and Humberside
+HD8,"5,982.92",Huddersfield,Yorkshire and Humberside
+HD9,"4,513.54",Huddersfield,Yorkshire and Humberside
+HG1,"7,158.35",Harrogate,Yorkshire and Humberside
+HG2,"5,571.72",Harrogate,Yorkshire and Humberside
+HG3,"6,689.42",Harrogate,Yorkshire and Humberside
+HG4,"15,314.57",Harrogate,Yorkshire and Humberside
+HG5,"4,094.03",Harrogate,Yorkshire and Humberside
+HP1,"3,914.09",Hemel Hempstead,East of England
+HP10,"4,517.14",Hemel Hempstead,East of England
+HP11,"2,792.91",Hemel Hempstead,East of England
+HP12,"3,779.31",Hemel Hempstead,East of England
+HP13,"4,689.04",Hemel Hempstead,East of England
+HP14,"7,106.77",Hemel Hempstead,East of England
+HP15,"1,274.56",Hemel Hempstead,East of England
+HP16,"2,087.43",Hemel Hempstead,East of England
+HP17,"2,196.90",Hemel Hempstead,East of England
+HP18,"5,027.93",Hemel Hempstead,East of England
+HP19,"2,649.35",Hemel Hempstead,East of England
+HP2,"5,671.36",Hemel Hempstead,East of England
+HP20,"2,778.78",Hemel Hempstead,East of England
+HP21,"4,921.79",Hemel Hempstead,East of England
+HP22,"11,245.78",Hemel Hempstead,East of England
+HP23,"1,929.85",Hemel Hempstead,East of England
+HP27,"4,391.55",Hemel Hempstead,East of England
+HP3,"3,154.79",Hemel Hempstead,East of England
+HP4,"4,666.53",Hemel Hempstead,East of England
+HP5,"5,339.83",Hemel Hempstead,East of England
+HP6,"3,059.52",Hemel Hempstead,East of England
+HP7,"2,310.65",Hemel Hempstead,East of England
+HP8,"1,137.68",Hemel Hempstead,East of England
+HP9,"4,028.63",Hemel Hempstead,East of England
+HR1,"8,495.92",Hereford,West Midlands
+HR2,"12,574.23",Hereford,West Midlands
+HR3,"5,655.55",Hereford,West Midlands
+HR4,"6,402.44",Hereford,West Midlands
+HR5,"1,864.09",Hereford,West Midlands
+HR6,"10,650.05",Hereford,West Midlands
+HR7,"1,626.75",Hereford,West Midlands
+HR8,"4,528.26",Hereford,West Midlands
+HR9,"5,921.37",Hereford,West Midlands
+HS1,255.4465842,Hebrides,Scotland
+HS2,625.4683754,Hebrides,Scotland
+HS3,72.15566024,Hebrides,Scotland
+HS4,16.21452165,Hebrides,Scotland
+HS5,14.5675545,Hebrides,Scotland
+HS6,636.1826354,Hebrides,Scotland
+HS7,409.5801189,Hebrides,Scotland
+HS8,664.8618162,Hebrides,Scotland
+HS9,"1,716.93",Hebrides,Scotland
+HU1,"1,965.74",Hull,Yorkshire and Humberside
+HU10,"8,047.86",Hull,Yorkshire and Humberside
+HU11,"3,382.97",Hull,Yorkshire and Humberside
+HU12,"7,334.34",Hull,Yorkshire and Humberside
+HU13,"1,972.10",Hull,Yorkshire and Humberside
+HU14,"5,739.20",Hull,Yorkshire and Humberside
+HU15,"6,908.53",Hull,Yorkshire and Humberside
+HU16,"5,972.74",Hull,Yorkshire and Humberside
+HU17,"8,949.95",Hull,Yorkshire and Humberside
+HU18,"1,848.33",Hull,Yorkshire and Humberside
+HU19,851.7933593,Hull,Yorkshire and Humberside
+HU2,"1,206.12",Hull,Yorkshire and Humberside
+HU20,379.3683877,Hull,Yorkshire and Humberside
+HU3,"6,925.31",Hull,Yorkshire and Humberside
+HU4,"2,443.45",Hull,Yorkshire and Humberside
+HU5,"8,646.25",Hull,Yorkshire and Humberside
+HU6,"6,344.66",Hull,Yorkshire and Humberside
+HU7,"3,191.80",Hull,Yorkshire and Humberside
+HU8,"5,505.88",Hull,Yorkshire and Humberside
+HU9,"9,206.41",Hull,Yorkshire and Humberside
+HX1,"5,444.68",Halifax,North West England
+HX2,"6,960.40",Halifax,North West England
+HX3,"9,614.46",Halifax,North West England
+HX4,"9,392.01",Halifax,North West England
+HX5,"3,097.25",Halifax,North West England
+HX6,"9,067.57",Halifax,North West England
+HX7,"2,209.68",Halifax,North West England
+IG1,"1,764.87",Ilford,Greater London
+IG10,"2,778.14",Ilford,Greater London
+IG11,"2,168.18",Ilford,Greater London
+IG2,"1,236.66",Ilford,Greater London
+IG3,"1,984.98",Ilford,Greater London
+IG4,643.2524031,Ilford,Greater London
+IG5,984.2643531,Ilford,Greater London
+IG6,"1,149.25",Ilford,Greater London
+IG7,992.0646314,Ilford,Greater London
+IG8,"4,694.02",Ilford,Greater London
+IG9,"2,175.63",Ilford,Greater London
+IP1,"5,483.31",Ipswich,East of England
+IP10,"1,384.80",Ipswich,East of England
+IP11,"5,552.79",Ipswich,East of England
+IP12,"7,042.31",Ipswich,East of England
+IP13,"7,302.95",Ipswich,East of England
+IP14,"16,472.47",Ipswich,East of England
+IP15,320.1996077,Ipswich,East of England
+IP16,546.0541,Ipswich,East of England
+IP17,"3,502.25",Ipswich,East of England
+IP18,"3,764.09",Ipswich,East of England
+IP19,"3,446.99",Ipswich,East of England
+IP2,"5,194.81",Ipswich,East of England
+IP20,"4,126.77",Ipswich,East of England
+IP21,"6,046.88",Ipswich,East of England
+IP22,"9,489.54",Ipswich,East of England
+IP23,"4,287.38",Ipswich,East of England
+IP24,"6,368.58",Ipswich,East of England
+IP25,"2,844.63",Ipswich,East of England
+IP26,"1,294.52",Ipswich,East of England
+IP27,"2,880.11",Ipswich,East of England
+IP28,"6,380.35",Ipswich,East of England
+IP29,"5,418.55",Ipswich,East of England
+IP3,"7,677.66",Ipswich,East of England
+IP30,"1,724.87",Ipswich,East of England
+IP31,"5,551.78",Ipswich,East of England
+IP32,"4,998.95",Ipswich,East of England
+IP33,"3,084.67",Ipswich,East of England
+IP4,"5,015.61",Ipswich,East of England
+IP5,"4,972.34",Ipswich,East of England
+IP6,"3,092.50",Ipswich,East of England
+IP7,"3,506.74",Ipswich,East of England
+IP8,"3,698.59",Ipswich,East of England
+IP9,"7,543.90",Ipswich,East of England
+IV1,469.7802869,Inverness,Scotland
+IV10,220.0276095,Inverness,Scotland
+IV11,78.10096112,Inverness,Scotland
+IV12,"2,884.56",Inverness,Scotland
+IV13,130.3076863,Inverness,Scotland
+IV14,381.5301727,Inverness,Scotland
+IV15,"1,039.19",Inverness,Scotland
+IV16,902.3202084,Inverness,Scotland
+IV17,"4,547.35",Inverness,Scotland
+IV18,"5,397.87",Inverness,Scotland
+IV19,"3,896.96",Inverness,Scotland
+IV2,"9,904.35",Inverness,Scotland
+IV20,867.9655597,Inverness,Scotland
+IV21,"1,411.73",Inverness,Scotland
+IV22,"1,903.74",Inverness,Scotland
+IV23,400.7437842,Inverness,Scotland
+IV24,"1,015.67",Inverness,Scotland
+IV25,"1,645.75",Inverness,Scotland
+IV26,451.6834249,Inverness,Scotland
+IV27,"1,577.86",Inverness,Scotland
+IV28,183.1028128,Inverness,Scotland
+IV3,"3,879.36",Inverness,Scotland
+IV30,"7,035.43",Inverness,Scotland
+IV31,"1,343.69",Inverness,Scotland
+IV32,872.7985316,Inverness,Scotland
+IV36,"6,172.43",Inverness,Scotland
+IV4,814.8418857,Inverness,Scotland
+IV40,561.7427388,Inverness,Scotland
+IV41,67.1482208,Inverness,Scotland
+IV42,164.3430082,Inverness,Scotland
+IV43,96.49255487,Inverness,Scotland
+IV44,121.2600509,Inverness,Scotland
+IV45,104.2309958,Inverness,Scotland
+IV46,39.47716256,Inverness,Scotland
+IV47,170.904526,Inverness,Scotland
+IV48,20.4467087,Inverness,Scotland
+IV49,418.9758226,Inverness,Scotland
+IV5,254.0813107,Inverness,Scotland
+IV51,"2,428.77",Inverness,Scotland
+IV52,81.28048956,Inverness,Scotland
+IV53,28.86466369,Inverness,Scotland
+IV54,455.7289995,Inverness,Scotland
+IV55,788.0585495,Inverness,Scotland
+IV56,212.6256658,Inverness,Scotland
+IV6,760.0215633,Inverness,Scotland
+IV63,539.2428808,Inverness,Scotland
+IV7,932.4250219,Inverness,Scotland
+IV8,71.83190165,Inverness,Scotland
+IV9,104.3119443,Inverness,Scotland
+KA1,"2,765.84",Kilmarnock,Scotland
+KA10,"3,071.07",Kilmarnock,Scotland
+KA11,"1,190.39",Kilmarnock,Scotland
+KA12,"7,533.58",Kilmarnock,Scotland
+KA13,"5,023.19",Kilmarnock,Scotland
+KA14,118.8101114,Kilmarnock,Scotland
+KA15,"1,032.77",Kilmarnock,Scotland
+KA16,501.8997683,Kilmarnock,Scotland
+KA17,629.6829456,Kilmarnock,Scotland
+KA18,"4,922.01",Kilmarnock,Scotland
+KA19,"5,692.04",Kilmarnock,Scotland
+KA2,"1,258.62",Kilmarnock,Scotland
+KA20,"1,381.02",Kilmarnock,Scotland
+KA21,"1,270.64",Kilmarnock,Scotland
+KA22,"1,156.08",Kilmarnock,Scotland
+KA23,"5,445.48",Kilmarnock,Scotland
+KA24,"1,648.23",Kilmarnock,Scotland
+KA25,976.5949995,Kilmarnock,Scotland
+KA26,"3,800.44",Kilmarnock,Scotland
+KA27,981.8102732,Kilmarnock,Scotland
+KA28,607.7169504,Kilmarnock,Scotland
+KA29,352.6831429,Kilmarnock,Scotland
+KA3,"2,169.64",Kilmarnock,Scotland
+KA30,"2,770.52",Kilmarnock,Scotland
+KA4,785.9421326,Kilmarnock,Scotland
+KA5,"6,231.47",Kilmarnock,Scotland
+KA6,"1,620.05",Kilmarnock,Scotland
+KA7,"5,298.61",Kilmarnock,Scotland
+KA8,"3,231.88",Kilmarnock,Scotland
+KA9,"3,357.12",Kilmarnock,Scotland
+KT1,"2,387.71",Kingston upon Thames,Greater London
+KT10,"2,851.36",Kingston upon Thames,Greater London
+KT11,"2,896.44",Kingston upon Thames,Greater London
+KT12,"6,397.87",Kingston upon Thames,Greater London
+KT13,"4,055.51",Kingston upon Thames,Greater London
+KT14,"1,372.30",Kingston upon Thames,Greater London
+KT15,"2,935.66",Kingston upon Thames,Greater London
+KT16,"1,973.26",Kingston upon Thames,Greater London
+KT17,"4,799.69",Kingston upon Thames,Greater London
+KT18,"2,833.33",Kingston upon Thames,Greater London
+KT19,"5,015.12",Kingston upon Thames,Greater London
+KT2,"3,214.94",Kingston upon Thames,Greater London
+KT20,"2,865.09",Kingston upon Thames,Greater London
+KT21,"1,137.28",Kingston upon Thames,Greater London
+KT22,"2,500.30",Kingston upon Thames,Greater London
+KT23,"2,039.78",Kingston upon Thames,Greater London
+KT24,"3,469.82",Kingston upon Thames,Greater London
+KT3,"4,413.69",Kingston upon Thames,Greater London
+KT4,"4,153.30",Kingston upon Thames,Greater London
+KT5,"1,436.50",Kingston upon Thames,Greater London
+KT6,"2,402.10",Kingston upon Thames,Greater London
+KT7,"1,457.02",Kingston upon Thames,Greater London
+KT8,"3,099.68",Kingston upon Thames,Greater London
+KT9,"1,702.32",Kingston upon Thames,Greater London
+KW1,"3,421.36",Kirkwall,Scotland
+KW10,507.6767976,Kirkwall,Scotland
+KW11,58.39017962,Kirkwall,Scotland
+KW12,618.1986412,Kirkwall,Scotland
+KW13,42.66974665,Kirkwall,Scotland
+KW14,"4,955.09",Kirkwall,Scotland
+KW15,"7,597.55",Kirkwall,Scotland
+KW16,"4,719.81",Kirkwall,Scotland
+KW17,"6,178.20",Kirkwall,Scotland
+KW2,25.09328506,Kirkwall,Scotland
+KW3,323.1404003,Kirkwall,Scotland
+KW5,100.3770914,Kirkwall,Scotland
+KW6,126.5880124,Kirkwall,Scotland
+KW7,44.58529635,Kirkwall,Scotland
+KW8,316.413275,Kirkwall,Scotland
+KW9,610.3916896,Kirkwall,Scotland
+KY1,"9,107.97",Kirkcaldy,Scotland
+KY10,"3,442.95",Kirkcaldy,Scotland
+KY11,"4,891.19",Kirkcaldy,Scotland
+KY12,"2,803.69",Kirkcaldy,Scotland
+KY13,"4,863.02",Kirkcaldy,Scotland
+KY14,"3,220.84",Kirkcaldy,Scotland
+KY15,"10,126.36",Kirkcaldy,Scotland
+KY16,"5,948.81",Kirkcaldy,Scotland
+KY2,"4,144.22",Kirkcaldy,Scotland
+KY3,"5,416.08",Kirkcaldy,Scotland
+KY4,"6,614.13",Kirkcaldy,Scotland
+KY5,"2,802.70",Kirkcaldy,Scotland
+KY6,"3,757.97",Kirkcaldy,Scotland
+KY7,"3,981.71",Kirkcaldy,Scotland
+KY8,"7,762.21",Kirkcaldy,Scotland
+KY9,929.2097469,Kirkcaldy,Scotland
+L1,801.1451385,Liverpool,North West England
+L10,"2,413.43",Liverpool,North West England
+L11,"1,623.36",Liverpool,North West England
+L12,"2,886.58",Liverpool,North West England
+L13,"2,434.28",Liverpool,North West England
+L14,"3,414.31",Liverpool,North West England
+L15,"2,057.52",Liverpool,North West England
+L16,"1,210.71",Liverpool,North West England
+L17,"2,424.80",Liverpool,North West England
+L18,"5,762.83",Liverpool,North West England
+L19,"7,263.27",Liverpool,North West England
+L2,239.1633547,Liverpool,North West England
+L20,"1,891.81",Liverpool,North West England
+L21,"1,095.74",Liverpool,North West England
+L22,335.5537183,Liverpool,North West England
+L23,877.9217853,Liverpool,North West England
+L24,"1,776.30",Liverpool,North West England
+L25,"3,245.50",Liverpool,North West England
+L26,"1,248.78",Liverpool,North West England
+L27,509.4194877,Liverpool,North West England
+L28,315.0281718,Liverpool,North West England
+L29,54.13650156,Liverpool,North West England
+L3,973.2756563,Liverpool,North West England
+L30,"1,688.78",Liverpool,North West England
+L31,"3,029.84",Liverpool,North West England
+L32,"2,818.20",Liverpool,North West England
+L33,"1,965.89",Liverpool,North West England
+L34,"1,166.07",Liverpool,North West England
+L35,"2,053.84",Liverpool,North West England
+L36,"3,205.83",Liverpool,North West England
+L37,"5,058.27",Liverpool,North West England
+L38,882.74218,Liverpool,North West England
+L39,"3,220.94",Liverpool,North West England
+L4,"2,427.94",Liverpool,North West England
+L40,"5,769.83",Liverpool,North West England
+L5,"1,091.64",Liverpool,North West England
+L6,"1,706.97",Liverpool,North West England
+L7,"1,359.45",Liverpool,North West England
+L8,"2,004.58",Liverpool,North West England
+L9,"2,805.69",Liverpool,North West England
+LA1,"11,315.61",Lancaster,North West England
+LA10,"2,008.24",Lancaster,North West England
+LA11,"3,542.13",Lancaster,North West England
+LA12,"6,175.04",Lancaster,North West England
+LA13,"3,882.08",Lancaster,North West England
+LA14,"4,618.12",Lancaster,North West England
+LA15,767.082928,Lancaster,North West England
+LA16,425.3213251,Lancaster,North West England
+LA17,"1,538.87",Lancaster,North West England
+LA18,"4,288.70",Lancaster,North West England
+FY0,0,Blackpool,
+G58,0,Glasgow,
+G70,0,Glasgow,
+G79,0,Glasgow,
+G90,0,Glasgow,
+GU95,0,Guildford,
+IP98,0,Ipswich,
+IV99,0,Inverness,
+KY99,0,Kirkcaldy,
+L67,0,Liverpool,
+L69,0,Liverpool,
+L70,0,Liverpool,
+L71,0,Liverpool,
+L72,0,Liverpool,
+L74,0,Liverpool,
+L75,0,Liverpool,
+LA19,484.6886817,Lancaster,North West England
+LA2,"8,120.13",Lancaster,North West England
+LA20,"1,832.74",Lancaster,North West England
+LA21,653.2227913,Lancaster,North West England
+LA22,"2,294.06",Lancaster,North West England
+LA23,"2,604.75",Lancaster,North West England
+LA3,"3,298.47",Lancaster,North West England
+LA4,"2,740.93",Lancaster,North West England
+LA5,"6,589.36",Lancaster,North West England
+LA6,"14,412.55",Lancaster,North West England
+LA7,"1,395.08",Lancaster,North West England
+LA8,"2,905.06",Lancaster,North West England
+LA9,"10,836.90",Lancaster,North West England
+LD1,"5,953.68",Llandrindod Wells,Wales
+LD2,"1,700.64",Llandrindod Wells,Wales
+LD3,"11,177.56",Llandrindod Wells,Wales
+LD4,215.8477475,Llandrindod Wells,Wales
+LD5,377.4742024,Llandrindod Wells,Wales
+LD6,862.6182702,Llandrindod Wells,Wales
+LD7,"3,100.84",Llandrindod Wells,Wales
+LD8,"1,142.14",Llandrindod Wells,Wales
+LE1,"1,009.20",Leicester,East Midlands
+LE10,"6,948.17",Leicester,East Midlands
+LE11,"3,297.94",Leicester,East Midlands
+LE12,"13,357.45",Leicester,East Midlands
+LE13,"6,622.44",Leicester,East Midlands
+LE14,"4,798.45",Leicester,East Midlands
+LE15,"18,629.57",Leicester,East Midlands
+LE16,"13,776.94",Leicester,East Midlands
+LE17,"3,196.70",Leicester,East Midlands
+LE18,"5,975.50",Leicester,East Midlands
+LE19,"2,240.73",Leicester,East Midlands
+LE2,"12,001.70",Leicester,East Midlands
+LE3,"9,174.60",Leicester,East Midlands
+LE4,"3,753.85",Leicester,East Midlands
+LE5,"3,189.73",Leicester,East Midlands
+LE6,926.0284434,Leicester,East Midlands
+LE65,"2,393.38",Leicester,East Midlands
+LE67,"6,158.99",Leicester,East Midlands
+LE7,"2,646.19",Leicester,East Midlands
+LE8,"6,257.85",Leicester,East Midlands
+LE9,"6,468.96",Leicester,East Midlands
+LL11,"6,544.74",Llandudno,Wales
+LL12,"9,691.94",Llandudno,Wales
+LL13,"12,575.87",Llandudno,Wales
+LL14,"4,500.86",Llandudno,Wales
+LL15,"8,737.59",Llandudno,Wales
+LL16,"13,531.44",Llandudno,Wales
+LL17,940.5957398,Llandudno,Wales
+LL18,"6,939.53",Llandudno,Wales
+LL19,"3,670.60",Llandudno,Wales
+LL20,"2,496.00",Llandudno,Wales
+LL21,"2,691.49",Llandudno,Wales
+LL22,"4,919.46",Llandudno,Wales
+LL23,"9,441.95",Llandudno,Wales
+LL24,"1,592.46",Llandudno,Wales
+LL25,419.9974763,Llandudno,Wales
+LL26,"2,788.72",Llandudno,Wales
+LL27,589.0023961,Llandudno,Wales
+LL28,"3,312.02",Llandudno,Wales
+LL29,"5,735.01",Llandudno,Wales
+LL30,"6,975.66",Llandudno,Wales
+LL31,"4,679.76",Llandudno,Wales
+LL32,"3,061.62",Llandudno,Wales
+LL33,"2,110.26",Llandudno,Wales
+LL34,"2,475.95",Llandudno,Wales
+LL35,859.4969769,Llandudno,Wales
+LL36,"4,365.70",Llandudno,Wales
+LL37,"1,034.20",Llandudno,Wales
+LL38,610.727176,Llandudno,Wales
+LL39,176.7683881,Llandudno,Wales
+LL40,"2,865.63",Llandudno,Wales
+LL41,"4,325.19",Llandudno,Wales
+LL42,"1,699.63",Llandudno,Wales
+LL43,294.5895827,Llandudno,Wales
+LL44,635.8962061,Llandudno,Wales
+LL45,450.8095734,Llandudno,Wales
+LL46,"1,461.40",Llandudno,Wales
+LL47,93.42693001,Llandudno,Wales
+LL48,338.6990336,Llandudno,Wales
+LL49,693.2008136,Llandudno,Wales
+LL51,114.9975869,Llandudno,Wales
+LL52,380.1595071,Llandudno,Wales
+LL53,"2,567.95",Llandudno,Wales
+LL54,"2,276.91",Llandudno,Wales
+LL55,"4,580.21",Llandudno,Wales
+LL56,518.5939085,Llandudno,Wales
+LL57,"6,675.01",Llandudno,Wales
+LL58,"1,427.66",Llandudno,Wales
+LL59,"1,816.45",Llandudno,Wales
+LL60,"1,400.88",Llandudno,Wales
+LL61,"2,113.72",Llandudno,Wales
+LL62,"1,109.48",Llandudno,Wales
+LL63,987.9215489,Llandudno,Wales
+LL64,"1,116.10",Llandudno,Wales
+LL65,"10,898.28",Llandudno,Wales
+LL66,120.0707466,Llandudno,Wales
+LL67,667.8584826,Llandudno,Wales
+LL68,"2,708.52",Llandudno,Wales
+LL69,338.69001,Llandudno,Wales
+LL70,144.7265651,Llandudno,Wales
+LL71,851.9365145,Llandudno,Wales
+LL72,463.4136987,Llandudno,Wales
+LL73,134.8493519,Llandudno,Wales
+LL74,908.3049232,Llandudno,Wales
+LL75,551.8629436,Llandudno,Wales
+LL76,81.08201609,Llandudno,Wales
+LL77,"2,278.65",Llandudno,Wales
+LL78,148.3229565,Llandudno,Wales
+LN1,"7,073.74",Lincoln,East Midlands
+LN10,"1,647.02",Lincoln,East Midlands
+LN11,"9,852.04",Lincoln,East Midlands
+LN12,"2,703.07",Lincoln,East Midlands
+LN13,"2,279.24",Lincoln,East Midlands
+LN2,"5,360.31",Lincoln,East Midlands
+LN3,"2,096.33",Lincoln,East Midlands
+LN4,"10,983.19",Lincoln,East Midlands
+LN5,"3,946.86",Lincoln,East Midlands
+LN6,"8,553.15",Lincoln,East Midlands
+LN7,854.5812554,Lincoln,East Midlands
+LN8,"7,035.93",Lincoln,East Midlands
+LN9,"1,833.66",Lincoln,East Midlands
+LS1,460.1196679,Leeds,Yorkshire and Humberside
+LS10,"2,343.78",Leeds,Yorkshire and Humberside
+LS11,"2,009.61",Leeds,Yorkshire and Humberside
+LS12,"9,792.87",Leeds,Yorkshire and Humberside
+LS13,"5,077.54",Leeds,Yorkshire and Humberside
+LS14,"1,671.38",Leeds,Yorkshire and Humberside
+LS15,"2,347.77",Leeds,Yorkshire and Humberside
+LS16,"11,506.24",Leeds,Yorkshire and Humberside
+LS17,"14,631.69",Leeds,Yorkshire and Humberside
+LS18,"6,007.12",Leeds,Yorkshire and Humberside
+LS19,"2,853.86",Leeds,Yorkshire and Humberside
+LS2,508.2861751,Leeds,Yorkshire and Humberside
+LS20,"2,407.24",Leeds,Yorkshire and Humberside
+LS21,"7,549.84",Leeds,Yorkshire and Humberside
+LS22,"4,308.50",Leeds,Yorkshire and Humberside
+LS23,"3,039.66",Leeds,Yorkshire and Humberside
+LS24,"2,197.27",Leeds,Yorkshire and Humberside
+LS25,"7,561.58",Leeds,Yorkshire and Humberside
+LS26,"4,622.38",Leeds,Yorkshire and Humberside
+LS27,"15,354.21",Leeds,Yorkshire and Humberside
+LS28,"8,903.91",Leeds,Yorkshire and Humberside
+LS29,"7,803.59",Leeds,Yorkshire and Humberside
+LS3,224.0010298,Leeds,Yorkshire and Humberside
+LS4,437.1125651,Leeds,Yorkshire and Humberside
+LS5,810.2098445,Leeds,Yorkshire and Humberside
+LS6,"6,329.85",Leeds,Yorkshire and Humberside
+LS7,"4,559.00",Leeds,Yorkshire and Humberside
+LS8,"3,401.96",Leeds,Yorkshire and Humberside
+LS9,"1,582.87",Leeds,Yorkshire and Humberside
+LU1,"4,057.21",Luton,East of England
+LU2,"6,484.98",Luton,East of England
+LU3,"6,558.59",Luton,East of England
+LU4,"2,935.74",Luton,East of England
+LU5,"4,027.55",Luton,East of England
+LU6,"2,623.66",Luton,East of England
+LU7,"12,004.87",Luton,East of England
+M1,530.3782087,Manchester,North West England
+M11,787.8587824,Manchester,North West England
+M12,457.6146486,Manchester,North West England
+M13,794.8468455,Manchester,North West England
+M14,"3,941.84",Manchester,North West England
+M15,"1,999.93",Manchester,North West England
+M16,"4,727.88",Manchester,North West England
+M17,174.5052588,Manchester,North West England
+M18,"1,255.87",Manchester,North West England
+M19,"1,737.87",Manchester,North West England
+M2,138.1536401,Manchester,North West England
+M20,"3,386.54",Manchester,North West England
+M21,"2,771.31",Manchester,North West England
+M22,"4,222.13",Manchester,North West England
+M23,"2,824.97",Manchester,North West England
+M24,"2,951.60",Manchester,North West England
+M25,"1,252.65",Manchester,North West England
+M26,"3,412.59",Manchester,North West England
+M27,"6,215.44",Manchester,North West England
+M28,"3,038.86",Manchester,North West England
+M29,"2,087.04",Manchester,North West England
+M3,664.3101747,Manchester,North West England
+M30,"3,117.50",Manchester,North West England
+M31,"1,623.98",Manchester,North West England
+M32,"2,551.78",Manchester,North West England
+M33,"6,399.17",Manchester,North West England
+M34,"5,067.00",Manchester,North West England
+M35,546.5141772,Manchester,North West England
+M38,948.0252534,Manchester,North West England
+M4,351.344729,Manchester,North West England
+M40,"1,320.39",Manchester,North West England
+M41,"4,296.71",Manchester,North West England
+M43,"1,321.16",Manchester,North West England
+M44,"2,558.85",Manchester,North West England
+M45,"1,453.51",Manchester,North West England
+M46,"1,873.31",Manchester,North West England
+M5,"1,002.83",Manchester,North West England
+M50,232.9261799,Manchester,North West England
+M6,"1,607.05",Manchester,North West England
+M7,"1,131.59",Manchester,North West England
+M8,967.3615162,Manchester,North West England
+M9,"1,400.02",Manchester,North West England
+M90,26.78157906,Manchester,North West England
+ME1,"6,285.47",Medway,South East England
+ME10,"7,284.37",Medway,South East England
+ME11,773.6975654,Medway,South East England
+ME12,"3,484.43",Medway,South East England
+ME13,"7,729.14",Medway,South East England
+ME14,"11,020.18",Medway,South East England
+ME15,"8,314.16",Medway,South East England
+ME16,"3,964.33",Medway,South East England
+ME17,"4,605.36",Medway,South East England
+ME18,"1,521.37",Medway,South East England
+ME19,"3,172.16",Medway,South East England
+ME2,"5,051.78",Medway,South East England
+ME20,"4,560.63",Medway,South East England
+ME3,"3,114.29",Medway,South East England
+ME4,"3,988.96",Medway,South East England
+ME5,"10,121.06",Medway,South East England
+ME6,"1,500.83",Medway,South East England
+ME7,"4,609.82",Medway,South East England
+ME8,"7,107.59",Medway,South East England
+ME9,"3,385.09",Medway,South East England
+MK1,277.5635176,Milton Keynes,South East England
+MK10,"4,523.91",Milton Keynes,South East England
+MK11,"2,507.41",Milton Keynes,South East England
+MK12,"1,178.97",Milton Keynes,South East England
+MK13,993.568074,Milton Keynes,South East England
+MK14,"4,363.74",Milton Keynes,South East England
+MK15,"4,620.64",Milton Keynes,South East England
+MK16,"7,237.34",Milton Keynes,South East England
+MK17,"3,880.23",Milton Keynes,South East England
+MK18,"10,547.38",Milton Keynes,South East England
+MK19,"1,059.45",Milton Keynes,South East England
+MK2,"1,707.03",Milton Keynes,South East England
+MK3,"2,608.06",Milton Keynes,South East England
+MK4,"2,321.36",Milton Keynes,South East England
+MK40,"2,849.49",Milton Keynes,South East England
+MK41,"8,779.65",Milton Keynes,South East England
+MK42,"3,334.40",Milton Keynes,South East England
+MK43,"2,853.57",Milton Keynes,South East England
+MK44,"2,595.62",Milton Keynes,South East England
+MK45,"12,401.20",Milton Keynes,South East England
+MK46,519.7028389,Milton Keynes,South East England
+MK5,981.6578623,Milton Keynes,South East England
+MK6,"3,891.98",Milton Keynes,South East England
+MK7,"3,470.37",Milton Keynes,South East England
+MK8,916.2766076,Milton Keynes,South East England
+MK9,487.8089222,Milton Keynes,South East England
+ML1,"6,599.29",Motherwell,Scotland
+ML10,"4,725.56",Motherwell,Scotland
+ML11,"19,810.22",Motherwell,Scotland
+ML12,"6,730.75",Motherwell,Scotland
+ML2,"2,288.37",Motherwell,Scotland
+ML3,"5,756.50",Motherwell,Scotland
+ML4,"2,658.36",Motherwell,Scotland
+ML5,"4,357.39",Motherwell,Scotland
+ML6,"4,480.50",Motherwell,Scotland
+ML7,848.4842238,Motherwell,Scotland
+ML8,"7,239.00",Motherwell,Scotland
+ML9,"3,440.33",Motherwell,Scotland
+N1,"6,778.58",London North,Greater London
+N10,"3,521.52",London North,Greater London
+N11,"2,147.60",London North,Greater London
+N12,"2,084.65",London North,Greater London
+N13,"1,307.79",London North,Greater London
+N14,"2,450.78",London North,Greater London
+N15,"1,134.88",London North,Greater London
+N16,"1,586.56",London North,Greater London
+N17,"1,824.94",London North,Greater London
+N18,"1,044.51",London North,Greater London
+N19,"3,134.55",London North,Greater London
+N1C,75.17983372,London North,Greater London
+N2,"2,919.62",London North,Greater London
+N20,"1,960.06",London North,Greater London
+N21,"1,753.21",London North,Greater London
+N22,"2,139.06",London North,Greater London
+N3,"2,618.54",London North,Greater London
+N4,"3,246.69",London North,Greater London
+N5,"1,422.57",London North,Greater London
+N6,"2,754.67",London North,Greater London
+N7,"4,225.95",London North,Greater London
+N8,"5,018.10",London North,Greater London
+N9,"1,997.58",London North,Greater London
+NE1,"2,210.74",Newcastle upon Tyne,North East England
+NE10,"7,656.30",Newcastle upon Tyne,North East England
+NE11,"2,088.65",Newcastle upon Tyne,North East England
+NE12,"3,571.20",Newcastle upon Tyne,North East England
+NE13,"2,934.71",Newcastle upon Tyne,North East England
+NE15,"3,441.38",Newcastle upon Tyne,North East England
+NE16,"3,861.42",Newcastle upon Tyne,North East England
+NE17,415.8377233,Newcastle upon Tyne,North East England
+NE18,105.9296443,Newcastle upon Tyne,North East England
+NE19,506.5693006,Newcastle upon Tyne,North East England
+NE2,"4,984.87",Newcastle upon Tyne,North East England
+NE20,"2,406.16",Newcastle upon Tyne,North East England
+NE21,"1,274.56",Newcastle upon Tyne,North East England
+NE22,"5,405.98",Newcastle upon Tyne,North East England
+NE23,"13,565.94",Newcastle upon Tyne,North East England
+NE24,"13,249.91",Newcastle upon Tyne,North East England
+NE25,"7,081.70",Newcastle upon Tyne,North East England
+NE26,"2,015.10",Newcastle upon Tyne,North East England
+NE27,"1,421.67",Newcastle upon Tyne,North East England
+NE28,"3,151.77",Newcastle upon Tyne,North East England
+NE29,"7,064.92",Newcastle upon Tyne,North East England
+NE3,"7,824.27",Newcastle upon Tyne,North East England
+NE30,"2,910.10",Newcastle upon Tyne,North East England
+NE31,"1,227.53",Newcastle upon Tyne,North East England
+NE32,"1,622.44",Newcastle upon Tyne,North East England
+NE33,"3,450.94",Newcastle upon Tyne,North East England
+NE34,"4,787.40",Newcastle upon Tyne,North East England
+NE35,395.045513,Newcastle upon Tyne,North East England
+NE36,"1,186.25",Newcastle upon Tyne,North East England
+NE37,"4,489.71",Newcastle upon Tyne,North East England
+NE38,"3,250.45",Newcastle upon Tyne,North East England
+NE39,566.1894429,Newcastle upon Tyne,North East England
+NE4,"4,938.30",Newcastle upon Tyne,North East England
+NE40,"1,360.83",Newcastle upon Tyne,North East England
+NE41,274.1084025,Newcastle upon Tyne,North East England
+NE42,"1,588.14",Newcastle upon Tyne,North East England
+NE43,"2,273.83",Newcastle upon Tyne,North East England
+NE44,544.4192519,Newcastle upon Tyne,North East England
+NE45,567.690839,Newcastle upon Tyne,North East England
+NE46,"5,700.37",Newcastle upon Tyne,North East England
+NE47,"2,947.79",Newcastle upon Tyne,North East England
+NE48,738.9477548,Newcastle upon Tyne,North East England
+NE49,"4,468.44",Newcastle upon Tyne,North East England
+NE5,"4,435.00",Newcastle upon Tyne,North East England
+NE6,"7,870.99",Newcastle upon Tyne,North East England
+NE61,"6,262.50",Newcastle upon Tyne,North East England
+NE62,"1,988.87",Newcastle upon Tyne,North East England
+NE63,"8,180.18",Newcastle upon Tyne,North East England
+NE64,"1,091.48",Newcastle upon Tyne,North East England
+NE65,"6,739.09",Newcastle upon Tyne,North East England
+NE66,"9,519.82",Newcastle upon Tyne,North East England
+NE67,467.751694,Newcastle upon Tyne,North East England
+NE68,538.875999,Newcastle upon Tyne,North East England
+NE69,181.0994091,Newcastle upon Tyne,North East England
+NE7,"1,936.91",Newcastle upon Tyne,North East England
+NE70,476.2823769,Newcastle upon Tyne,North East England
+NE71,"1,761.70",Newcastle upon Tyne,North East England
+NE8,"3,573.50",Newcastle upon Tyne,North East England
+NE9,"8,644.01",Newcastle upon Tyne,North East England
+NG1,"2,387.32",Nottingham,East Midlands
+NG10,"3,539.91",Nottingham,East Midlands
+NG11,"6,369.63",Nottingham,East Midlands
+NG12,"14,121.65",Nottingham,East Midlands
+NG13,"7,761.65",Nottingham,East Midlands
+NG14,"9,351.66",Nottingham,East Midlands
+NG15,"10,759.53",Nottingham,East Midlands
+NG16,"10,365.77",Nottingham,East Midlands
+NG17,"6,187.67",Nottingham,East Midlands
+NG18,"2,798.76",Nottingham,East Midlands
+NG19,"7,149.50",Nottingham,East Midlands
+NG2,"6,495.13",Nottingham,East Midlands
+NG20,"2,896.63",Nottingham,East Midlands
+NG21,"3,677.27",Nottingham,East Midlands
+NG22,"6,952.51",Nottingham,East Midlands
+NG23,"6,219.60",Nottingham,East Midlands
+NG24,"9,768.21",Nottingham,East Midlands
+NG25,"5,780.44",Nottingham,East Midlands
+NG3,"7,252.31",Nottingham,East Midlands
+NG31,"9,241.93",Nottingham,East Midlands
+NG32,"3,396.12",Nottingham,East Midlands
+NG33,"2,424.77",Nottingham,East Midlands
+NG34,"18,395.86",Nottingham,East Midlands
+NG4,"5,651.17",Nottingham,East Midlands
+NG5,"6,407.00",Nottingham,East Midlands
+NG6,"1,901.30",Nottingham,East Midlands
+NG7,"8,443.78",Nottingham,East Midlands
+NG8,"20,048.27",Nottingham,East Midlands
+NG9,"9,061.72",Nottingham,East Midlands
+NN1,"8,024.44",Northampton,West Midlands
+NN10,"2,921.25",Northampton,West Midlands
+NN11,"10,586.51",Northampton,West Midlands
+NN12,"11,083.19",Northampton,West Midlands
+NN13,"4,355.05",Northampton,West Midlands
+NN14,"15,266.27",Northampton,West Midlands
+NN15,"4,855.37",Northampton,West Midlands
+NN16,"6,975.41",Northampton,West Midlands
+NN17,"2,537.60",Northampton,West Midlands
+NN18,"2,193.23",Northampton,West Midlands
+NN2,"4,684.81",Northampton,West Midlands
+NN29,"1,494.35",Northampton,West Midlands
+NN3,"10,895.84",Northampton,West Midlands
+NN4,"4,542.57",Northampton,West Midlands
+NN5,"5,939.39",Northampton,West Midlands
+NN6,"7,453.01",Northampton,West Midlands
+NN7,"4,657.29",Northampton,West Midlands
+NN8,"7,698.91",Northampton,West Midlands
+NN9,"2,876.91",Northampton,West Midlands
+NP10,"2,185.09",Newport,Wales
+NP11,"6,076.43",Newport,Wales
+NP12,"4,319.18",Newport,Wales
+NP13,"1,459.93",Newport,Wales
+NP15,"4,748.06",Newport,Wales
+NP16,"8,332.03",Newport,Wales
+NP18,"4,835.60",Newport,Wales
+NP19,"6,815.57",Newport,Wales
+NP20,"7,319.25",Newport,Wales
+NP22,"4,285.73",Newport,Wales
+NP23,"3,540.09",Newport,Wales
+NP24,550.8884694,Newport,Wales
+NP25,"6,915.12",Newport,Wales
+NP26,"5,354.80",Newport,Wales
+NP4,"7,507.03",Newport,Wales
+NP44,"8,040.49",Newport,Wales
+NP7,"11,244.16",Newport,Wales
+NP8,"2,769.52",Newport,Wales
+NR1,"9,201.59",Norwich,East of England
+NR10,"5,290.97",Norwich,East of England
+NR11,"3,491.98",Norwich,East of England
+NR12,"6,437.22",Norwich,East of England
+NR13,"5,329.75",Norwich,East of England
+NR14,"19,434.75",Norwich,East of England
+NR15,"13,840.63",Norwich,East of England
+NR16,"5,731.22",Norwich,East of England
+NR17,"4,791.54",Norwich,East of England
+NR18,"2,973.28",Norwich,East of England
+NR19,"3,545.76",Norwich,East of England
+NR2,"3,625.60",Norwich,East of England
+NR20,"6,136.02",Norwich,East of England
+NR21,"8,825.85",Norwich,East of England
+NR22,489.77593,Norwich,East of England
+NR23,"1,822.18",Norwich,East of England
+NR24,963.0206919,Norwich,East of England
+NR25,"2,506.08",Norwich,East of England
+NR26,"2,360.66",Norwich,East of England
+NR27,"3,240.48",Norwich,East of England
+NR28,"2,876.95",Norwich,East of England
+NR29,"3,262.52",Norwich,East of England
+NR3,"5,365.23",Norwich,East of England
+NR30,"4,528.18",Norwich,East of England
+NR31,"3,201.91",Norwich,East of England
+NR32,"5,046.61",Norwich,East of England
+NR33,"15,106.85",Norwich,East of England
+NR34,"9,049.81",Norwich,East of England
+NR35,"5,777.75",Norwich,East of England
+NR4,"3,621.68",Norwich,East of England
+NR5,"5,570.24",Norwich,East of England
+NR6,"3,341.31",Norwich,East of England
+NR7,"6,614.66",Norwich,East of England
+NR8,"7,561.52",Norwich,East of England
+NR9,"3,788.53",Norwich,East of England
+NW1,"6,223.32",London North West,Greater London
+NW10,"4,634.72",London North West,Greater London
+NW11,"2,808.80",London North West,Greater London
+NW2,"4,114.44",London North West,Greater London
+NW3,"7,388.85",London North West,Greater London
+NW4,"3,192.82",London North West,Greater London
+NW5,"2,988.52",London North West,Greater London
+NW6,"4,166.45",London North West,Greater London
+NW7,"1,679.90",London North West,Greater London
+NW8,"3,092.55",London North West,Greater London
+NW9,"2,341.72",London North West,Greater London
+OL1,"2,336.18",Oldham,North West England
+OL10,"1,543.78",Oldham,North West England
+OL11,"4,658.72",Oldham,North West England
+OL12,"4,175.73",Oldham,North West England
+OL13,"1,507.30",Oldham,North West England
+OL14,"4,888.01",Oldham,North West England
+OL15,"2,517.62",Oldham,North West England
+OL16,"2,910.90",Oldham,North West England
+OL2,"5,605.25",Oldham,North West England
+OL3,"1,824.88",Oldham,North West England
+OL4,"2,856.27",Oldham,North West England
+OL5,"1,546.47",Oldham,North West England
+OL6,"4,107.49",Oldham,North West England
+OL7,"2,543.31",Oldham,North West England
+OL8,"1,954.58",Oldham,North West England
+OL9,"2,943.54",Oldham,North West England
+OX1,"7,929.45",Oxford,South East England
+OX10,"15,158.75",Oxford,South East England
+OX11,"11,111.91",Oxford,South East England
+OX12,"9,128.78",Oxford,South East England
+OX13,"3,044.07",Oxford,South East England
+OX14,"12,608.23",Oxford,South East England
+OX15,"11,884.06",Oxford,South East England
+OX16,"14,845.32",Oxford,South East England
+OX17,"10,246.77",Oxford,South East England
+OX18,"7,458.58",Oxford,South East England
+OX2,"7,386.28",Oxford,South East England
+OX20,663.2310836,Oxford,South East England
+OX25,"6,420.63",Oxford,South East England
+OX26,"9,279.73",Oxford,South East England
+OX27,"3,489.70",Oxford,South East England
+OX28,"5,375.60",Oxford,South East England
+LE87,0,Leicester,
+LE95,0,Leicester,
+LS98,0,Leeds,
+LS99,0,Leeds,
+M60,0,Manchester,
+M61,0,Manchester,
+M99,0,Manchester,
+MK77,0,Milton Keynes,
+N81,0,London North,
+NE85,0,Newcastle upon Tyne,
+NE92,0,Newcastle upon Tyne,
+NE98,0,Newcastle upon Tyne,
+NE99,0,Newcastle upon Tyne,
+NG80,0,Nottingham,
+NG90,0,Nottingham,
+NR99,0,Norwich,
+OX29,"6,070.97",Oxford,South East England
+OX3,"9,296.97",Oxford,South East England
+OX33,"2,712.11",Oxford,South East England
+OX39,"4,173.19",Oxford,South East England
+OX4,"4,431.88",Oxford,South East England
+OX44,"1,485.12",Oxford,South East England
+OX49,"1,187.59",Oxford,South East England
+OX5,"1,833.01",Oxford,South East England
+OX7,"14,195.21",Oxford,South East England
+OX9,"4,007.49",Oxford,South East England
+PA1,"4,272.37",Paisley,Scotland
+PA10,"1,187.61",Paisley,Scotland
+PA11,690.6693077,Paisley,Scotland
+PA12,404.1837754,Paisley,Scotland
+PA13,542.9778764,Paisley,Scotland
+PA14,"1,768.34",Paisley,Scotland
+PA15,"2,131.97",Paisley,Scotland
+PA16,"2,981.06",Paisley,Scotland
+PA17,487.5785379,Paisley,Scotland
+PA18,300.8124219,Paisley,Scotland
+PA19,"1,269.57",Paisley,Scotland
+PA2,"6,377.33",Paisley,Scotland
+PA20,"2,395.37",Paisley,Scotland
+PA21,211.6126316,Paisley,Scotland
+PA22,74.31153661,Paisley,Scotland
+PA23,"2,619.27",Paisley,Scotland
+PA24,108.4230356,Paisley,Scotland
+PA25,19.20764066,Paisley,Scotland
+PA26,29.28996742,Paisley,Scotland
+PA27,172.16429,Paisley,Scotland
+PA28,"5,033.94",Paisley,Scotland
+PA29,716.2759176,Paisley,Scotland
+PA3,"4,373.55",Paisley,Scotland
+PA30,300.2949217,Paisley,Scotland
+PA31,"1,267.63",Paisley,Scotland
+PA32,292.5767804,Paisley,Scotland
+PA33,185.0294,Paisley,Scotland
+PA34,"2,610.11",Paisley,Scotland
+PA35,345.8936749,Paisley,Scotland
+PA36,11.00837347,Paisley,Scotland
+PA37,594.7791783,Paisley,Scotland
+PA38,214.5725944,Paisley,Scotland
+PA4,"1,650.16",Paisley,Scotland
+PA41,114.7243272,Paisley,Scotland
+PA42,511.2471852,Paisley,Scotland
+PA43,361.3171002,Paisley,Scotland
+PA44,136.8875541,Paisley,Scotland
+PA45,54.08910919,Paisley,Scotland
+PA46,84.76801609,Paisley,Scotland
+PA47,112.032813,Paisley,Scotland
+PA48,163.976186,Paisley,Scotland
+PA49,96.14157599,Paisley,Scotland
+PA5,"2,490.28",Paisley,Scotland
+PA6,646.7300299,Paisley,Scotland
+PA60,128.9808608,Paisley,Scotland
+PA61,100.3810712,Paisley,Scotland
+PA62,10.99688765,Paisley,Scotland
+PA63,3.806614954,Paisley,Scotland
+PA64,25.37743303,Paisley,Scotland
+PA65,55.52876558,Paisley,Scotland
+PA66,44.58551441,Paisley,Scotland
+PA67,86.57350047,Paisley,Scotland
+PA68,5.503471008,Paisley,Scotland
+PA69,8.621308757,Paisley,Scotland
+PA7,229.9737697,Paisley,Scotland
+PA70,24.19196276,Paisley,Scotland
+PA71,12.54401126,Paisley,Scotland
+PA72,89.94564088,Paisley,Scotland
+PA73,19.76261034,Paisley,Scotland
+PA74,11.16718207,Paisley,Scotland
+PA75,339.3272971,Paisley,Scotland
+PA76,41.38862835,Paisley,Scotland
+PA77,"1,599.13",Paisley,Scotland
+PA78,164.8260639,Paisley,Scotland
+PA8,519.5027346,Paisley,Scotland
+PA80,84.3639594,Paisley,Scotland
+PA9,456.6425072,Paisley,Scotland
+PE1,"11,963.93",Peterborough,East of England
+PE10,"4,306.44",Peterborough,East of England
+PE11,"6,966.11",Peterborough,East of England
+PE12,"4,489.71",Peterborough,East of England
+PE13,"3,256.37",Peterborough,East of England
+PE14,"3,230.57",Peterborough,East of England
+PE15,"4,932.86",Peterborough,East of England
+PE16,"1,124.11",Peterborough,East of England
+PE19,"8,253.57",Peterborough,East of England
+PE2,"6,676.20",Peterborough,East of England
+PE20,"4,427.42",Peterborough,East of England
+PE21,"5,761.48",Peterborough,East of England
+PE22,"2,492.74",Peterborough,East of England
+PE23,"3,344.47",Peterborough,East of England
+PE24,"1,406.05",Peterborough,East of England
+PE25,670.1417723,Peterborough,East of England
+PE26,"1,174.88",Peterborough,East of England
+PE27,"3,664.09",Peterborough,East of England
+PE28,"8,439.26",Peterborough,East of England
+PE29,"12,208.60",Peterborough,East of England
+PE3,"5,322.52",Peterborough,East of England
+PE30,"12,208.32",Peterborough,East of England
+PE31,"6,220.29",Peterborough,East of England
+PE32,"3,381.60",Peterborough,East of England
+PE33,"2,290.32",Peterborough,East of England
+PE34,"4,247.48",Peterborough,East of England
+PE35,31.20675191,Peterborough,East of England
+PE36,988.9884808,Peterborough,East of England
+PE37,"2,893.00",Peterborough,East of England
+PE38,"2,050.44",Peterborough,East of England
+PE4,"3,633.88",Peterborough,East of England
+PE5,257.4456931,Peterborough,East of England
+PE6,"7,184.80",Peterborough,East of England
+PE7,"6,020.91",Peterborough,East of England
+PE8,"7,253.16",Peterborough,East of England
+PE9,"5,709.39",Peterborough,East of England
+PH1,"7,927.39",Perth,Scotland
+PH10,"1,905.23",Perth,Scotland
+PH11,615.3418062,Perth,Scotland
+PH12,467.1482232,Perth,Scotland
+PH13,707.3457535,Perth,Scotland
+PH14,375.5944167,Perth,Scotland
+PH15,"1,560.46",Perth,Scotland
+PH16,"2,212.06",Perth,Scotland
+PH17,116.991234,Perth,Scotland
+PH18,427.1721168,Perth,Scotland
+PH19,43.55714617,Perth,Scotland
+PH2,"9,730.99",Perth,Scotland
+PH20,628.4701365,Perth,Scotland
+PH21,897.2151249,Perth,Scotland
+PH22,"1,534.89",Perth,Scotland
+PH23,386.7423213,Perth,Scotland
+PH24,492.5821033,Perth,Scotland
+PH25,567.0072195,Perth,Scotland
+PH26,"1,945.29",Perth,Scotland
+PH3,"3,074.84",Perth,Scotland
+PH30,4.729214723,Perth,Scotland
+PH31,97.5447838,Perth,Scotland
+PH32,150.1626623,Perth,Scotland
+PH33,"2,014.67",Perth,Scotland
+PH34,197.8351649,Perth,Scotland
+PH35,77.16020518,Perth,Scotland
+PH36,294.823922,Perth,Scotland
+PH37,29.46664558,Perth,Scotland
+PH38,43.65428975,Perth,Scotland
+PH39,85.25592055,Perth,Scotland
+PH4,401.6282813,Perth,Scotland
+PH40,54.24633844,Perth,Scotland
+PH41,174.4314483,Perth,Scotland
+PH42,17.82550165,Perth,Scotland
+PH43,12.0438801,Perth,Scotland
+PH44,11.45694637,Perth,Scotland
+PH49,209.7244858,Perth,Scotland
+PH5,200.7324656,Perth,Scotland
+PH50,191.5522802,Perth,Scotland
+PH6,645.0644718,Perth,Scotland
+PH7,"2,149.46",Perth,Scotland
+PH8,460.5516429,Perth,Scotland
+PH9,453.8057269,Perth,Scotland
+PL1,"4,066.62",Plymouth,South West England
+PL10,"1,218.87",Plymouth,South West England
+PL11,"2,926.86",Plymouth,South West England
+PL12,"5,729.06",Plymouth,South West England
+PL13,"1,377.26",Plymouth,South West England
+PL14,"9,540.72",Plymouth,South West England
+PL15,"9,351.27",Plymouth,South West England
+PL16,"1,097.80",Plymouth,South West England
+PL17,"5,777.30",Plymouth,South West England
+PL18,"2,374.41",Plymouth,South West England
+PL19,"9,172.54",Plymouth,South West England
+PL2,"3,880.28",Plymouth,South West England
+PL20,"3,478.12",Plymouth,South West England
+PL21,"10,034.10",Plymouth,South West England
+PL22,"1,705.53",Plymouth,South West England
+PL23,"1,758.35",Plymouth,South West England
+PL24,"3,180.46",Plymouth,South West England
+PL25,"5,650.17",Plymouth,South West England
+PL26,"8,775.33",Plymouth,South West England
+PL27,"5,179.88",Plymouth,South West England
+PL28,"1,196.37",Plymouth,South West England
+PL29,730.8361586,Plymouth,South West England
+PL3,"3,255.88",Plymouth,South West England
+PL30,"4,050.05",Plymouth,South West England
+PL31,"4,870.85",Plymouth,South West England
+PL32,956.0379074,Plymouth,South West England
+PL33,838.7233339,Plymouth,South West England
+PL34,717.9479314,Plymouth,South West England
+PL35,227.6769057,Plymouth,South West England
+PL4,"2,551.65",Plymouth,South West England
+PL5,"3,320.95",Plymouth,South West England
+PL6,"11,000.16",Plymouth,South West England
+PL7,"4,007.19",Plymouth,South West England
+PL8,"5,028.69",Plymouth,South West England
+PL9,"5,567.43",Plymouth,South West England
+PO1,"3,047.72",Portsmouth,South East England
+PO10,"7,631.71",Portsmouth,South East England
+PO11,"1,816.96",Portsmouth,South East England
+PO12,"8,190.40",Portsmouth,South East England
+PO13,"5,773.10",Portsmouth,South East England
+PO14,"7,991.60",Portsmouth,South East England
+PO15,"11,492.09",Portsmouth,South East England
+PO16,"3,424.74",Portsmouth,South East England
+PO17,"3,880.82",Portsmouth,South East England
+PO18,"4,723.54",Portsmouth,South East England
+PO19,"4,025.10",Portsmouth,South East England
+PO2,"6,196.13",Portsmouth,South East England
+PO20,"10,089.46",Portsmouth,South East England
+PO21,"9,025.46",Portsmouth,South East England
+PO22,"4,217.59",Portsmouth,South East England
+PO3,"4,253.12",Portsmouth,South East England
+PO30,"14,103.19",Portsmouth,South East England
+PO31,"1,846.36",Portsmouth,South East England
+PO32,"1,431.76",Portsmouth,South East England
+PO33,"4,052.84",Portsmouth,South East England
+PO34,594.3248554,Portsmouth,South East England
+PO35,"2,928.07",Portsmouth,South East England
+PO36,"1,520.91",Portsmouth,South East England
+PO37,665.2569655,Portsmouth,South East England
+PO38,"6,525.20",Portsmouth,South East England
+PO39,"1,501.29",Portsmouth,South East England
+PO4,"2,192.01",Portsmouth,South East England
+PO40,"3,877.13",Portsmouth,South East England
+PO41,"4,117.60",Portsmouth,South East England
+PO5,"2,068.38",Portsmouth,South East England
+PO6,"3,610.57",Portsmouth,South East England
+PO7,"6,695.88",Portsmouth,South East England
+PO8,"6,902.91",Portsmouth,South East England
+PO9,"8,664.22",Portsmouth,South East England
+PR1,"14,203.41",Preston,North West England
+PR2,"9,435.81",Preston,North West England
+PR25,"1,888.36",Preston,North West England
+PR26,"2,917.03",Preston,North West England
+PR3,"23,896.43",Preston,North West England
+PR4,"16,883.03",Preston,North West England
+PR5,"6,399.21",Preston,North West England
+PR6,"2,234.25",Preston,North West England
+PR7,"3,984.17",Preston,North West England
+PR8,"7,894.08",Preston,North West England
+PR9,"8,312.27",Preston,North West England
+RG1,"4,476.51",Reading,South East England
+RG10,"9,500.89",Reading,South East England
+RG12,"6,600.90",Reading,South East England
+RG14,"14,851.32",Reading,South East England
+RG17,"3,792.89",Reading,South East England
+RG18,"9,473.70",Reading,South East England
+RG19,"9,807.01",Reading,South East England
+RG2,"5,911.74",Reading,South East England
+RG20,"11,687.10",Reading,South East England
+RG21,"2,731.00",Reading,South East England
+RG22,"5,326.30",Reading,South East England
+RG23,"1,358.68",Reading,South East England
+RG24,"2,866.10",Reading,South East England
+RG25,"3,627.65",Reading,South East England
+RG26,"4,495.21",Reading,South East England
+RG27,"5,475.29",Reading,South East England
+RG28,"1,154.55",Reading,South East England
+RG29,"1,347.44",Reading,South East England
+RG30,"4,535.43",Reading,South East England
+RG31,"2,332.95",Reading,South East England
+RG4,"4,539.47",Reading,South East England
+RG40,"11,801.72",Reading,South East England
+RG41,"7,028.25",Reading,South East England
+RG42,"4,199.77",Reading,South East England
+RG45,"2,751.50",Reading,South East England
+RG5,"3,912.47",Reading,South East England
+RG6,"3,784.33",Reading,South East England
+RG7,"12,229.36",Reading,South East England
+RG8,"4,869.88",Reading,South East England
+RG9,"12,299.39",Reading,South East England
+RH1,"13,722.43",Redhill,South East England
+RH10,"7,437.19",Redhill,South East England
+RH11,"7,817.79",Redhill,South East England
+RH12,"15,448.96",Redhill,South East England
+RH13,"11,440.50",Redhill,South East England
+RH14,"7,593.66",Redhill,South East England
+RH15,"6,349.77",Redhill,South East England
+RH16,"5,680.41",Redhill,South East England
+RH17,"2,987.51",Redhill,South East England
+RH18,620.6281459,Redhill,South East England
+RH19,"6,568.49",Redhill,South East England
+RH2,"7,277.85",Redhill,South East England
+RH20,"8,972.48",Redhill,South East England
+RH3,950.482195,Redhill,South East England
+RH4,"1,825.52",Redhill,South East England
+RH5,"8,691.21",Redhill,South East England
+RH6,"5,743.08",Redhill,South East England
+RH7,"3,480.86",Redhill,South East England
+RH8,"2,699.39",Redhill,South East England
+RH9,"1,347.89",Redhill,South East England
+RM1,"1,662.25",Romford,Greater London
+RM10,"2,044.52",Romford,Greater London
+RM11,"2,542.22",Romford,Greater London
+RM12,"3,058.28",Romford,Greater London
+RM13,"1,883.01",Romford,Greater London
+RM14,"8,678.87",Romford,Greater London
+RM15,"1,846.75",Romford,Greater London
+RM16,"2,750.05",Romford,Greater London
+RM17,"2,705.88",Romford,Greater London
+RM18,923.0607945,Romford,Greater London
+RM19,208.3655399,Romford,Greater London
+RM2,904.2947957,Romford,Greater London
+RM20,344.0737022,Romford,Greater London
+RM3,"8,043.90",Romford,Greater London
+RM4,618.6792181,Romford,Greater London
+RM5,853.2060138,Romford,Greater London
+RM6,"2,046.27",Romford,Greater London
+RM7,"3,170.32",Romford,Greater London
+RM8,"2,034.67",Romford,Greater London
+RM9,"1,176.96",Romford,Greater London
+S1,819.2155105,Sheffield,Yorkshire and Humberside
+S10,"5,380.07",Sheffield,Yorkshire and Humberside
+S11,"4,909.99",Sheffield,Yorkshire and Humberside
+S12,"4,829.48",Sheffield,Yorkshire and Humberside
+S13,"2,299.13",Sheffield,Yorkshire and Humberside
+S14,831.8378251,Sheffield,Yorkshire and Humberside
+S17,"2,023.39",Sheffield,Yorkshire and Humberside
+S18,"6,789.77",Sheffield,Yorkshire and Humberside
+S2,"3,027.03",Sheffield,Yorkshire and Humberside
+S20,"4,082.42",Sheffield,Yorkshire and Humberside
+S21,"2,804.51",Sheffield,Yorkshire and Humberside
+S25,"3,621.12",Sheffield,Yorkshire and Humberside
+S26,"2,899.84",Sheffield,Yorkshire and Humberside
+S3,"1,752.24",Sheffield,Yorkshire and Humberside
+S32,"3,376.66",Sheffield,Yorkshire and Humberside
+S33,"1,639.87",Sheffield,Yorkshire and Humberside
+S35,"4,311.74",Sheffield,Yorkshire and Humberside
+S36,"9,956.23",Sheffield,Yorkshire and Humberside
+S4,"1,241.55",Sheffield,Yorkshire and Humberside
+S40,"5,016.70",Sheffield,Yorkshire and Humberside
+S41,"8,042.82",Sheffield,Yorkshire and Humberside
+S42,"3,062.34",Sheffield,Yorkshire and Humberside
+S43,"7,827.52",Sheffield,Yorkshire and Humberside
+S44,"3,224.90",Sheffield,Yorkshire and Humberside
+S45,"1,761.04",Sheffield,Yorkshire and Humberside
+S5,"3,259.71",Sheffield,Yorkshire and Humberside
+S6,"7,880.40",Sheffield,Yorkshire and Humberside
+S60,"1,558.64",Sheffield,Yorkshire and Humberside
+S61,"1,680.02",Sheffield,Yorkshire and Humberside
+S62,"2,403.69",Sheffield,Yorkshire and Humberside
+S63,"7,105.37",Sheffield,Yorkshire and Humberside
+S64,"1,598.08",Sheffield,Yorkshire and Humberside
+S65,"1,150.99",Sheffield,Yorkshire and Humberside
+S66,"2,563.89",Sheffield,Yorkshire and Humberside
+S7,"2,943.66",Sheffield,Yorkshire and Humberside
+S70,"4,753.91",Sheffield,Yorkshire and Humberside
+S71,"5,519.56",Sheffield,Yorkshire and Humberside
+S72,"1,867.79",Sheffield,Yorkshire and Humberside
+S73,"1,325.89",Sheffield,Yorkshire and Humberside
+S74,"1,843.98",Sheffield,Yorkshire and Humberside
+S75,"4,480.59",Sheffield,Yorkshire and Humberside
+S8,"6,740.04",Sheffield,Yorkshire and Humberside
+S80,"5,439.14",Sheffield,Yorkshire and Humberside
+S81,"5,482.85",Sheffield,Yorkshire and Humberside
+S9,"2,885.53",Sheffield,Yorkshire and Humberside
+SA1,"13,062.08",Swansea,Wales
+SA10,"5,932.46",Swansea,Wales
+SA11,"10,091.91",Swansea,Wales
+SA12,"7,703.87",Swansea,Wales
+SA13,"3,646.59",Swansea,Wales
+SA14,"3,770.71",Swansea,Wales
+SA15,"8,341.97",Swansea,Wales
+SA16,"2,550.75",Swansea,Wales
+SA17,"4,997.64",Swansea,Wales
+SA18,"6,552.21",Swansea,Wales
+SA19,"8,140.56",Swansea,Wales
+SA2,"12,263.10",Swansea,Wales
+SA20,"1,183.03",Swansea,Wales
+SA3,"8,974.77",Swansea,Wales
+SA31,"6,943.03",Swansea,Wales
+SA32,"2,381.95",Swansea,Wales
+SA33,"10,928.94",Swansea,Wales
+SA34,"5,824.71",Swansea,Wales
+SA35,288.0434784,Swansea,Wales
+SA36,145.4007616,Swansea,Wales
+SA37,544.5319417,Swansea,Wales
+SA38,"1,771.62",Swansea,Wales
+SA39,"2,001.58",Swansea,Wales
+SA4,"5,348.96",Swansea,Wales
+SA40,"2,353.13",Swansea,Wales
+SA41,861.2999747,Swansea,Wales
+SA42,803.4339445,Swansea,Wales
+SA43,"6,097.71",Swansea,Wales
+SA44,"6,884.57",Swansea,Wales
+SA45,945.6238152,Swansea,Wales
+SA46,"2,750.51",Swansea,Wales
+SA47,564.0231884,Swansea,Wales
+SA48,"7,577.32",Swansea,Wales
+SA5,"3,487.61",Swansea,Wales
+SA6,"7,248.50",Swansea,Wales
+SA61,"10,812.35",Swansea,Wales
+SA62,"17,104.53",Swansea,Wales
+SA63,"2,272.01",Swansea,Wales
+SA64,"1,024.17",Swansea,Wales
+SA65,"1,417.84",Swansea,Wales
+SA66,"3,782.56",Swansea,Wales
+SA67,"6,637.95",Swansea,Wales
+SA68,"1,160.69",Swansea,Wales
+SA69,842.3131349,Swansea,Wales
+SA7,"2,096.43",Swansea,Wales
+SA70,"1,778.07",Swansea,Wales
+SA71,"1,264.37",Swansea,Wales
+SA72,"1,119.18",Swansea,Wales
+SA73,"3,904.37",Swansea,Wales
+SA8,"5,158.02",Swansea,Wales
+SA9,"3,054.39",Swansea,Wales
+SE1,"1,698.08",South East London,Greater London
+SE10,"2,065.03",South East London,Greater London
+SE11,945.0454016,South East London,Greater London
+SE12,"1,386.67",South East London,Greater London
+SE13,"1,406.27",South East London,Greater London
+SE14,928.4155497,South East London,Greater London
+SE15,"1,463.83",South East London,Greater London
+SE16,"1,193.81",South East London,Greater London
+SE17,568.317968,South East London,Greater London
+SE18,"4,248.90",South East London,Greater London
+SE19,895.4546982,South East London,Greater London
+SE2,"1,673.40",South East London,Greater London
+SE20,779.564429,South East London,Greater London
+SE21,826.9638664,South East London,Greater London
+SE22,"1,711.71",South East London,Greater London
+SE23,"1,937.77",South East London,Greater London
+SE24,710.0347452,South East London,Greater London
+SE25,"1,399.82",South East London,Greater London
+SE26,"1,408.00",South East London,Greater London
+SE27,971.573265,South East London,Greater London
+SE28,"1,192.10",South East London,Greater London
+SE3,"1,954.06",South East London,Greater London
+SE4,"1,245.66",South East London,Greater London
+SE5,710.5185332,South East London,Greater London
+SE6,"2,273.05",South East London,Greater London
+SE7,"4,139.92",South East London,Greater London
+SE8,"1,137.52",South East London,Greater London
+SE9,"4,232.64",South East London,Greater London
+SG1,"8,097.57",Stevenage,East of England
+SG10,351.6725746,Stevenage,East of England
+SG11,"1,332.26",Stevenage,East of England
+SG12,"17,059.79",Stevenage,East of England
+SG13,"5,277.74",Stevenage,East of England
+SG14,"7,153.85",Stevenage,East of England
+SG15,612.574475,Stevenage,East of England
+SG16,874.4000311,Stevenage,East of England
+SG17,"1,765.78",Stevenage,East of England
+SG18,"6,707.94",Stevenage,East of England
+SG19,"10,703.29",Stevenage,East of England
+SG2,"4,925.18",Stevenage,East of England
+SG3,"2,129.31",Stevenage,East of England
+SG4,"2,399.68",Stevenage,East of England
+SG5,"11,673.22",Stevenage,East of England
+SG6,"3,146.76",Stevenage,East of England
+SG7,"2,123.03",Stevenage,East of England
+SG8,"9,491.32",Stevenage,East of England
+SG9,"4,597.25",Stevenage,East of England
+SK1,"1,453.43",Stockport,North West England
+SK10,"14,206.41",Stockport,North West England
+SK11,"9,354.01",Stockport,North West England
+SK12,"6,937.85",Stockport,North West England
+SK13,"4,019.50",Stockport,North West England
+SK14,"2,873.04",Stockport,North West England
+SK15,"1,353.83",Stockport,North West England
+SK16,"1,410.50",Stockport,North West England
+SK17,"8,766.47",Stockport,North West England
+SK2,"1,996.68",Stockport,North West England
+SK22,"3,787.06",Stockport,North West England
+SK23,"6,006.10",Stockport,North West England
+SK3,"5,861.30",Stockport,North West England
+SK4,"4,410.27",Stockport,North West England
+SK5,"3,721.59",Stockport,North West England
+SK6,"5,212.61",Stockport,North West England
+SK7,"5,209.19",Stockport,North West England
+SK8,"16,534.65",Stockport,North West England
+SK9,"13,842.09",Stockport,North West England
+SL0,840.621909,Slough,South East England
+SL1,"9,058.16",Slough,South East England
+SL2,"6,807.93",Slough,South East England
+SL3,"3,116.91",Slough,South East England
+SL4,"9,667.78",Slough,South East England
+SL5,"4,858.61",Slough,South East England
+SL6,"16,266.52",Slough,South East England
+SL7,"13,536.29",Slough,South East England
+SL8,654.8471752,Slough,South East England
+SL9,"5,160.49",Slough,South East England
+SM1,"3,892.05",Sutton,Greater London
+SM2,"3,897.59",Sutton,Greater London
+SM3,"3,135.33",Sutton,Greater London
+SM4,"3,184.77",Sutton,Greater London
+SM5,"2,682.51",Sutton,Greater London
+SM6,"1,827.05",Sutton,Greater London
+SM7,"2,967.06",Sutton,Greater London
+SN1,"13,372.90",Swindon,South West England
+SN10,"4,324.27",Swindon,South West England
+SN11,"6,016.09",Swindon,South West England
+PL95,0,Plymouth,
+PR11,0,Preston,
+RH77,0,Redhill,
+S49,0,Sheffield,
+S95,0,Sheffield,
+S96,0,Sheffield,
+S97,0,Sheffield,
+S98,0,Sheffield,
+S99,0,Sheffield,
+SA80,0,Swansea,
+SA99,0,Swansea,
+SE1P,0,South East London,
+SL95,0,Slough,
+SN12,"7,548.38",Swindon,South West England
+SN13,"8,135.34",Swindon,South West England
+SN14,"7,933.36",Swindon,South West England
+SN15,"22,834.60",Swindon,South West England
+SN16,"9,901.97",Swindon,South West England
+SN2,"10,469.23",Swindon,South West England
+SN25,"4,621.51",Swindon,South West England
+SN26,251.1030471,Swindon,South West England
+SN3,"18,189.77",Swindon,South West England
+SN4,"15,968.24",Swindon,South West England
+SN5,"6,300.91",Swindon,South West England
+SN6,"7,568.93",Swindon,South West England
+SN7,"4,698.02",Swindon,South West England
+SN8,"17,657.38",Swindon,South West England
+SN9,"1,113.23",Swindon,South West England
+SO14,"1,834.29",Southampton,South East England
+SO15,"4,113.67",Southampton,South East England
+SO16,"7,176.20",Southampton,South East England
+SO17,"1,416.94",Southampton,South East England
+SO18,"3,763.88",Southampton,South East England
+SO19,"4,068.79",Southampton,South East England
+SO20,"1,606.57",Southampton,South East England
+SO21,"13,931.11",Southampton,South East England
+SO22,"4,715.48",Southampton,South East England
+SO23,"6,701.44",Southampton,South East England
+SO24,"3,436.57",Southampton,South East England
+SO30,"6,157.43",Southampton,South East England
+SO31,"11,002.60",Southampton,South East England
+SO32,"7,680.85",Southampton,South East England
+SO40,"5,848.65",Southampton,South East England
+SO41,"5,930.76",Southampton,South East England
+SO42,"1,024.07",Southampton,South East England
+SO43,923.9120077,Southampton,South East England
+SO45,"9,056.07",Southampton,South East England
+SO50,"11,796.38",Southampton,South East England
+SO51,"5,011.11",Southampton,South East England
+SO52,999.4811058,Southampton,South East England
+SO53,"7,742.61",Southampton,South East England
+SP1,"10,344.92",Salisbury,South West England
+SP10,"7,646.30",Salisbury,South West England
+SP11,"5,304.17",Salisbury,South West England
+SP2,"8,323.73",Salisbury,South West England
+SP3,"4,867.54",Salisbury,South West England
+SP4,"11,171.06",Salisbury,South West England
+SP5,"6,281.01",Salisbury,South West England
+SP6,"10,293.55",Salisbury,South West England
+SP7,"7,282.48",Salisbury,South West England
+SP8,"9,178.75",Salisbury,South West England
+SP9,"4,715.64",Salisbury,South West England
+SR1,331.9978339,Sunderland,North East England
+SR2,940.2657887,Sunderland,North East England
+SR3,"1,462.80",Sunderland,North East England
+SR4,"3,017.94",Sunderland,North East England
+SR5,"4,940.83",Sunderland,North East England
+SR6,"3,807.13",Sunderland,North East England
+SR7,"1,954.07",Sunderland,North East England
+SR8,"1,637.62",Sunderland,North East England
+SS0,"6,210.11",Southend-on-Sea,East of England
+SS1,"3,333.25",Southend-on-Sea,East of England
+SS11,"1,871.91",Southend-on-Sea,East of England
+SS12,946.0494267,Southend-on-Sea,East of England
+SS13,"2,114.86",Southend-on-Sea,East of England
+SS14,"4,208.82",Southend-on-Sea,East of England
+SS15,"3,804.02",Southend-on-Sea,East of England
+SS16,"6,791.98",Southend-on-Sea,East of England
+SS17,"2,462.24",Southend-on-Sea,East of England
+SS2,"5,100.50",Southend-on-Sea,East of England
+SS3,"2,988.91",Southend-on-Sea,East of England
+SS4,"2,078.97",Southend-on-Sea,East of England
+SS5,"3,358.16",Southend-on-Sea,East of England
+SS6,"3,919.83",Southend-on-Sea,East of England
+SS7,"6,232.73",Southend-on-Sea,East of England
+SS8,"4,062.72",Southend-on-Sea,East of England
+SS9,"7,799.72",Southend-on-Sea,East of England
+ST1,"3,433.36",Stoke-on-Trent,West Midlands
+ST10,"9,404.91",Stoke-on-Trent,West Midlands
+ST11,"3,638.13",Stoke-on-Trent,West Midlands
+ST12,965.6123857,Stoke-on-Trent,West Midlands
+ST13,"9,189.80",Stoke-on-Trent,West Midlands
+ST14,"8,787.66",Stoke-on-Trent,West Midlands
+ST15,"12,321.86",Stoke-on-Trent,West Midlands
+ST16,"4,699.23",Stoke-on-Trent,West Midlands
+ST17,"7,472.04",Stoke-on-Trent,West Midlands
+ST18,"3,608.57",Stoke-on-Trent,West Midlands
+ST19,"7,700.33",Stoke-on-Trent,West Midlands
+ST2,"7,341.72",Stoke-on-Trent,West Midlands
+ST20,"2,337.41",Stoke-on-Trent,West Midlands
+ST21,"5,809.12",Stoke-on-Trent,West Midlands
+ST3,"8,920.54",Stoke-on-Trent,West Midlands
+ST4,"4,273.72",Stoke-on-Trent,West Midlands
+ST5,"8,969.57",Stoke-on-Trent,West Midlands
+ST6,"5,587.67",Stoke-on-Trent,West Midlands
+ST7,"12,200.70",Stoke-on-Trent,West Midlands
+ST8,"5,407.02",Stoke-on-Trent,West Midlands
+ST9,"2,168.61",Stoke-on-Trent,West Midlands
+SW10,"1,103.85",South West London,Greater London
+SW11,"5,446.33",South West London,Greater London
+SW12,"2,078.06",South West London,Greater London
+SW13,"2,316.18",South West London,Greater London
+SW14,"3,666.80",South West London,Greater London
+SW15,"3,962.05",South West London,Greater London
+SW16,"4,486.94",South West London,Greater London
+SW17,"3,929.92",South West London,Greater London
+SW18,"2,687.51",South West London,Greater London
+SW19,"11,780.16",South West London,Greater London
+SW1A,101.0083987,South West London,Greater London
+SW1E,237.5209847,South West London,Greater London
+SW1H,199.8505551,South West London,Greater London
+SW1P,"2,256.42",South West London,Greater London
+SW1V,"4,085.07",South West London,Greater London
+SW1W,"1,461.72",South West London,Greater London
+SW1X,839.4726265,South West London,Greater London
+SW1Y,131.1122777,South West London,Greater London
+SW2,"3,046.24",South West London,Greater London
+SW20,"3,347.70",South West London,Greater London
+SW3,"2,196.92",South West London,Greater London
+SW4,"3,080.47",South West London,Greater London
+SW5,799.8023225,South West London,Greater London
+SW6,"5,856.46",South West London,Greater London
+SW7,"1,198.63",South West London,Greater London
+SW8,"3,453.97",South West London,Greater London
+SW9,"1,097.47",South West London,Greater London
+SY1,"4,606.76",Shrewsbury,Wales
+SY10,"5,465.60",Shrewsbury,Wales
+SY11,"9,520.12",Shrewsbury,Wales
+SY12,"7,645.18",Shrewsbury,Wales
+SY13,"12,774.99",Shrewsbury,Wales
+SY14,"5,859.97",Shrewsbury,Wales
+SY15,"4,492.75",Shrewsbury,Wales
+SY16,"5,823.72",Shrewsbury,Wales
+SY17,"2,064.79",Shrewsbury,Wales
+SY18,"3,479.56",Shrewsbury,Wales
+SY19,"1,402.59",Shrewsbury,Wales
+SY2,"4,045.04",Shrewsbury,Wales
+SY20,"5,122.44",Shrewsbury,Wales
+SY21,"8,967.27",Shrewsbury,Wales
+SY22,"4,788.24",Shrewsbury,Wales
+SY23,"12,305.91",Shrewsbury,Wales
+SY24,548.6282696,Shrewsbury,Wales
+SY25,"3,802.26",Shrewsbury,Wales
+SY3,"9,646.02",Shrewsbury,Wales
+SY4,"8,162.63",Shrewsbury,Wales
+SY5,"8,086.82",Shrewsbury,Wales
+SY6,"3,237.29",Shrewsbury,Wales
+SY7,"4,584.74",Shrewsbury,Wales
+SY8,"11,765.29",Shrewsbury,Wales
+SY9,"1,535.73",Shrewsbury,Wales
+TA1,"14,715.01",Taunton,South West England
+TA10,"2,775.04",Taunton,South West England
+TA11,"2,120.31",Taunton,South West England
+TA12,"4,853.72",Taunton,South West England
+TA13,"1,359.96",Taunton,South West England
+TA14,"2,381.21",Taunton,South West England
+TA15,529.2144888,Taunton,South West England
+TA16,610.8091734,Taunton,South West England
+TA17,242.5659635,Taunton,South West England
+TA18,"3,861.60",Taunton,South West England
+TA19,"5,714.27",Taunton,South West England
+TA2,"6,653.59",Taunton,South West England
+TA20,"7,029.17",Taunton,South West England
+TA21,"10,647.35",Taunton,South West England
+TA22,"1,582.24",Taunton,South West England
+TA23,"1,670.05",Taunton,South West England
+TA24,"6,978.35",Taunton,South West England
+TA3,"7,273.03",Taunton,South West England
+TA4,"7,764.78",Taunton,South West England
+TA5,"5,052.36",Taunton,South West England
+TA6,"13,611.35",Taunton,South West England
+TA7,"12,105.58",Taunton,South West England
+TA8,"6,544.77",Taunton,South West England
+TA9,"3,970.73",Taunton,South West England
+TD1,"4,820.70",Galashiels,Scotland
+TD10,773.2314324,Galashiels,Scotland
+TD11,"6,880.69",Galashiels,Scotland
+TD12,"4,412.10",Galashiels,Scotland
+TD13,333.2206235,Galashiels,Scotland
+TD14,"2,428.06",Galashiels,Scotland
+TD15,"7,785.33",Galashiels,Scotland
+TD2,639.7470846,Galashiels,Scotland
+TD3,"1,388.81",Galashiels,Scotland
+TD4,362.2809769,Galashiels,Scotland
+TD5,"6,068.81",Galashiels,Scotland
+TD6,"2,892.00",Galashiels,Scotland
+TD7,"1,699.60",Galashiels,Scotland
+TD8,"1,055.54",Galashiels,Scotland
+TD9,"5,452.14",Galashiels,Scotland
+TF1,"9,480.68",Telford,West Midlands
+TF10,"7,870.12",Telford,West Midlands
+TF11,"6,101.21",Telford,West Midlands
+TF12,"2,534.27",Telford,West Midlands
+TF13,"2,081.19",Telford,West Midlands
+TF2,"9,506.61",Telford,West Midlands
+TF3,"3,044.49",Telford,West Midlands
+TF4,"2,741.17",Telford,West Midlands
+TF5,524.7672502,Telford,West Midlands
+TF6,"1,353.51",Telford,West Midlands
+TF7,"1,430.52",Telford,West Midlands
+TF8,840.8735058,Telford,West Midlands
+TF9,"13,884.74",Telford,West Midlands
+TN1,"1,918.21",Tonbridge,South East England
+TN10,540.9736543,Tonbridge,South East England
+TN11,"1,633.19",Tonbridge,South East England
+TN12,"17,667.60",Tonbridge,South East England
+TN13,"6,382.43",Tonbridge,South East England
+TN14,"5,980.99",Tonbridge,South East England
+TN15,"7,880.75",Tonbridge,South East England
+TN16,"5,532.47",Tonbridge,South East England
+TN17,"9,170.50",Tonbridge,South East England
+TN18,"2,072.72",Tonbridge,South East England
+TN19,"2,130.21",Tonbridge,South East England
+TN2,"4,912.87",Tonbridge,South East England
+TN20,717.8121464,Tonbridge,South East England
+TN21,"7,139.45",Tonbridge,South East England
+TN22,"8,995.02",Tonbridge,South East England
+TN23,"7,382.44",Tonbridge,South East England
+TN24,"4,917.46",Tonbridge,South East England
+TN25,"4,246.95",Tonbridge,South East England
+TN26,"2,102.99",Tonbridge,South East England
+TN27,"6,241.43",Tonbridge,South East England
+TN28,"2,742.37",Tonbridge,South East England
+TN29,"4,416.69",Tonbridge,South East England
+TN3,"1,406.23",Tonbridge,South East England
+TN30,"4,745.05",Tonbridge,South East England
+TN31,"4,824.89",Tonbridge,South East England
+TN32,"2,778.21",Tonbridge,South East England
+TN33,"5,764.96",Tonbridge,South East England
+TN34,"2,876.51",Tonbridge,South East England
+TN35,"1,859.26",Tonbridge,South East England
+TN36,483.4528659,Tonbridge,South East England
+TN37,"2,356.44",Tonbridge,South East England
+TN38,"3,001.34",Tonbridge,South East England
+TN39,"5,418.51",Tonbridge,South East England
+TN4,"4,783.31",Tonbridge,South East England
+TN40,"3,380.55",Tonbridge,South East England
+TN5,"1,898.19",Tonbridge,South East England
+TN6,"4,242.75",Tonbridge,South East England
+TN7,339.6707694,Tonbridge,South East England
+TN8,"2,721.69",Tonbridge,South East England
+TN9,"2,069.90",Tonbridge,South East England
+TQ1,"5,259.19",Torquay,South West England
+TQ10,"1,548.72",Torquay,South West England
+TQ11,"1,231.75",Torquay,South West England
+TQ12,"15,916.82",Torquay,South West England
+TQ13,"9,698.12",Torquay,South West England
+TQ14,"4,336.27",Torquay,South West England
+TQ2,"11,798.04",Torquay,South West England
+TQ3,"7,837.76",Torquay,South West England
+TQ4,"4,472.14",Torquay,South West England
+TQ5,"6,537.47",Torquay,South West England
+TQ6,"2,205.28",Torquay,South West England
+TQ7,"7,787.98",Torquay,South West England
+TQ8,"1,458.18",Torquay,South West England
+TQ9,"11,858.03",Torquay,South West England
+TR1,"11,822.76",Truro,South West England
+TR10,"2,155.91",Truro,South West England
+TR11,"9,483.78",Truro,South West England
+TR12,"2,123.11",Truro,South West England
+TR13,"6,784.86",Truro,South West England
+TR14,"9,477.04",Truro,South West England
+TR15,"6,097.51",Truro,South West England
+TR16,"4,522.82",Truro,South West England
+TR17,389.9676798,Truro,South West England
+TR18,"3,897.77",Truro,South West England
+TR19,"2,496.85",Truro,South West England
+TR2,"6,299.15",Truro,South West England
+TR20,"2,474.55",Truro,South West England
+TR21,211.5284676,Truro,South West England
+TR22,8.533949329,Truro,South West England
+TR23,12.12164155,Truro,South West England
+TR24,34.75736448,Truro,South West England
+TR25,12.07952196,Truro,South West England
+TR26,"5,522.53",Truro,South West England
+TR27,"7,290.04",Truro,South West England
+TR3,"3,430.73",Truro,South West England
+TR4,"4,298.59",Truro,South West England
+TR5,396.4022316,Truro,South West England
+TR6,474.1762382,Truro,South West England
+TR7,"7,464.78",Truro,South West England
+TR8,"4,892.94",Truro,South West England
+TR9,"6,548.81",Truro,South West England
+TS1,"4,021.95",Cleveland,North East England
+TS10,"4,861.91",Cleveland,North East England
+TS11,"2,654.84",Cleveland,North East England
+TS12,"4,091.16",Cleveland,North East England
+TS13,"1,179.69",Cleveland,North East England
+TS14,"3,495.35",Cleveland,North East England
+TS15,"3,418.82",Cleveland,North East England
+TS16,"2,297.69",Cleveland,North East England
+TS17,"9,700.30",Cleveland,North East England
+TS18,"2,945.35",Cleveland,North East England
+TS19,"2,992.17",Cleveland,North East England
+TS2,889.7088558,Cleveland,North East England
+TS20,"2,837.65",Cleveland,North East England
+TS21,"2,170.92",Cleveland,North East England
+TS22,819.6251408,Cleveland,North East England
+TS23,"5,905.36",Cleveland,North East England
+TS24,"1,921.63",Cleveland,North East England
+TS25,"4,567.88",Cleveland,North East England
+TS26,"2,905.05",Cleveland,North East England
+TS27,753.0965566,Cleveland,North East England
+TS28,229.4995019,Cleveland,North East England
+TS29,411.5866401,Cleveland,North East England
+TS3,425.0125139,Cleveland,North East England
+TS4,519.6256201,Cleveland,North East England
+TS5,"3,811.16",Cleveland,North East England
+TS6,462.4408426,Cleveland,North East England
+TS7,830.0917258,Cleveland,North East England
+TS8,"1,496.68",Cleveland,North East England
+TS9,"5,243.04",Cleveland,North East England
+TW1,"3,363.76",Twickenham,Greater London
+TW10,"3,418.11",Twickenham,Greater London
+TW11,"4,503.18",Twickenham,Greater London
+TW12,"4,330.21",Twickenham,Greater London
+TW13,"4,185.45",Twickenham,Greater London
+TW14,"2,158.43",Twickenham,Greater London
+TW15,"4,137.38",Twickenham,Greater London
+TW16,"4,328.87",Twickenham,Greater London
+TW17,"3,556.13",Twickenham,Greater London
+TW18,"6,078.49",Twickenham,Greater London
+TW19,"2,100.89",Twickenham,Greater London
+TW2,"3,369.25",Twickenham,Greater London
+TW20,"7,261.47",Twickenham,Greater London
+TW3,"1,917.91",Twickenham,Greater London
+TW4,"1,272.65",Twickenham,Greater London
+TW5,"1,236.67",Twickenham,Greater London
+TW6,82.00846185,Twickenham,Greater London
+TW7,"3,201.80",Twickenham,Greater London
+TW8,"1,308.71",Twickenham,Greater London
+TW9,"5,695.63",Twickenham,Greater London
+UB1,"1,807.87",Southall,Greater London
+UB10,"3,466.00",Southall,Greater London
+UB11,22.85660336,Southall,Greater London
+UB2,"1,749.93",Southall,Greater London
+UB3,"4,393.33",Southall,Greater London
+UB4,"2,308.94",Southall,Greater London
+UB5,"3,505.39",Southall,Greater London
+UB6,"3,032.02",Southall,Greater London
+UB7,"2,310.70",Southall,Greater London
+UB8,"2,611.58",Southall,Greater London
+UB9,"3,367.53",Southall,Greater London
+W10,"2,028.34",London West,Greater London
+W11,"3,089.75",London West,Greater London
+W12,"2,734.34",London West,Greater London
+W13,"2,487.46",London West,Greater London
+W14,"3,004.38",London West,Greater London
+W1A,1.4073352,London West,Greater London
+W1B,112.9635661,London West,Greater London
+W1C,47.49267935,London West,Greater London
+W1D,171.4604369,London West,Greater London
+W1F,186.932751,London West,Greater London
+W1G,591.3457166,London West,Greater London
+W1H,"1,221.73",London West,Greater London
+W1J,459.9935947,London West,Greater London
+W1K,699.0923042,London West,Greater London
+W1S,175.217052,London West,Greater London
+W1T,732.1421542,London West,Greater London
+W1U,846.6673636,London West,Greater London
+W1W,410.6549786,London West,Greater London
+W2,"5,283.31",London West,Greater London
+W3,"2,377.75",London West,Greater London
+W4,"4,769.23",London West,Greater London
+W5,"2,662.51",London West,Greater London
+W6,"3,262.81",London West,Greater London
+W7,"2,391.75",London West,Greater London
+W8,"2,159.50",London West,Greater London
+W9,"2,239.58",London West,Greater London
+WA1,"2,264.81",Warrington,North West England
+WA10,"2,162.05",Warrington,North West England
+WA11,"4,247.29",Warrington,North West England
+WA12,"2,298.69",Warrington,North West England
+WA13,"2,138.68",Warrington,North West England
+WA14,"3,026.15",Warrington,North West England
+WA15,"3,940.27",Warrington,North West England
+WA16,"5,886.22",Warrington,North West England
+WA2,"3,056.16",Warrington,North West England
+WA3,"7,830.26",Warrington,North West England
+WA4,"10,926.24",Warrington,North West England
+WA5,"9,942.62",Warrington,North West England
+WA6,"8,144.68",Warrington,North West England
+WA7,"11,706.85",Warrington,North West England
+WA8,"8,665.34",Warrington,North West England
+WA9,"14,940.70",Warrington,North West England
+WC1A,44.04812817,West Central London,Greater London
+WC1B,67.15455193,West Central London,Greater London
+WC1E,86.1302009,West Central London,Greater London
+WC1H,462.3362,West Central London,Greater London
+WC1N,260.1976714,West Central London,Greater London
+WC1R,31.90692899,West Central London,Greater London
+WC1V,11.2652524,West Central London,Greater London
+WC1X,412.3361208,West Central London,Greater London
+WC2A,14.91930876,West Central London,Greater London
+WC2B,36.57058999,West Central London,Greater London
+WC2E,48.21405356,West Central London,Greater London
+WC2H,90.65801126,West Central London,Greater London
+WC2N,62.05380144,West Central London,Greater London
+WC2R,14.29599531,West Central London,Greater London
+WD17,"5,651.88",Watford,Greater London
+WD18,"2,359.01",Watford,Greater London
+WD19,"4,440.55",Watford,Greater London
+WD23,"4,859.25",Watford,Greater London
+WD24,"3,061.94",Watford,Greater London
+WD25,"3,060.07",Watford,Greater London
+WD3,"6,697.17",Watford,Greater London
+WD4,"1,840.86",Watford,Greater London
+WD5,"2,106.21",Watford,Greater London
+WD6,"3,069.93",Watford,Greater London
+WD7,"3,464.89",Watford,Greater London
+WF1,"7,038.32",Wakefield,Yorkshire and Humberside
+WF10,"8,995.53",Wakefield,Yorkshire and Humberside
+WF11,"1,719.85",Wakefield,Yorkshire and Humberside
+WF12,"11,470.41",Wakefield,Yorkshire and Humberside
+WF13,"3,420.33",Wakefield,Yorkshire and Humberside
+WF14,"1,751.94",Wakefield,Yorkshire and Humberside
+WF15,"1,490.61",Wakefield,Yorkshire and Humberside
+WF16,640.8959564,Wakefield,Yorkshire and Humberside
+WF17,"3,664.02",Wakefield,Yorkshire and Humberside
+WF2,"13,754.88",Wakefield,Yorkshire and Humberside
+WF3,"4,491.85",Wakefield,Yorkshire and Humberside
+WF4,"3,847.41",Wakefield,Yorkshire and Humberside
+WF5,"2,660.62",Wakefield,Yorkshire and Humberside
+WF6,"1,579.27",Wakefield,Yorkshire and Humberside
+WF7,"3,341.09",Wakefield,Yorkshire and Humberside
+WF8,"5,449.48",Wakefield,Yorkshire and Humberside
+WF9,"7,079.35",Wakefield,Yorkshire and Humberside
+WN1,"2,432.36",Wigan,North West England
+WN2,"7,288.68",Wigan,North West England
+WN3,"2,488.47",Wigan,North West England
+WN4,"4,665.40",Wigan,North West England
+WN5,"5,037.85",Wigan,North West England
+WN6,"4,706.02",Wigan,North West England
+WN7,"7,697.12",Wigan,North West England
+WN8,"4,923.53",Wigan,North West England
+WR1,"1,754.28",Worcester,West Midlands
+WR10,"6,461.46",Worcester,West Midlands
+WR11,"10,823.78",Worcester,West Midlands
+WR12,"2,882.99",Worcester,West Midlands
+WR13,"2,042.11",Worcester,West Midlands
+WR14,"8,008.81",Worcester,West Midlands
+WR15,"7,896.71",Worcester,West Midlands
+WR2,"8,053.07",Worcester,West Midlands
+WR3,"3,470.37",Worcester,West Midlands
+WR4,"5,070.79",Worcester,West Midlands
+WR5,"6,350.04",Worcester,West Midlands
+WR6,"4,365.95",Worcester,West Midlands
+WR7,"1,929.86",Worcester,West Midlands
+WR8,"3,971.15",Worcester,West Midlands
+WR9,"11,846.19",Worcester,West Midlands
+WS1,"2,053.26",Walsall,West Midlands
+WS10,"2,124.45",Walsall,West Midlands
+WS11,"6,210.09",Walsall,West Midlands
+WS12,"3,086.63",Walsall,West Midlands
+WS13,"9,730.02",Walsall,West Midlands
+WS14,"7,447.28",Walsall,West Midlands
+WS15,"10,006.45",Walsall,West Midlands
+WS2,"3,340.66",Walsall,West Midlands
+WS3,"8,538.25",Walsall,West Midlands
+WS4,"1,734.50",Walsall,West Midlands
+WS5,"1,409.29",Walsall,West Midlands
+WS6,"1,449.75",Walsall,West Midlands
+WS7,"6,645.68",Walsall,West Midlands
+WS8,"4,015.48",Walsall,West Midlands
+WS9,"4,796.91",Walsall,West Midlands
+WV1,"3,183.15",Wolverhampton,West Midlands
+WV10,"4,465.75",Wolverhampton,West Midlands
+WV11,"2,837.68",Wolverhampton,West Midlands
+WV12,"3,581.01",Wolverhampton,West Midlands
+WV13,"1,577.11",Wolverhampton,West Midlands
+WV14,"2,900.53",Wolverhampton,West Midlands
+WV15,"3,178.79",Wolverhampton,West Midlands
+WV16,"7,204.59",Wolverhampton,West Midlands
+WV2,"3,669.85",Wolverhampton,West Midlands
+WV3,"5,070.40",Wolverhampton,West Midlands
+WV4,"4,448.65",Wolverhampton,West Midlands
+WV5,"3,241.42",Wolverhampton,West Midlands
+WV6,"8,900.29",Wolverhampton,West Midlands
+WV7,744.7383947,Wolverhampton,West Midlands
+WV8,"3,122.70",Wolverhampton,West Midlands
+WV9,508.8387153,Wolverhampton,West Midlands
+YO1,"2,696.68",York,North East England
+YO10,"6,532.89",York,North East England
+YO11,"2,575.24",York,North East England
+YO12,"5,927.00",York,North East England
+YO13,"2,256.47",York,North East England
+YO14,"2,977.67",York,North East England
+YO15,"4,246.65",York,North East England
+YO16,"4,262.58",York,North East England
+YO17,"6,110.23",York,North East England
+YO18,"8,256.51",York,North East England
+SN38,0,Swindon,
+SN99,0,Swindon,
+SO97,0,Southampton,
+SR9,0,Sunderland,
+SS99,0,Southend-on-Sea,
+ST55,0,Stoke-on-Trent,
+SW95,0,South West London,
+SY99,0,Shrewsbury,
+WA55,0,Warrington,
+WA88,0,Warrington,
+WD99,0,Watford,
+WF90,0,Wakefield,
+WR99,0,Worcester,
+YO19,"7,103.82",York,Yorkshire and Humberside
+YO21,"5,965.07",York,Yorkshire and Humberside
+YO22,"2,260.74",York,Yorkshire and Humberside
+YO23,"4,110.47",York,Yorkshire and Humberside
+YO24,"7,663.15",York,Yorkshire and Humberside
+YO25,"11,597.34",York,Yorkshire and Humberside
+YO26,"10,574.30",York,Yorkshire and Humberside
+YO30,"6,491.74",York,Yorkshire and Humberside
+YO31,"4,974.69",York,Yorkshire and Humberside
+YO32,"6,416.70",York,Yorkshire and Humberside
+YO41,"3,666.08",York,Yorkshire and Humberside
+YO42,"6,220.75",York,Yorkshire and Humberside
+YO43,"6,980.51",York,Yorkshire and Humberside
+YO51,"2,038.56",York,Yorkshire and Humberside
+YO60,"4,512.05",York,Yorkshire and Humberside
+YO61,"13,811.55",York,Yorkshire and Humberside
+YO62,"8,312.63",York,Yorkshire and Humberside
+YO7,"5,471.45",York,Yorkshire and Humberside
+YO8,"5,866.53",York,Yorkshire and Humberside
+ZE1,"2,173.81",Shetland,Scotland
+ZE2,"5,259.71",Shetland,Scotland
+ZE3,120.4254386,Shetland,Scotland
+YO90,0,York,

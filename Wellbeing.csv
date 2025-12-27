@@ -1,0 +1,374 @@
+District,Area Name,Life Satisfaction,Happiness,Anxiety,Worthwhile
+North East England,County Durham,7.54,7.39,2.9,7.68
+North East England,Darlington,7.37,7.35,3.29,7.8
+North East England,Hartlepool,7.42,7.54,3.3,7.75
+North East England,Middlesbrough,7.5,7.41,3.02,7.65
+North East England,Northumberland,7.68,7.48,3.06,7.91
+North East England,Redcar and Cleveland,7.5,7.46,2.73,7.74
+North East England,Stockton-on-Tees,7.3,7.23,3.18,7.45
+North East England,Gateshead,7.47,7.49,3.21,7.73
+North East England,Newcastle upon Tyne,7.69,7.49,3.14,7.82
+North East England,North Tyneside,7.51,7.16,3.43,7.75
+North East England,South Tyneside,7.52,7.44,2.79,7.85
+North East England,Sunderland,7.23,7.1,3.18,7.41
+North West England,Blackburn with Darwen,7.42,7.36,3.2,7.76
+North West England,Blackpool,7.44,7.43,3.27,7.7
+North West England,Cheshire East,7.76,7.47,3.14,7.88
+North West England,Cheshire West and Chester,7.47,7.4,2.93,7.83
+North West England,Allerdale,7.47,7.37,3.07,7.66
+North West England,Barrow-in-Furness,7.28,7.4,3.57,6.91
+North West England,Carlisle,7.45,7.52,3.52,7.7
+North West England,Copeland,7.67,7.76,2.67,7.75
+North West England,Eden,7.8,7.42,2.56,7.63
+North West England,South Lakeland,7.86,7.88,2.83,8.07
+North West England,Halton,7.34,7.36,3.24,7.68
+North West England,Bolton,7.43,7.52,3.29,7.88
+North West England,Bury,7.44,7.42,3.44,7.74
+North West England,Manchester,7.45,7.26,3.41,7.72
+North West England,Oldham ,7.51,7.46,3.14,7.81
+North West England,Rochdale,7.42,7.3,2.8,7.74
+North West England,Salford,7.36,7.3,3.35,7.6
+North West England,Stockport,7.76,7.56,3.17,7.86
+North West England,Tameside,7.62,7.48,2.91,7.85
+North West England,Trafford,7.48,7.43,3.44,7.82
+North West England,Wigan,7.68,7.6,3.05,8.05
+North West England,Burnley,7.17,7.22,2.47,7.03
+North West England,Chorley,7.79,7.54,2.57,8.16
+North West England,Fylde,7.88,7.89,2.49,7.93
+North West England,Hyndburn,7.29,7.58,2.5,7.73
+North West England,Lancaster,7.91,7.55,3.27,7.92
+North West England,Pendle,7.98,8.1,2.28,8.17
+North West England,Preston,7.33,7.52,3.71,7.24
+North West England,Ribble Valley,7.73,7.62,3.38,7.93
+North West England,Rossendale,7.69,7.22,3.22,8.02
+North West England,South Ribble,7.36,7.45,3.62,7.3
+North West England,West Lancashire,7.57,7.61,3.15,8.13
+North West England,Wyre,7.72,7.55,3.41,8.03
+North West England,Knowsley ,7.36,7.19,3.08,7.63
+North West England,Liverpool,7.34,7.14,3.28,7.74
+North West England,Sefton,7.52,7.62,3.04,7.81
+North West England,St. Helens,7.48,7.45,3.06,7.97
+North West England,Wirral,7.25,7.31,3.36,7.52
+North West England,Warrington,7.43,7.38,3.04,7.78
+Yorkshire and Humberside,East Riding of Yorkshire,7.69,7.74,3.04,7.89
+Yorkshire and Humberside,"Kingston upon Hull, City of",7.25,7.38,3.27,7.42
+Yorkshire and Humberside,North East Lincolnshire,7.38,7.54,3.49,7.9
+Yorkshire and Humberside,North Lincolnshire,7.77,7.57,2.82,7.89
+Yorkshire and Humberside,Craven,7.43,7.03,3.87,7.33
+North West England,Hambleton,8.09,8.05,2.17,8.35
+Yorkshire and Humberside,Harrogate,7.86,7.83,2.57,8
+Yorkshire and Humberside,Richmondshire,8.16,7.99,2.22,8.26
+Yorkshire and Humberside,Ryedale,7.72,8.03,3.35,7.7
+Yorkshire and Humberside,Scarborough,7.63,7.28,2.83,7.92
+Yorkshire and Humberside,Selby,7.57,7.63,3.2,7.7
+Yorkshire and Humberside,Barnsley,7.31,7.22,2.97,7.54
+Yorkshire and Humberside,Doncaster,7.43,7.54,2.97,7.69
+Yorkshire and Humberside,Rotherham ,7.46,7.5,3.34,7.77
+Yorkshire and Humberside,Sheffield,7.66,7.45,3.15,7.89
+Yorkshire and Humberside,Bradford ,7.47,7.49,3.33,7.82
+Yorkshire and Humberside,Calderdale,7.45,7.34,2.97,7.72
+Yorkshire and Humberside,Kirklees ,7.59,7.59,2.73,7.92
+Yorkshire and Humberside,Leeds ,7.54,7.35,3.41,7.89
+Yorkshire and Humberside,Wakefield,7.62,7.54,2.99,7.89
+Yorkshire and Humberside,York,7.65,7.34,3.33,7.81
+East Midlands,Derby ,7.35,7.39,3.15,7.77
+East Midlands,Amber Valley,7.79,7.59,2.68,8.1
+East Midlands,Bolsover,7.48,7.25,3.07,7.66
+East Midlands,Chesterfield,7.33,7.2,3.71,7.73
+East Midlands,Derbyshire Dales,7.62,7.26,3.05,7.72
+East Midlands,Erewash,7.65,7.38,2.93,7.79
+East Midlands,High Peak,8.34,7.91,2.36,8.49
+East Midlands,North East Derbyshire,7.53,7.58,2.89,7.65
+East Midlands,South Derbyshire,7.76,7.57,3.23,7.72
+East Midlands,Leicester,7.57,7.41,3.48,7.84
+East Midlands,Blaby,8.1,8.03,2.87,8.33
+East Midlands,Charnwood,7.91,7.71,3.1,8.03
+East Midlands,Harborough,7.57,7.33,3.39,8.16
+East Midlands,Hinckley and Bosworth,8.01,7.8,2.7,8.07
+East Midlands,Melton,7.03,7.22,2.13,7.63
+East Midlands,North West Leicestershire,8.02,7.48,3.2,8.27
+East Midlands,Oadby and Wigston,[u],[u],[u],[u]
+East Midlands,Boston,7.7,7.62,3.17,7.57
+East Midlands,East Lindsey,7.67,7.84,3.3,7.96
+East Midlands,Lincoln,7.35,7.59,3.52,7.73
+East Midlands,North Kesteven,7.55,7.63,2.61,7.91
+East Midlands,South Holland,7.48,7.33,2.95,7.5
+East Midlands,South Kesteven,7.71,7.51,2.79,7.68
+East Midlands,West Lindsey,8.07,7.73,3.27,7.95
+East Midlands,North Northamptonshire,7.5,7.62,2.66,7.67
+East Midlands,Nottingham,7.25,7.2,3.16,7.81
+East Midlands,Ashfield,7.23,7.49,2.67,7.65
+East Midlands,Bassetlaw,7.21,7.34,3.5,7.68
+East Midlands,Broxtowe,7.73,7.49,3.06,7.99
+East Midlands,Gedling,7.55,7.37,3.25,7.91
+East Midlands,Mansfield,7.18,7.01,3.06,7.64
+East Midlands,Newark and Sherwood,7.14,7.23,3.62,7.56
+East Midlands,Rushcliffe,7.42,7.52,3.69,7.72
+East Midlands,Rutland ,7.76,7.78,3.43,8.12
+East Midlands,West Northamptonshire,7.66,7.51,2.92,7.76
+West Midlands,Birmingham,7.5,7.32,3.23,7.71
+West Midlands,Coventry,7.44,7.41,3.11,7.69
+West Midlands,Dudley ,7.52,7.42,3.15,7.89
+West Midlands,"Herefordshire, County of",7.55,7.44,3.19,7.82
+West Midlands,Sandwell ,7.29,7.25,2.88,7.58
+West Midlands,Shropshire,7.56,7.4,3.01,7.84
+West Midlands,Solihull,7.44,7.37,3.11,7.66
+West Midlands,Cannock Chase,7.35,7.26,2.93,7.77
+West Midlands,East Staffordshire,7.71,7.45,3.23,7.77
+West Midlands,Lichfield,8.06,8.1,2.34,8.17
+West Midlands,Newcastle-under-Lyme,7.59,7.87,3.11,7.96
+West Midlands,South Staffordshire,7.65,7.51,2.57,7.97
+West Midlands,Stafford,7.1,7.24,3.2,7.33
+West Midlands,Staffordshire Moorlands,7.94,7.72,3.1,8.26
+West Midlands,Tamworth,7.43,7.33,2.63,7.85
+West Midlands,Stoke-on-Trent,7.52,7.59,3.24,7.76
+West Midlands,Telford and Wrekin,7.49,7.31,3.19,7.64
+West Midlands,Walsall,7.42,7.39,3.3,7.67
+West Midlands,North Warwickshire,7.55,7.62,3.24,7.87
+West Midlands,Nuneaton and Bedworth,7.69,7.4,3.24,7.84
+West Midlands,Rugby,7.56,7.39,3.27,7.73
+West Midlands,Stratford-on-Avon,7.86,7.61,2.91,7.84
+West Midlands,Warwick,7.45,7.29,2.34,7.33
+West Midlands,Wolverhampton,7.5,7.53,3.07,7.75
+West Midlands,Bromsgrove,7.8,7.98,2.81,8.03
+West Midlands,Malvern Hills,7.28,7.13,3.15,7.72
+West Midlands,Redditch,7.09,6.84,3.44,7.17
+West Midlands,Worcester,7.62,7.44,3.07,7.5
+West Midlands,Wychavon,7.68,7.62,3.01,7.87
+West Midlands,Wyre Forest,7.51,7.5,3.06,7.98
+East of England,Bedford,7.89,7.5,3.28,8.05
+East of England,Cambridge,7.46,7.45,3.54,7.64
+East of England,East Cambridgeshire,7.71,7.75,2.7,7.89
+East of England,Fenland,7.62,7.6,2.66,7.64
+East of England,Huntingdonshire,7.78,7.53,2.74,8.01
+East of England,South Cambridgeshire,7.63,7.47,3.39,7.8
+East of England,Central Bedfordshire,7.72,7.64,2.77,7.79
+East of England,Basildon,7.66,7.83,2.7,7.83
+East of England,Braintree,7.8,7.67,3.01,8.13
+East of England,Brentwood,7.58,7.31,3.15,7.73
+East of England,Castle Point,7.9,7.65,2.7,8.16
+East of England,Chelmsford,7.69,7.63,3.12,7.88
+East of England,Colchester,7.35,6.76,3.24,7.58
+East of England,Epping Forest,7.73,7.39,3.19,7.87
+East of England,Harlow,7.48,7.79,2.84,7.75
+East of England,Maldon,7.43,7.21,3.39,7.76
+East of England,Rochford,7.96,7.97,2.34,8.15
+East of England,Tendring,7.63,7.52,3.02,7.78
+East of England,Uttlesford,7.9,7.61,3.02,7.97
+East of England,Broxbourne,7.46,7.81,2.3,7.66
+East of England,Dacorum,7.43,7.19,3.2,7.63
+East of England,East Hertfordshire,7.64,7.83,3.07,7.81
+East of England,Hertsmere,7.08,7.64,2.92,7.6
+East of England,North Hertfordshire,7.9,7.8,2.95,8.09
+East of England,St Albans,7.7,7.32,3.35,7.7
+East of England,Stevenage,7.48,7.1,3.22,7.56
+East of England,Three Rivers,7.93,7.64,2.58,8.09
+East of England,Watford,7.62,7.55,3.26,7.74
+East of England,Welwyn Hatfield,7.51,7.33,3.46,7.66
+East of England,Luton,7.67,7.74,2.75,7.91
+East of England,Breckland,7.62,7.77,2.82,7.77
+East of England,Broadland,7.66,7.58,2.86,7.86
+East of England,Great Yarmouth,8,7.6,2.64,8.32
+East of England,King�s Lynn and West Norfolk,7.5,7.57,2.6,8
+East of England,North Norfolk,7.62,7.35,2.96,7.93
+East of England,Norwich,7.5,6.88,4.04,7.83
+East of England,South Norfolk,7.36,7.36,3.25,7.55
+East of England,Peterborough,7.27,7.26,3.12,7.67
+East of England,Southend-on-Sea,7.55,7.52,3.15,7.84
+East of England,Babergh,7.8,7.84,3.26,8.18
+East of England,Ipswich,7.71,7.21,3.22,7.9
+East of England,Mid Suffolk,7.99,7.76,2.95,8.09
+East of England,East Suffolk,7.72,7.8,3.09,7.98
+East of England,West Suffolk,7.92,7.74,2.98,7.83
+East of England,Thurrock,7.61,7.5,2.96,7.77
+Greater London,Camden,7.35,7.16,3.73,7.68
+Greater London,City of London,[u],[u],[u],[u]
+Greater London,Hackney ,7.32,7.21,3.2,7.4
+Greater London,Hammersmith and Fulham ,7.3,7.24,3.51,7.61
+Greater London,Haringey,7.32,7.13,3.25,7.56
+Greater London,Islington,7.3,7.17,3.19,7.58
+Greater London,Kensington and Chelsea,7.18,7.17,3.52,7.54
+Greater London,Lambeth ,7.41,6.99,3.92,7.6
+Greater London,Lewisham ,7.5,7.44,3.02,7.63
+Greater London,Newham ,7.7,7.71,2.64,7.83
+Greater London,Southwark,7.32,7.24,3.7,7.57
+Greater London,Tower Hamlets,7.62,7.43,2.62,7.64
+Greater London,Wandsworth,7.55,7.37,3.59,7.7
+Greater London,Westminster,7.38,7.38,3.57,7.75
+Greater London,Barking and Dagenham,7.6,7.77,2.5,7.82
+Greater London,Barnet,7.36,7.47,3.07,7.7
+Greater London,Bexley,7.43,7.26,3,7.72
+Greater London,Brent ,7.41,7.51,3.4,7.59
+Greater London,Bromley,7.44,7.37,3.31,7.81
+Greater London,Croydon,7.47,7.21,3.5,7.71
+Greater London,Ealing,7.69,7.6,3.3,7.93
+Greater London,Enfield,7.41,7.33,3.2,7.7
+Greater London,Greenwich,7.24,7.11,3.65,7.49
+Greater London,Harrow,7.69,7.55,3.4,7.89
+Greater London,Havering,7.57,7.41,3.15,7.75
+Greater London,Hillingdon,7.53,7.5,3.21,7.68
+Greater London,Hounslow,7.4,7.48,3.38,7.81
+Greater London,Kingston upon Thames,7.46,7.34,3.49,7.66
+Greater London,Merton,7.58,7.55,3.26,7.67
+Greater London,Redbridge,7.57,7.29,3.06,7.55
+Greater London,Richmond upon Thames,7.47,7.3,3.87,7.68
+Greater London,Sutton,7.44,7.45,2.98,7.72
+Greater London,Waltham Forest,7.47,7.53,2.92,7.71
+South East England,Bracknell Forest,7.47,7.37,3.48,7.66
+South East England,Brighton and Hove,7.57,7.26,3.71,7.71
+South East England,Buckinghamshire,7.79,7.51,2.99,8
+South East England,Eastbourne,7.46,7.56,3.32,7.71
+South East England,Hastings,7.69,7.9,3.19,7.9
+South East England,Lewes,7.64,7.81,3.79,8.09
+South East England,Rother,7.82,7.68,3.63,8.17
+South East England,Wealden,7.77,7.66,3,7.97
+South East England,Basingstoke and Deane,7.61,7.41,2.9,7.86
+South East England,East Hampshire,7.4,7.72,2.95,7.73
+South East England,Eastleigh,7.72,7.71,2.9,7.87
+South East England,Fareham,7.83,7.56,3.07,7.94
+South East England,Gosport,7.69,7.23,3,8.03
+South East England,Hart,7.68,7.22,3.3,7.81
+South East England,Havant,7.71,7.6,3.35,8.1
+South East England,New Forest,7.72,7.62,2.93,7.9
+South East England,Rushmoor,7.76,7.52,3.21,7.66
+South East England,Test Valley,7.77,7.69,3.15,8.05
+South East England,Winchester,7.87,7.69,3.08,8.11
+South East England,Isle of Wight,7.27,7.34,3.34,7.63
+South East England,Ashford,7.68,7.71,3.05,7.99
+South East England,Canterbury,7.91,7.39,3.32,7.81
+South East England,Dartford,8.05,7.93,1.7,8.6
+South East England,Dover,7.52,7.47,3.4,7.99
+South East England,Folkestone and Hythe,7.53,7.61,3.39,7.72
+South East England,Gravesham,[u],[u],[u],[u]
+South East England,Maidstone,7.41,7.35,3.23,7.75
+South East England,Sevenoaks,7.72,7.92,2.49,8.18
+South East England,Swale,7.49,7.37,2.71,7.69
+South East England,Thanet,7.33,7.25,3.9,7.73
+South East England,Tonbridge and Malling,7.43,7.61,2.95,7.51
+,Tunbridge Wells,7.56,6.94,3.57,7.82
+South East England,Medway,7.38,7.37,3.33,7.66
+South East England,Milton Keynes,7.43,7.4,3.27,7.71
+South East England,Cherwell,7.83,8,2.59,7.83
+South East England,Oxford,7.68,7.71,3.6,8.16
+South East England,South Oxfordshire,7.83,7.5,3.52,7.82
+South East England,Vale of White Horse,7.72,7.43,3.2,7.74
+South East England,West Oxfordshire,7.71,7.63,2.51,7.97
+South East England,Portsmouth,7.36,7.33,3.22,7.69
+South East England,Reading,7.3,7.41,3.42,7.54
+South East England,Slough,7.25,7.41,3.14,7.49
+South East England,Southampton,7.44,7.4,3.2,7.62
+South East England,Elmbridge,7.58,7.49,3.25,7.8
+South East England,Epsom and Ewell,7.14,7.05,3.2,7.52
+South East England,Guildford,7.39,7.18,2.88,7.63
+South East England,Mole Valley,7.87,7.85,3.02,8.06
+South East England,Reigate and Banstead,7.56,7.18,2.63,8.02
+South East England,Runnymede,7.37,7.46,3.19,7.51
+South East England,Spelthorne,7.27,7.4,3.63,7.68
+South East England,Surrey Heath,8.01,7.82,1.91,8
+South East England,Tandridge,7.91,7.44,2.61,8.14
+South East England,Waverley,7.6,7.32,2.75,8.04
+South East England,Woking,7.8,7.3,3.31,7.92
+South East England,West Berkshire,7.5,7.47,3.18,7.73
+South East England,Adur,7.35,7.4,3.39,7.79
+South East England,Arun,7.83,7.76,2.81,8.04
+South East England,Chichester,7.4,7.26,3.45,7.85
+South East England,Crawley,7.55,7.08,3.62,7.89
+South East England,Horsham,8.03,7.54,3.18,7.83
+South East England,Mid Sussex,7.41,7,3.67,7.87
+South East England,Worthing,8.05,7.48,3.71,8.03
+South East England,Windsor and Maidenhead,7.65,7.37,3.45,7.56
+South East England,Wokingham,7.47,7.44,3.4,7.76
+South West England,Bath and North East Somerset,7.54,7.43,3.38,7.77
+South West England,"Bournemouth, Christchurch and Poole",7.5,7.49,3.19,7.66
+South West England,"Bristol, City of",7.37,7.25,3.38,7.49
+South West England,Cornwall,7.58,7.47,3.14,7.77
+South West England,East Devon,7.48,7.25,3.06,7.75
+South West England,Exeter,7.31,7.17,3.64,7.59
+South West England,Mid Devon,7.75,7.57,2.41,7.94
+South West England,North Devon,8,7.64,2.86,7.97
+South West England,South Hams,7.71,7.65,2.62,8.02
+South West England,Teignbridge,7.8,7.61,2.69,7.92
+South West England,Torridge,8.25,8.16,2.4,8.25
+South West England,West Devon,7.87,7.83,2.84,7.84
+South West England,Dorset,7.69,7.65,2.91,7.9
+South West England,Cheltenham,7.58,7.27,2.72,7.33
+South West England,Cotswold,7.82,7.77,2.64,7.98
+South West England,Forest of Dean,7.21,7.28,3.35,7.64
+South West England,Gloucester,7.39,7.58,2.46,7.63
+South West England,Stroud,7.6,7.57,3.09,7.75
+South West England,Tewkesbury,7.46,7.56,3,7.5
+South West England,North Somerset,7.59,7.53,3.14,7.94
+South West England,Plymouth,7.4,7.53,2.88,7.6
+South West England,Mendip,7.62,7.51,2.71,7.83
+South West England,Sedgemoor,7.62,7.6,3.23,7.74
+South West England,South Somerset,7.61,7.47,3.33,7.72
+South West England,Somerset West and Taunton,7.74,7.76,2.67,7.9
+South West England,South Gloucestershire,7.52,7.42,3,7.68
+South West England,Swindon,7.6,7.5,3.25,7.85
+South West England,Torbay,7.39,7.42,3.07,7.7
+South West England,Wiltshire,7.44,7.51,3.12,7.74
+Wales,Isle of Anglesey / Ynys M�n,7.58,7.56,2.92,7.74
+Wales,Gwynedd / Gwynedd,7.61,7.57,3.14,7.8
+Wales,Conwy / Conwy,7.51,7.61,3.11,7.82
+Wales,Denbighshire / Sir Ddinbych,7.71,7.67,3.19,7.95
+Wales,Flintshire / Sir y Fflint,7.52,7.27,2.95,7.76
+Wales,Wrexham / Wrecsam,7.51,7.41,3.42,7.76
+Wales,Powys / Powys,7.59,7.72,2.95,7.95
+Wales,Ceredigion / Ceredigion,7.54,7.38,3.6,7.84
+Wales,Pembrokeshire / Sir Benfro,7.63,7.61,2.69,7.81
+Wales,Carmarthenshire / Sir Gaerfyrddin,7.64,7.51,3.12,7.78
+Wales,Swansea / Abertawe,7.47,7.51,3.27,7.83
+Wales,Neath Port Talbot / Castell-nedd Port Talbot,7.64,7.47,3.12,7.81
+Wales,Bridgend / Pen-y-bont ar Ogwr,7.3,7.36,3.2,7.59
+Wales,Vale of Glamorgan / Bro Morgannwg,7.53,7.71,2.9,7.86
+Wales,Cardiff / Caerdydd,7.24,7.21,3.4,7.54
+Wales,Rhondda Cynon Taf / Rhondda Cynon Taf,7.42,7.06,3.48,7.54
+Wales,Merthyr Tydfil / Merthyr Tudful,7.52,7.39,2.8,7.8
+Wales,Caerphilly / Caerffili,7.44,7.7,2.84,7.71
+Wales,Blaenau Gwent / Blaenau Gwent,7.5,7.36,3.48,7.82
+Wales,Torfaen / Tor-faen,7.44,7.29,3.49,7.65
+Wales,Monmouthshire / Sir Fynwy,7.64,7.6,3.12,7.85
+Wales,Newport / Casnewydd,7.27,7.16,3.08,7.64
+Scotland,Aberdeen City,7.44,7.47,3.11,7.48
+Scotland,Aberdeenshire,7.59,7.57,2.65,7.79
+Scotland,Angus,7.57,7.63,3.05,7.68
+Scotland,Argyll and Bute,7.63,7.65,2.68,7.86
+Scotland,City of Edinburgh,7.42,7.1,3.22,7.55
+Scotland,Clackmannanshire,7.57,7.27,2.87,7.91
+Scotland,Dumfries and Galloway,7.73,7.6,2.98,8.01
+Scotland,Dundee City,7.27,7.23,3.45,7.67
+Scotland,East Ayrshire,7.43,7.39,3.33,7.71
+Scotland,East Dunbartonshire,7.62,7.58,2.72,7.84
+Scotland,East Lothian,7.57,7.47,2.77,7.68
+Scotland,East Renfrewshire,7.88,7.69,2.74,7.97
+Scotland,Falkirk,7.52,7.39,3.24,7.67
+Scotland,Fife,7.27,7.3,3.45,7.48
+Scotland,Glasgow City,7.26,7.03,3.28,7.53
+Scotland,Highland,7.75,7.8,2.74,7.93
+Scotland,Inverclyde,7.37,7.44,3.14,7.73
+Scotland,Midlothian,7.44,7.46,3.25,7.81
+Scotland,Moray,7.51,7.53,2.76,7.68
+Scotland,Na h-Eileanan Siar,8.03,7.98,2.79,8.26
+Scotland,North Ayrshire,7.15,7.23,3.43,7.54
+Scotland,North Lanarkshire,7.43,7.5,2.92,7.68
+Scotland,Orkney Islands,[u],[u],[u],[u]
+Scotland,Perth and Kinross,7.65,7.51,2.8,7.92
+Scotland,Renfrewshire,7.33,7.26,2.94,7.56
+Scotland,Scottish Borders ,7.55,7.45,3.17,7.86
+Scotland,Shetland Islands,8.09,7.63,2.72,8.09
+Scotland,South Ayrshire,7.54,7.38,3.29,7.79
+Scotland,South Lanarkshire,7.34,7.14,3.22,7.68
+Scotland,Stirling,7.46,7.31,3.27,7.76
+Scotland,West Dunbartonshire,7.2,7.37,3.07,7.61
+Scotland,West Lothian,7.31,7.29,2.99,7.6
+Northern Ireland,Antrim and Newtownabbey,7.5,7.46,3.55,7.79
+Northern Ireland,Ards and North Down,7.71,7.57,3,7.97
+Northern Ireland,"Armagh City, Banbridge and Craigavon",7.83,7.63,2.62,8.04
+Northern Ireland,Belfast,7.31,7.22,3.17,7.64
+Northern Ireland,Causeway Coast and Glens,7.86,7.77,2.72,8.05
+Northern Ireland,Derry City and Strabane,7.6,7.42,3,7.89
+Northern Ireland,Fermanagh and Omagh,7.91,7.88,2.43,8.13
+Northern Ireland,Lisburn and Castlereagh,7.54,7.57,2.7,7.87
+Northern Ireland,Mid and East Antrim,7.82,7.82,2.77,8.14
+Northern Ireland,Mid Ulster,7.94,7.82,2.17,8.24
+Northern Ireland,"Newry, Mourne and Down",7.99,8.06,2.74,8.21
