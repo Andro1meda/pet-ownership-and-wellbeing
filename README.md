@@ -7,7 +7,7 @@
 </div>
 
 ## *Table of Contents* ࿔˚⋆
-[Project Overview](#project-overview)
+- [Project Overview](#project-overview)
 - [What this project demonstrates](#what-this-project-demonstrates)
 - [Research Aims](#research-aims)
 - [Research Questions](#research-questions)
