@@ -7,7 +7,7 @@
 </div>
 
 ## *Table of Contents* ࿔˚⋆
-- [Project Overview](##*Project-Overview*)
+- [Project Overview](##*Project-Overview*࿔˚⋆)
 - [Research Aims](##Research-Aims)
 - [Research Questions](##Research-Questions)
   -  [Individual-Level Dataset](#Individual-Level-Dataset)
