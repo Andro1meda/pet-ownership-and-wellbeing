@@ -44,7 +44,7 @@ To examine the relationship between pet ownership and mental health and well-bei
 ## *Research Questions* ࿔˚⋆
 **_Individual-Level Dataset_**
 - RQ1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
-- RQ2:  What is the relationship between suicidal behaviours and pet ownership?**
+- RQ2:  What is the relationship between suicidal behaviours and pet ownership?
 
 ✦ ───────── ✦ ───────── ✦
 
