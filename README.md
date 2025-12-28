@@ -8,6 +8,7 @@
 
 ## *Table of Contents* ࿔˚⋆
 - [Project Overview](#project-overview)
+- [What this project demonstrates](#what-this-project-demonstrates)
 - [Research Aims](#research-aims)
 - [Research Questions](#research-questions)
   -  [Individual-Level Dataset](#individual-level-dataset)
@@ -17,8 +18,10 @@
   -  [Tech Stack](#tech-stack)
 - [Analytical Workflow](#analytical-workflow)
 - [Findings](#findings)
-- [Lessons and Recommendations](#Lessons-and-Recommendations)
-- [Limitations and Improvements](#Limitations-and-Improvements) 
+  - [Individual-Level Analysis](#individual-Level-analysis)
+  - [Population-Level Analysis](#population-level-analysis)
+- [Lessons and Recommendations](#lessons-and-recommendations)
+- [Limitations and Improvements](#limitations-and-improvements) 
 
 ## *Project Overview* ࿔˚⋆
 This project demonstrates data wrangling, exploratory data analysis, statistical modelling, and visual storytelling using UK public datasets to investigate associations between pet ownership and mental well-being.
