@@ -7,10 +7,10 @@
 </div>
 
 ## *Table of Contents* ࿔˚⋆
-- Research Aims
-- Research Questions
-  -  Individual-Level Dataset
-  -  Population-Level Dataset 
+- [Research Aims](#Research-Aims)
+- [Research Questions](#Research-Questions)
+  -  [Individual-Level Dataset](#Individual-Level-Dataset)
+  -  [Population-Level Dataset](#Population-Level-Dataset)
 
 
 ## *Research Aim* ࿔˚⋆
