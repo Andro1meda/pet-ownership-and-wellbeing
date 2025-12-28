@@ -19,10 +19,20 @@
 - [Lessons and Recommendations](#Lessons-and-Recommendations)
 - [Limitations and Improvements](#Limitations-and-Improvements) 
 
+## *Project Overview* ࿔˚⋆
+This project demonstrates data wrangling, exploratory data analysis, statistical modelling, and visual storytelling using UK public datasets to investigate associations between pet ownership and mental well-being.
+
+_*This project was completed independently outside of formal coursework_
+
+
+## *What this project demonstrates*࿔˚⋆
+- End-to-end data analysis using real-world public datasets
+- Data cleaning and standardisation across multiple sources
+- Exploratory data analysis (EDA) and statistical modelling
+- Translating analytical findings into policy- and stakeholder-relevant insights
 
 ## *Research Aim* ࿔˚⋆
 To examine the relationship between pet ownership and mental health and well-being at both the individual and population levels in the UK
-
 
 
 ## *Research Questions* ࿔˚⋆
@@ -49,14 +59,22 @@ To examine the relationship between pet ownership and mental health and well-bei
 **_Tech Stack_**
 - Excel
 - Python
-- _Libraries_: Matplotlib, Seaborne, Sci-kit Learn, Pandas, Numpy, SciPy
+- _Libraries_: Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy, SciPy
 
 ----
-## *Methods* ࿔˚⋆
+## *Analytical Workflow* ࿔˚⋆
+1. Collected and validated multi-source public datasets
+2. Cleaned and standardised pet ownership rates per capita
+3. Conducted exploratory data analysis (EDA)
+4. Built regression models to assess associations
+5. Visualised and interpreted findings for non-technical audiences
+
+## Findings ࿔˚⋆
+
+### Individual-Level Analysis
 
 
-## Results ࿔˚⋆
-
+### Population-Level Analysis
 
 ## Lessons and Recommendations ࿔˚⋆
 
