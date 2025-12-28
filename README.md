@@ -7,16 +7,16 @@
 </div>
 
 ## *Table of Contents* ࿔˚⋆
-- [Project Overview](##*Project-Overview*࿔˚⋆)
-- [Research Aims](##Research-Aims)
-- [Research Questions](##Research-Questions)
-  -  [Individual-Level Dataset](#Individual-Level-Dataset)
-  -  [Population-Level Dataset](#Population-Level-Dataset)
-- [Tools & Materials](#Tools-&-Materials)
-  -  [Data Sources](#Data-Sources)
-  -  [Tech Stack](#Tech-Stack)
-- [Methods](#Methods)
-- [Results](#Results)
+- [Project Overview](#project-overview)
+- [Research Aims](#research-aims)
+- [Research Questions](#research-questions)
+  -  [Individual-Level Dataset](#individual-level-dataset)
+  -  [Population-Level Dataset](#population-level-dataset)
+- [Tools & Materials](#tools--materials)
+  -  [Data Sources](#data-sources)
+  -  [Tech Stack](#tech-stack)
+- [Analytical Workflow](#analytical-workflow)
+- [Findings](#findings)
 - [Lessons and Recommendations](#Lessons-and-Recommendations)
 - [Limitations and Improvements](#Limitations-and-Improvements) 
 
