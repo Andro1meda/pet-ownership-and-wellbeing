@@ -107,7 +107,7 @@ Method:
  
 Results:
 
-Model 1: Anxiety 
+Model 1: Anxiety  
 
 |Predictor   | Coefficient|
 |-------------|-----------|
@@ -176,7 +176,52 @@ At the individual level, pet ownership was associated with better mental health 
 Overall, these findings suggest that pet ownership is more strongly related to depression and suicidality than anxiety, highlighting its potential relevance for mood-related well-being at the individual level, while acknowledging that causal conclusions cannot be drawn from cross-sectional data.
 
 ### Population-Level Analysis
+Dataset Overview:
+- 11 observations
+- Key Variables:
+  - Pet Ownership:
+    -  cat owners (number of cat owners)
+    -  dog_owners (number of pet owners)
+  - Well-being Outcomes:
+    - Life Satisfaction
+    - Happiness
+    - Anxiety
+    - Worthwhile
+  - Regionality:
+    - District
 
+Research Question 3: Are regional levels of cat and dog ownership associated with population well-being across UK districts?
+
+---
+
+Method:  
+Spearman's rank-order correlations were used to examine associations between regional pet ownership rates per 1000 residents and population well-being indicators (life satisfaction, happiness, worthwhileness, and anxiety). Spearman’s rho was selected due to non-normal distributions and ordinal properties after assumption checks.
+
+Results:
+
+Cats per 1000 residents  
+|Well-being| Rho (&rho;) | $p$|
+|-----------|------------|-----|
+| Life Satisfaction| 0.13 | 0.71 |    |
+| Worthwhile | 0.17   | 0.61    |
+| Anxiety | -0.24   | 0.48    |
+|Happiness|  0.16  | 0.63    |
+
+
+Dogs per 1000 residents
+|Well-being| Rho (&rho;) | $p$|
+|-----------|------------|-----|
+| Life Satisfaction| -0.07    | 0.83    |
+| Worthwhile| -0.16   | 0.63   |
+| Anxiety | -0.43   | 0.19    |
+|Happiness|  0.11  | 0.75   |
+
+Interpretation:
+At the population level, no statistically significant associations were observed between regional cat or dog ownership rates and well-being outcomes. Although some correlations suggested weak trends—such as higher dog ownership being associated with lower anxiety—these relationships were small and non-significant.
+
+
+
+ 
 ## Lessons and Recommendations ࿔˚⋆
 
 ## Limitations and Improvements ࿔˚⋆
