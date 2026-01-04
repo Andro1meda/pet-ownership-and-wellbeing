@@ -86,8 +86,8 @@ To examine the relationship between pet ownership and mental health and well-bei
     - hads_anxiety _(anxiety scores from the Hospital Anxiety and Depression Scale (HADS))_
     - hads_depression  _(depression scores from the Hospital Anxiety and Depression Scale (HADS))_
   - Pet ownership indicators:
-    - num_cats _number of cats owned_
-    - num_dogs _number of dogs owned_ 
+    - num_cats _(number of cats owned)_
+    - num_dogs _(number of dogs owned)_ 
 ### Population-Level Analysis
 
 ## Lessons and Recommendations ࿔˚⋆
