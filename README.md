@@ -85,9 +85,72 @@ To examine the relationship between pet ownership and mental health and well-bei
   - Mental Health outcomes:
     - hads_anxiety _(anxiety scores from the Hospital Anxiety and Depression Scale (HADS))_
     - hads_depression  _(depression scores from the Hospital Anxiety and Depression Scale (HADS))_
+    - sbq_total _(overall scores from the Suicidal Behaviours Questionnaire)_
   - Pet ownership indicators:
-    - num_cats _(number of cats owned)_
-    - num_dogs _(number of dogs owned)_ 
+    - num_cat _(number of cats owned)_
+    - num_dog _(number of dogs owned)_
+    - pet_owner _(if participant is a pet owner or not)_
+
+* Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. *
+
+---
+
+Research Question 1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
+
+Method:
+- Two mulitple linear regression models were conducted:
+  - Model 1: Predicting anxiety (hads_anxiety)
+  - Model 2: Predicting depression (hads_depression)
+- Predictors:
+  - Number of cats owned (num_cat)
+  - Number of dogs owned (num_dog)
+ 
+Results:
+
+Model 1: Anxiety 
+
+|Predictor   | Coefficient|
+|-------------|-----------|
+|Intercept   | 13.80|
+|No. of cats | -0.67|
+|No. of dogs | -0.27|
+
+$R^2$ = 0.02
+- Both cats and dogs showed small negative associations with anxiety.
+- This model explained approximately 2% of the variance, indicating a weak relationship.
+Interpretation:
+While pet ownership was associated with slighly lower levels of anxiety, the model showed a low effect size, suggesting that anxiety is largely explained by factors beyond pet ownership.
+
+Model 2: Depression
+|Predictor   | Coefficient|
+|-------------|----------|
+|Intercept   | 12.39|
+|No. of cats | -1.57|
+|No. of dogs | -1.63|
+
+$R^2$ = 0.14
+- Owning more cats or dogs was associated with lower depression scores.
+- The model explained approximately 14% of the variance, which is moderate for psychological data.
+Interpretation:
+Pet ownership showed a stronger and more meaningful association with depression than anxiety, with cats and dogs contributing similarly to reduced depressive symptoms.
+
+ ---
+Research Question 2: What is the relationship between suicidal behaviours and pet ownership?
+
+Method:
+- A one sample t-test was conducted:
+  -  pet_owner
+  -  sbq_total
+Effect size was calculated using Cohen's d.
+
+Results:
+
+Descriptive Statistics
+
+|Pet Owner| Mean | Std|
+|---------|------|-----|
+|Non Pet Owners |13.928571 | 3.789253|
+|Pet Owners |11.756757  |4.600822|
 ### Population-Level Analysis
 
 ## Lessons and Recommendations ࿔˚⋆
