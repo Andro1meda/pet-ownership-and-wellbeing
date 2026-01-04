@@ -91,7 +91,7 @@ To examine the relationship between pet ownership and mental health and well-bei
     - num_dog _(number of dogs owned)_
     - pet_owner _(if participant is a pet owner or not)_
 
-* Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. *
+*Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. 
 
 ---
 
@@ -117,8 +117,9 @@ Model 1: Anxiety
 
 $R^2$ = 0.02
 - Both cats and dogs showed small negative associations with anxiety.
-- This model explained approximately 2% of the variance, indicating a weak relationship.
-Interpretation:
+- This model explained approximately 2% of the variance, indicating a weak relationship.  
+
+Interpretation:  
 While pet ownership was associated with slighly lower levels of anxiety, the model showed a low effect size, suggesting that anxiety is largely explained by factors beyond pet ownership.
 
 Model 2: Depression
@@ -131,26 +132,49 @@ Model 2: Depression
 $R^2$ = 0.14
 - Owning more cats or dogs was associated with lower depression scores.
 - The model explained approximately 14% of the variance, which is moderate for psychological data.
-Interpretation:
+
+Interpretation:   
 Pet ownership showed a stronger and more meaningful association with depression than anxiety, with cats and dogs contributing similarly to reduced depressive symptoms.
 
  ---
 Research Question 2: What is the relationship between suicidal behaviours and pet ownership?
 
 Method:
-- A one sample t-test was conducted:
-  -  pet_owner
-  -  sbq_total
+
+An independent sample t-test was conducted to compare suicidal behaviour scores between:
+- non-pet owners
+- pet owners
+Suicidal behaviours were measured using the Suicidal Behaviours Questionnaire (SBQ) total score (sbq_total).
 Effect size was calculated using Cohen's d.
 
 Results:
 
 Descriptive Statistics
 
-|Pet Owner| Mean | Std|
+|Pet Owner| SBQ Mean | SD|
 |---------|------|-----|
-|Non Pet Owners |13.928571 | 3.789253|
+|Non-Pet Owners |13.928571 | 3.789253|
 |Pet Owners |11.756757  |4.600822|
+
+Inferential Statistics  
+$t$ = -3.25    
+$p$ = 0.001  
+Cohen's $d$ = -0.50
+
+- Pet ownership is associated with lower levels of suicidal behaviours.
+- Pet owners reported lower mean SBQ scores compared to non-pet owners.
+
+Interpretation:  
+Pet owners reported significantly lower suicidal behaviour scores than non-pet owners. The difference was statistically significant (p < .01) and represented a medium effect size, indicating a meaningful association between pet ownership and reduced suicidal behaviours.
+
+The negative t-value and effect size reflect lower SBQ scores among pet owners, suggesting fewer suicidal thoughts, intentions, and future risk indicators.
+
+---
+Conclusion:  
+At the individual level, pet ownership was associated with better mental health outcomes, though effects differed by outcome. The number of cats and dogs owned showed weak associations with anxiety, while pet ownership demonstrated a stronger relationship with depressive symptoms. Additionally, pet owners reported significantly lower suicidal behaviour scores than non-pet owners, with a moderate effect size.
+
+Overall, these findings suggest that pet ownership is more strongly related to depression and suicidality than anxiety, highlighting its potential relevance for mood-related well-being at the individual level, while acknowledging that causal conclusions cannot be drawn from cross-sectional data.
+
 ### Population-Level Analysis
 
 ## Lessons and Recommendations ࿔˚⋆
