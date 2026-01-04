@@ -7,21 +7,21 @@
 </div>
 
 ## *Table of Contents* ࿔˚⋆
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview-)
 - [What this project demonstrates](#what-this-project-demonstrates)
-- [Research Aims](#research-aims)
-- [Research Questions](#research-questions)
+- [Research Aim](#research-aim-)
+- [Research Questions](#research-questions-)
   -  [Individual-Level Dataset](#individual-level-dataset)
   -  [Population-Level Dataset](#population-level-dataset)
-- [Tools & Materials](#tools--materials)
+- [Tools & Materials](#tools--materials-)
   -  [Data Sources](#data-sources)
   -  [Tech Stack](#tech-stack)
-- [Analytical Workflow](#analytical-workflow)
-- [Findings](#findings)
-  - [Individual-Level Analysis](#individual-Level-analysis)
+- [Analytical Workflow](#analytical-workflow-)
+- [Findings](#findings-)
+  - [Individual-Level Analysis](#individual-level-analysis)
   - [Population-Level Analysis](#population-level-analysis)
-- [Lessons and Recommendations](#lessons-and-recommendations)
-- [Limitations and Improvements](#limitations-and-improvements) 
+- [Lessons and Recommendations](#lessons-and-recommendations-)
+- [Limitations and Improvements](#limitations-and-improvements-) 
 
 
 
@@ -42,19 +42,19 @@ To examine the relationship between pet ownership and mental health and well-bei
 
 
 ## *Research Questions* ࿔˚⋆
-**_Individual-Level Dataset_**
+### **_Individual-Level Dataset_**
 - RQ1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
 - RQ2:  What is the relationship between suicidal behaviours and pet ownership?
 
 ✦ ───────── ✦ ───────── ✦
 
-**_Population-Level Dataset_**
+### **_Population-Level Dataset_**
 - RQ3: Are regional levels of cat and dog ownership associated with population well-being across UK districts?
 - RQ4: How do cats and dogs differ in their patterns of association with population well-being outcomes at the regional level?
 
 
 ## *Tools & Materials* ࿔˚⋆
-**_Data Sources_**
+## **_Data Sources_**
 - [ONS Personal well-being in the UK: April 2022 to March 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)
 - [Dog population per postcode district](https://www.data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
 - [Cats Report 2022](https://www.readkong.com/page/cats-report-2022-cats-protection-8207642)
@@ -62,7 +62,7 @@ To examine the relationship between pet ownership and mental health and well-bei
 - [Pet Ownership and Self-Harm in UK Youth: Survey Dataset on Bond Quality, Self-Harm Behaviours, and Suicide Risk](https://doi.org/10.48420/29120819)
 - [Estimates of the population for the UK, England, Wales, Scotland, and Northern Ireland - Mid-2022 Edition](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
 
-**_Tech Stack_**
+## **_Tech Stack_**
 - Excel
 - Python
 - _Libraries_: Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy, SciPy
