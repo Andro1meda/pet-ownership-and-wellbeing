@@ -79,7 +79,15 @@ To examine the relationship between pet ownership and mental health and well-bei
 
 ### Individual-Level Analysis
 
-
+**Dataset Overview**:
+- Sample size: 167 participants
+- Key variables:
+  - Mental Health outcomes:
+    - hads_anxiety _anxiety scores from the Hospital Anxiety and Depression Scale (HADS)_
+    - hads_depression  _depression scores from the Hospital Anxiety and Depression Scale (HADS)_
+  - Pet ownership indicators:
+    - num_cats _number of cats owned_
+    - num_dogs _number of dogs owned_ 
 ### Population-Level Analysis
 
 ## Lessons and Recommendations ࿔˚⋆
