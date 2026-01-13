@@ -77,6 +77,15 @@ To examine the relationship between pet ownership and mental health and well-bei
 
 ## Findings ࿔˚⋆
 
+**Key Takeaways**
+
+Pet ownership was associated with better mental health at the individual level, particularly for depression and suicidal behaviours. However, no clear relationship was observed between pet ownership and population-level well-being across UK regions.
+
+To Summarise:
+- Individuals who owned pets reported better mental health
+- Regions with more pets did not necessarily report better well-being overall
+
+
 ### Individual-Level Analysis
 
 **Dataset Overview**:
@@ -90,7 +99,7 @@ To examine the relationship between pet ownership and mental health and well-bei
     - num_cat _(number of cats owned)_
     - num_dog _(number of dogs owned)_
     - pet_owner _(if participant is a pet owner or not)_
-
+   
 *Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. 
 
 <img width="947" height="710" alt="image" src="https://github.com/user-attachments/assets/2910cce9-ed0d-4ab1-833f-e19dd11824ef" />
