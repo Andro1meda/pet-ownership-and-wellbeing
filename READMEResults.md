@@ -1,1 +1,125 @@
 ## Technical Results
+
+Research Question 1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
+
+Method:
+- Two mulitple linear regression models were conducted:
+  - Model 1: Predicting anxiety (hads_anxiety)
+  - Model 2: Predicting depression (hads_depression)
+- Predictors:
+  - Number of cats owned (num_cat)
+  - Number of dogs owned (num_dog)
+ 
+Results:
+
+Model 1: Anxiety  
+
+|Predictor   | Coefficient|
+|-------------|-----------|
+|Intercept   | 13.80|
+|No. of cats | -0.67|
+|No. of dogs | -0.27|
+
+$R^2$ = 0.02
+- Both cats and dogs showed small negative associations with anxiety.
+- This model explained approximately 2% of the variance, indicating a weak relationship.  
+
+Interpretation:  
+While pet ownership was associated with slighly lower levels of anxiety, the model showed a low effect size, suggesting that anxiety is largely explained by factors beyond pet ownership.
+
+Model 2: Depression
+|Predictor   | Coefficient|
+|-------------|----------|
+|Intercept   | 12.39|
+|No. of cats | -1.57|
+|No. of dogs | -1.63|
+
+$R^2$ = 0.14
+- Owning more cats or dogs was associated with lower depression scores.
+- The model explained approximately 14% of the variance, which is moderate for psychological data.
+
+Interpretation:   
+Pet ownership showed a stronger and more meaningful association with depression than anxiety, with cats and dogs contributing similarly to reduced depressive symptoms.
+
+ ---
+Research Question 2: What is the relationship between suicidal behaviours and pet ownership?
+
+Method:
+
+An independent sample t-test was conducted to compare suicidal behaviour scores between:
+- non-pet owners
+- pet owners
+Suicidal behaviours were measured using the Suicidal Behaviours Questionnaire (SBQ) total score (sbq_total).
+Effect size was calculated using Cohen's d.
+
+Results:
+
+Descriptive Statistics
+
+|Pet Owner| SBQ Mean | SD|
+|---------|------|-----|
+|Non-Pet Owners |13.928571 | 3.789253|
+|Pet Owners |11.756757  |4.600822|
+
+Inferential Statistics  
+$t$ = -3.25    
+$p$ = 0.001  
+Cohen's $d$ = -0.50
+
+- Pet ownership is associated with lower levels of suicidal behaviours.
+- Pet owners reported lower mean SBQ scores compared to non-pet owners.
+
+Interpretation:  
+Pet owners reported significantly lower suicidal behaviour scores than non-pet owners. The difference was statistically significant (p < .01) and represented a medium effect size, indicating a meaningful association between pet ownership and reduced suicidal behaviours.
+
+The negative t-value and effect size reflect lower SBQ scores among pet owners, suggesting fewer suicidal thoughts, intentions, and future risk indicators.
+
+---
+Conclusion:  
+At the individual level, pet ownership was associated with better mental health outcomes, though effects differed by outcome. The number of cats and dogs owned showed weak associations with anxiety, while pet ownership demonstrated a stronger relationship with depressive symptoms. Additionally, pet owners reported significantly lower suicidal behaviour scores than non-pet owners, with a moderate effect size.
+
+Overall, these findings suggest that pet ownership is more strongly related to depression and suicidality than anxiety, highlighting its potential relevance for mood-related well-being at the individual level, while acknowledging that causal conclusions cannot be drawn from cross-sectional data.
+
+### Population-Level Analysis
+Dataset Overview:
+- 11 observations
+- Key Variables:
+  - Pet Ownership:
+    -  cat owners (number of cat owners)
+    -  dog_owners (number of pet owners)
+  - Well-being Outcomes:
+    - Life Satisfaction
+    - Happiness
+    - Anxiety
+    - Worthwhile
+  - Regionality:
+    - District
+
+Research Question 3: Are regional levels of cat and dog ownership associated with population well-being across UK districts?
+
+---
+
+Method:  
+Spearman's rank-order correlations were used to examine associations between regional pet ownership rates per 1000 residents and population well-being indicators (life satisfaction, happiness, worthwhileness, and anxiety). Spearman’s rho was selected due to non-normal distributions and ordinal properties after assumption checks.
+
+Results:
+
+Cats per 1000 residents  
+|Well-being| Rho (&rho;) | $p$|
+|-----------|------------|-----|
+| Life Satisfaction| 0.13 | 0.71 |    |
+| Worthwhile | 0.17   | 0.61    |
+| Anxiety | -0.24   | 0.48    |
+|Happiness|  0.16  | 0.63    |
+
+
+Dogs per 1000 residents
+|Well-being| Rho (&rho;) | $p$|
+|-----------|------------|-----|
+| Life Satisfaction| -0.07    | 0.83    |
+| Worthwhile| -0.16   | 0.63   |
+| Anxiety | -0.43   | 0.19    |
+|Happiness|  0.11  | 0.75   |
+
+Interpretation:
+At the population level, no statistically significant associations were observed between regional cat or dog ownership rates and well-being outcomes. Although some correlations suggested weak trends—such as higher dog ownership being associated with lower anxiety—these relationships were small and non-significant.
