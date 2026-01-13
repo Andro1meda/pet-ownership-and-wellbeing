@@ -74,11 +74,13 @@ Pet owners reported significantly lower suicidal behaviour scores than non-pet o
 
 The negative t-value and effect size reflect lower SBQ scores among pet owners, suggesting fewer suicidal thoughts, intentions, and future risk indicators.
 
----
+
 Conclusion:  
 At the individual level, pet ownership was associated with better mental health outcomes, though effects differed by outcome. The number of cats and dogs owned showed weak associations with anxiety, while pet ownership demonstrated a stronger relationship with depressive symptoms. Additionally, pet owners reported significantly lower suicidal behaviour scores than non-pet owners, with a moderate effect size.
 
 Overall, these findings suggest that pet ownership is more strongly related to depression and suicidality than anxiety, highlighting its potential relevance for mood-related well-being at the individual level, while acknowledging that causal conclusions cannot be drawn from cross-sectional data.
+
+---
 
 ### Population-Level Analysis
 Dataset Overview:
@@ -94,10 +96,10 @@ Dataset Overview:
     - Worthwhile
   - Regionality:
     - District
+---
 
 Research Question 3: Are regional levels of cat and dog ownership associated with population well-being across UK districts?
 
----
 
 Method:  
 Spearman's rank-order correlations were used to examine associations between regional pet ownership rates per 1000 residents and population well-being indicators (life satisfaction, happiness, worthwhileness, and anxiety). Spearman’s rho was selected due to non-normal distributions and ordinal properties after assumption checks.
