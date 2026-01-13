@@ -93,7 +93,7 @@ To examine the relationship between pet ownership and mental health and well-bei
 
 *Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. 
 
-![image.png](attachment:641b72a5-3184-4b7c-be1f-8e8e7b732297:image.png)
+<img width="947" height="710" alt="image" src="https://github.com/user-attachments/assets/2910cce9-ed0d-4ab1-833f-e19dd11824ef" />
 
 ---
 
