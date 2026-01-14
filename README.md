@@ -88,19 +88,17 @@ To Summarise:
 
 ### Individual-Level Analysis
 
-**Dataset Overview**:
-- Sample size: 167 participants
-- Key variables:
-  - Mental Health outcomes:
-    - hads_anxiety _(anxiety scores from the Hospital Anxiety and Depression Scale (HADS))_
-    - hads_depression  _(depression scores from the Hospital Anxiety and Depression Scale (HADS))_
-    - sbq_total _(overall scores from the Suicidal Behaviours Questionnaire)_
-  - Pet ownership indicators:
-    - num_cat _(number of cats owned)_
-    - num_dog _(number of dogs owned)_
-    - pet_owner _(if participant is a pet owner or not)_
-   
-*Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. 
+
+**What did we look at?**
+We examined whether owning cats or dogs was related to:
+- Anxiety
+- Depression
+- Suicidal thoughts and behaviours
+_This was done using survey data from 167 individuals_
+
+
+#### **Exploratory data analysis:**
+- Descriptive statistics showed that in general pet owners reported lower anxiety and depression scores on average compared to non-pet owners. 
 
 <img width="947" height="710" alt="image" src="https://github.com/user-attachments/assets/2910cce9-ed0d-4ab1-833f-e19dd11824ef" />
 
@@ -108,50 +106,49 @@ To Summarise:
 
 Research Question 1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
 
-Method:
-- Two mulitple linear regression models were conducted:
-  - Model 1: Predicting anxiety (hads_anxiety)
-  - Model 2: Predicting depression (hads_depression)
-- Predictors:
-  - Number of cats owned (num_cat)
-  - Number of dogs owned (num_dog)
- 
-Results:
+**_What does this mean?_**
 
-Model 1: Anxiety  
+This question tries to explore whether cats or dogs have different effects on anxiety and depression symptoms in individuals.
 
-|Predictor   | Coefficient|
-|-------------|-----------|
-|Intercept   | 13.80|
-|No. of cats | -0.67|
-|No. of dogs | -0.27|
+#### Anxiety
 
-$R^2$ = 0.02
-- Both cats and dogs showed small negative associations with anxiety.
-- This model explained approximately 2% of the variance, indicating a weak relationship.
+**What we found**
+- Individuals with pets reported slightly lower anxiety
+- However, the difference was very small
+- There was not a difference between whether owning a cat or a dog would lower anxiety.
+
+**What this means**  
+Pet ownership alone does not appear to meaningfully reduce anxiety. Anxiety may be influenced by many other factors such as stress, finances, health, and other factors. 
+
+**Why this matters**
+- Pets should not be viewed as a standalone intervention for anxiety.
+- Support services should continue to prioritise much broader psychological and social factors.
+
 
 <img width="1490" height="716" alt="image" src="https://github.com/user-attachments/assets/ddc71951-7723-4897-8732-a52993490419" />
 
+_This coefficient plot shows the estimated coefficients from the regression model - this helps to understand the significance and uncertainty of the relationship between variables_
 
-Interpretation:  
-While pet ownership was associated with slighly lower levels of anxiety, the model showed a low effect size, suggesting that anxiety is largely explained by factors beyond pet ownership.
 
-Model 2: Depression
-|Predictor   | Coefficient|
-|-------------|----------|
-|Intercept   | 12.39|
-|No. of cats | -1.57|
-|No. of dogs | -1.63|
 
-$R^2$ = 0.14
-- Owning more cats or dogs was associated with lower depression scores.
-- The model explained approximately 14% of the variance, which is moderate for psychological data.
+#### Depression
+
+**What we found** 
+- Individuals who owned cats or dogs reported noticeably lower depression scores.
+- The relationship was stronger and more meaningful than for anxiety.
+- Cats and dogs contributed similarly to reduced depressive symptoms.
+
+**What this means**    
+Pet ownership may play a supportive role in protecting against depressive symptoms. This may be due to daily routines and responsibilities, companionship and emotional support, and reduced loneliness.
+
+**Why this matters**
+- Pets may act as preventative factors for mood-related well-being
+- This is especially relevant for individuals at risk of social isolation.
 
 <img width="1476" height="738" alt="image" src="https://github.com/user-attachments/assets/9a34c066-f428-4378-bc1b-46751576f2b8" />
 
+_This coefficient plot for depression shows ..._
 
-Interpretation:   
-Pet ownership showed a stronger and more meaningful association with depression than anxiety, with cats and dogs contributing similarly to reduced depressive symptoms.
 
  ---
 Research Question 2: What is the relationship between suicidal behaviours and pet ownership?
