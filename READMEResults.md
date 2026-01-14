@@ -39,7 +39,10 @@ Model 1: Anxiety
 
 $R^2$ = 0.02
 - Both cats and dogs showed small negative associations with anxiety.
-- This model explained approximately 2% of the variance, indicating a weak relationship.  
+- This model explained approximately 2% of the variance, indicating a weak relationship.
+
+<img width="1490" height="716" alt="image" src="https://github.com/user-attachments/assets/ddc71951-7723-4897-8732-a52993490419" />
+
 
 Interpretation:  
 While pet ownership was associated with slighly lower levels of anxiety, the model showed a low effect size, suggesting that anxiety is largely explained by factors beyond pet ownership.
