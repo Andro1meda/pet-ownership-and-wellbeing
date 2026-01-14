@@ -1,5 +1,22 @@
 ## Technical Results
 
+**Dataset Overview**:
+- Sample size: 167 participants
+- Key variables:
+  - Mental Health outcomes:
+    - hads_anxiety _(anxiety scores from the Hospital Anxiety and Depression Scale (HADS))_
+    - hads_depression  _(depression scores from the Hospital Anxiety and Depression Scale (HADS))_
+    - sbq_total _(overall scores from the Suicidal Behaviours Questionnaire)_
+  - Pet ownership indicators:
+    - num_cat _(number of cats owned)_
+    - num_dog _(number of dogs owned)_
+    - pet_owner _(if participant is a pet owner or not)_
+   
+*Exploratory data analysis indicated that suicidality scores were positively skewed, with most participants reporting low levels. Descriptive statistics suggested that pet owners reported lower anxiety and depression on average compared to non-pet owners. 
+
+<img width="947" height="710" alt="image" src="https://github.com/user-attachments/assets/2910cce9-ed0d-4ab1-833f-e19dd11824ef" />
+
+
 Research Question 1: Do cats or dogs differentially predict anxiety and depression symptoms at the individual level?
 
 Method:
