@@ -58,6 +58,9 @@ $R^2$ = 0.14
 - Owning more cats or dogs was associated with lower depression scores.
 - The model explained approximately 14% of the variance, which is moderate for psychological data.
 
+<img width="936" height="693" alt="image" src="https://github.com/user-attachments/assets/bcd62774-c9a5-4c0a-a97e-0a32b441dbaa" />
+
+
 Interpretation:   
 Pet ownership showed a stronger and more meaningful association with depression than anxiety, with cats and dogs contributing similarly to reduced depressive symptoms.
 
