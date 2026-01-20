@@ -206,4 +206,46 @@ While pets appear beneficial for individuals, increasing pet ownership at the re
  
 ## Lessons and Recommendations ࿔˚⋆
 
+**What this project shows** 
+
+- Pets may act as a protective personal resource for well-being
+- Their impact is strongest at the individual level
+- They should be seen as supportive, not curative
+
+**Recommendations**
+Mental Health Services
+- Consider pet ownership as a protective factor during assessments
+
+Assisted Interventions
+- Investigate animal-assisted or companion-based interventions
+
+Community
+- Support responsible pet ownership, especially for isolated individuals
+
+Policy-makers
+- Address wider inequalities and avoid assuming that higher pet ownership improves population mental health and well-being
+
 ## Limitations and Improvements ࿔˚⋆
+
+**Limitations**
+
+- Use of cross-sectional data: although shows uses of different data sources in a project, it cannot prove cause and effect
+- Small sample sizes: only had 11 observations, as it was an investigation into regional levels of well-being
+  - Also, due to ONS Well-being factors not including Northern Ireland, Northern Ireland was not included in this analysis.
+- Self-reported mental health and well-being measures: introduces further bias in the data
+- Secondary survey data was used for this project, therefore some variables were not able to be controlled, such as gender and ethnicity, as it was not clear what the values represented
+- Additionally, there was no data on: quality of pet-owner bond, length of ownership, living conditions, and social economic status, which were variables that may influence the findings
+
+**Future Improvements**
+
+- Longitudinal research designs
+Future studies should track changes of well-being and mental health measures over time in pet and non-pet owners, allowing for stronger inferences about directionality and long-term effects.
+
+- Larger and more granular samples
+Rather than aggregating UK areas into districts prior to analysis, future work could retain area-level data with an added district identifier, allowing findings to be aggregated post-analysis. This would preserve regional variability and improve statistical sensitivity.
+
+- Inclusion of bond quality and caregiving burden
+Including measures of emotional attachment, responsibility, and caregiving demands would help distinguish when pet ownership is protective versus when it may introduce stress.
+
+- Qualitative interviews to capture lived experience
+Interviews or open-ended survey responses could provide further insight into how individuals experience pet ownership in relation to mental health, complementing quantitative findings.
