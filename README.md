@@ -18,8 +18,8 @@
   -  [Tech Stack](#tech-stack)
 - [Analytical Workflow](#analytical-workflow-)
 - [Findings](#findings-)
-  - [Individual-Level Analysis](#individual-level-analysis)
-  - [Population-Level Analysis](#population-level-analysis)
+  - [Individual-Level Analysis](#-individual-level-analysis)
+  - [Population-Level Analysis](#-population-level-analysis)
 - [Lessons and Recommendations](#lessons-and-recommendations-)
 - [Limitations and Improvements](#limitations-and-improvements-) 
 
@@ -54,7 +54,7 @@ To examine the relationship between pet ownership and mental health and well-bei
 
 
 ## *Tools & Materials* ࿔˚⋆
-## **_Data Sources_**
+## 📋**_Data Sources_**
 - [ONS Personal well-being in the UK: April 2022 to March 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)
 - [Dog population per postcode district](https://www.data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district)
 - [Cats Report 2022](https://www.readkong.com/page/cats-report-2022-cats-protection-8207642)
@@ -62,7 +62,7 @@ To examine the relationship between pet ownership and mental health and well-bei
 - [Pet Ownership and Self-Harm in UK Youth: Survey Dataset on Bond Quality, Self-Harm Behaviours, and Suicide Risk](https://doi.org/10.48420/29120819)
 - [Estimates of the population for the UK, England, Wales, Scotland, and Northern Ireland - Mid-2022 Edition](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
 
-## **_Tech Stack_**
+## 💻**_Tech Stack_**
 - Excel
 - Python
 - _Libraries_: Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy, SciPy
@@ -86,7 +86,7 @@ To Summarise:
 - Regions with more pets did not necessarily report better well-being overall
 
 
-### Individual-Level Analysis
+### 🔎Individual-Level Analysis
 
 
 **What did we look at?**
@@ -174,7 +174,7 @@ Individuals who own pets - in this case cats or dogs - tend to report better men
 
 ---
 
-### Population-Level Analysis
+### 🌐Population-Level Analysis
 
 **What did we look at?**   
 We examined whether UK regions with more cats or dogs per 1,000 residents, also reported:
@@ -212,7 +212,7 @@ While pets appear beneficial for individuals, increasing pet ownership at the re
 - Their impact is strongest at the individual level
 - They should be seen as supportive, not curative
 
-**Recommendations**
+📋**Recommendations**
 Mental Health Services
 - Consider pet ownership as a protective factor during assessments
 
@@ -227,7 +227,7 @@ Policy-makers
 
 ## Limitations and Improvements ࿔˚⋆
 
-**Limitations**
+☁️**Limitations**
 
 - Use of cross-sectional data: although shows uses of different data sources in a project, it cannot prove cause and effect
 - Small sample sizes: only had 11 observations, as it was an investigation into regional levels of well-being
@@ -236,7 +236,7 @@ Policy-makers
 - Secondary survey data was used for this project, therefore some variables were not able to be controlled, such as gender and ethnicity, as it was not clear what the values represented
 - Additionally, there was no data on: quality of pet-owner bond, length of ownership, living conditions, and social economic status, which were variables that may influence the findings
 
-**Future Improvements**
+🔮**Future Improvements**
 
 - Longitudinal research designs
 Future studies should track changes of well-being and mental health measures over time in pet and non-pet owners, allowing for stronger inferences about directionality and long-term effects.
