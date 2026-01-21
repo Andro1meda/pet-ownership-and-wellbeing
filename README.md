@@ -18,8 +18,8 @@
   -  [Tech Stack](#tech-stack)
 - [Analytical Workflow](#analytical-workflow-)
 - [Findings](#findings-)
-  - [Individual-Level Analysis](#-individual-level-analysis)
-  - [Population-Level Analysis](#-population-level-analysis)
+  - [Individual-Level Analysis](#individual-level-analysis)
+  - [Population-Level Analysis](#population-level-analysis)
 - [Lessons and Recommendations](#lessons-and-recommendations-)
 - [Limitations and Improvements](#limitations-and-improvements-) 
 
