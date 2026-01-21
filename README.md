@@ -127,7 +127,7 @@ Pet ownership alone does not appear to meaningfully reduce anxiety. Anxiety may 
 
 <img width="1490" height="716" alt="image" src="https://github.com/user-attachments/assets/ddc71951-7723-4897-8732-a52993490419" />
 
-_This coefficient plot shows the estimated coefficients from the regression model - this helps to understand the significance and uncertainty of the relationship between variables_
+_This coefficient plot shows the estimated coefficients from the anxiety regression model - this helps to understand the significance and uncertainty of the relationship between variables. As both coefficients are on the left, this means they are negative (or reduce anxiety), however, as the confidence intervals are covering the red line this means it is not significant._
 
 
 
@@ -147,7 +147,7 @@ Pet ownership may play a supportive role in protecting against depressive sympto
 
 <img width="1476" height="738" alt="image" src="https://github.com/user-attachments/assets/9a34c066-f428-4378-bc1b-46751576f2b8" />
 
-_This coefficient plot for depression shows ..._
+_This coefficient plot for depression shows both coefficient points for cats and dogs on the left side (negative), similar to anxiety. However, as ther are no confidence intervals touching the red line this means they are significant_
 
 
  ---
