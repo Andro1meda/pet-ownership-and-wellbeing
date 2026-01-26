@@ -213,16 +213,17 @@ While pets appear beneficial for individuals, increasing pet ownership at the re
 - They should be seen as supportive, not curative
 
 📋**Recommendations**
-Mental Health Services
+
+**_Mental Health Services_**
 - Consider pet ownership as a protective factor during assessments
 
-Assisted Interventions
+**_Assisted Interventions_**
 - Investigate animal-assisted or companion-based interventions
 
-Community
+**_Community_**  
 - Support responsible pet ownership, especially for isolated individuals
 
-Policy-makers
+**_Policy-makers_**
 - Address wider inequalities and avoid assuming that higher pet ownership improves population mental health and well-being
 
 ## Limitations and Improvements ࿔˚⋆
