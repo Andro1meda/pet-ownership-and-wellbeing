@@ -212,18 +212,20 @@ While pets appear beneficial for individuals, increasing pet ownership at the re
 - Their impact is strongest at the individual level
 - They should be seen as supportive, not curative
 
+✦ ───────── ✦ ───────── ✦
+
 📋**Recommendations**
 
-**_Mental Health Services_**
+**_Mental Health Services:_**
 - Consider pet ownership as a protective factor during assessments
 
-**_Assisted Interventions_**
+**_Assisted Interventions:_**
 - Investigate animal-assisted or companion-based interventions
 
-**_Community_**  
+**_Community:_**  
 - Support responsible pet ownership, especially for isolated individuals
 
-**_Policy-makers_**
+**_Policy-makers:_**
 - Address wider inequalities and avoid assuming that higher pet ownership improves population mental health and well-being
 
 ## Limitations and Improvements ࿔˚⋆
@@ -236,6 +238,8 @@ While pets appear beneficial for individuals, increasing pet ownership at the re
 - Self-reported mental health and well-being measures: introduces further bias in the data
 - Secondary survey data was used for this project, therefore some variables were not able to be controlled, such as gender and ethnicity, as it was not clear what the values represented
 - Additionally, there was no data on: quality of pet-owner bond, length of ownership, living conditions, and social economic status, which were variables that may influence the findings
+
+✦ ───────── ✦ ───────── ✦
 
 🔮**Future Improvements**
 
