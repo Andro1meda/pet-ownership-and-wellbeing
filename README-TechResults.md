@@ -61,7 +61,9 @@ $R^2$ = 0.14
 - Owning more cats or dogs was associated with lower depression scores.
 - The model explained approximately 14% of the variance, which is moderate for psychological data.
 
-<img width="936" height="693" alt="image" src="https://github.com/user-attachments/assets/bcd62774-c9a5-4c0a-a97e-0a32b441dbaa" />
+
+
+<img width="1476" height="738" alt="image" src="https://github.com/user-attachments/assets/cf7bc592-f4a5-422b-b404-b5e8617c4941" />
 
 
 **Interpretation:**   
@@ -96,6 +98,9 @@ Cohen's $d$ = -0.50
 
 - Pet ownership is associated with lower levels of suicidal behaviours.
 - Pet owners reported lower mean SBQ scores compared to non-pet owners.
+
+<img width="936" height="693" alt="image" src="https://github.com/user-attachments/assets/bcd62774-c9a5-4c0a-a97e-0a32b441dbaa" />
+
 
 **Interpretation:**  
 Pet owners reported significantly lower suicidal behaviour scores than non-pet owners. The difference was statistically significant (p < .01) and represented a medium effect size, indicating a meaningful association between pet ownership and reduced suicidal behaviours.
