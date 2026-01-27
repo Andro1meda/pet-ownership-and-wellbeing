@@ -159,5 +159,9 @@ _Dogs per 1000 residents_
 | Anxiety | -0.43   | 0.19    |
 |Happiness|  0.11  | 0.75   |
 
+<img width="1713" height="912" alt="image" src="https://github.com/user-attachments/assets/d7a85c89-4b17-4935-bc35-815a55ae1b43" />
+
+
+
 **Interpretation:**
 At the population level, no statistically significant associations were observed between regional cat or dog ownership rates and well-being outcomes. Although some correlations suggested weak trends—such as higher dog ownership being associated with lower anxiety—these relationships were small and non-significant.
